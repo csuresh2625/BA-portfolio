@@ -1,0 +1,751 @@
+change_id,project,request_type,owner_team,priority,review_days,approval_days,cycle_days,sla_met,estimated_cost_inr,actual_cost_inr,cost_variance_inr,status
+CR0001,Hospitality Interiors,Material,Architecture,Medium,5,4,9,0,85000,96700,11700,Open
+CR0002,Residential Tower,Design,Client Services,Medium,3,3,6,1,15000,11700,-3300,Approved
+CR0003,Retail Fit-out,Material,Architecture,Low,4,4,8,0,125000,173500,48500,Approved
+CR0004,Residential Tower,Site Condition,Architecture,Medium,4,5,9,0,255000,321800,66800,Approved
+CR0005,Residential Tower,Material,Architecture,High,6,2,8,0,45000,59500,14500,Approved
+CR0006,Commercial Office,Design,Procurement,Low,4,5,9,0,215000,162800,-52200,Approved
+CR0007,Retail Fit-out,Scope,Procurement,Medium,7,3,10,0,200000,153600,-46400,Approved
+CR0008,Retail Fit-out,Design,Site,Medium,4,5,9,0,230000,324000,94000,Approved
+CR0009,Residential Tower,Design,Client Services,Medium,2,4,6,1,245000,223400,-21600,Approved
+CR0010,Residential Tower,Material,Client Services,Medium,5,4,9,0,85000,67900,-17100,Open
+CR0011,Residential Tower,Site Condition,Client Services,Medium,3,4,7,1,205000,201100,-3900,Rejected
+CR0012,Retail Fit-out,Material,Site,Medium,6,1,7,1,290000,311300,21300,Approved
+CR0013,Hospitality Interiors,Material,Site,High,4,3,7,1,110000,148700,38700,Approved
+CR0014,Residential Tower,Scope,Architecture,High,7,5,12,0,170000,242000,72000,Approved
+CR0015,Hospitality Interiors,Scope,Site,High,8,3,11,0,225000,205700,-19300,Rejected
+CR0016,Hospitality Interiors,Scope,Procurement,Medium,5,2,7,1,170000,149700,-20300,Approved
+CR0017,Hospitality Interiors,Design,Site,Medium,5,3,8,0,190000,222200,32200,Open
+CR0018,Hospitality Interiors,Material,Client Services,Low,5,3,8,0,90000,103300,13300,Rejected
+CR0019,Hospitality Interiors,Material,Client Services,Medium,3,3,6,1,110000,102500,-7500,Approved
+CR0020,Residential Tower,Design,Procurement,Medium,7,4,11,0,200000,267500,67500,Approved
+CR0021,Hospitality Interiors,Material,Site,Medium,5,4,9,0,160000,206500,46500,Approved
+CR0022,Warehouse Renovation,Material,Site,High,8,3,11,0,95000,128000,33000,Approved
+CR0023,Warehouse Renovation,Scope,Site,Medium,8,2,10,0,215000,181700,-33300,Open
+CR0024,Commercial Office,Design,Client Services,Low,4,4,8,0,245000,331100,86100,Approved
+CR0025,Warehouse Renovation,Design,Procurement,High,6,4,10,0,50000,67200,17200,Rejected
+CR0026,Hospitality Interiors,Material,Procurement,Medium,3,2,5,1,90000,125700,35700,Open
+CR0027,Retail Fit-out,Material,Procurement,Medium,3,4,7,1,295000,346500,51500,Approved
+CR0028,Commercial Office,Design,Architecture,Medium,3,3,6,1,80000,60200,-19800,Rejected
+CR0029,Hospitality Interiors,Design,Architecture,Low,4,6,10,0,95000,127700,32700,Open
+CR0030,Commercial Office,Material,Architecture,Medium,7,1,8,0,245000,346300,101300,Approved
+CR0031,Commercial Office,Scope,Client Services,Low,8,3,11,0,235000,318800,83800,Open
+CR0032,Residential Tower,Scope,Procurement,Medium,7,3,10,0,155000,182400,27400,Approved
+CR0033,Commercial Office,Design,Site,High,5,5,10,0,165000,167200,2200,Approved
+CR0034,Residential Tower,Scope,Architecture,Low,8,3,11,0,110000,131300,21300,Rejected
+CR0035,Residential Tower,Material,Procurement,High,4,5,9,0,110000,132600,22600,Approved
+CR0036,Retail Fit-out,Scope,Client Services,High,7,6,13,0,10000,13900,3900,Rejected
+CR0037,Commercial Office,Material,Client Services,Medium,3,5,8,0,185000,153600,-31400,Open
+CR0038,Retail Fit-out,Design,Site,Low,3,3,6,1,145000,134100,-10900,Approved
+CR0039,Retail Fit-out,Material,Client Services,Medium,1,4,5,1,155000,145100,-9900,Open
+CR0040,Retail Fit-out,Material,Client Services,Medium,6,2,8,0,225000,236000,11000,Open
+CR0041,Warehouse Renovation,Material,Procurement,High,7,4,11,0,35000,48800,13800,Approved
+CR0042,Hospitality Interiors,Material,Client Services,Low,4,4,8,0,300000,307400,7400,Approved
+CR0043,Commercial Office,Design,Site,Medium,4,5,9,0,60000,43600,-16400,Approved
+CR0044,Retail Fit-out,Material,Client Services,Low,8,1,9,0,205000,148200,-56800,Approved
+CR0045,Hospitality Interiors,Scope,Site,Medium,11,1,12,0,270000,257500,-12500,Open
+CR0046,Retail Fit-out,Design,Site,Low,5,4,9,0,145000,158600,13600,Approved
+CR0047,Hospitality Interiors,Design,Procurement,High,8,4,12,0,285000,374500,89500,Approved
+CR0048,Commercial Office,Design,Architecture,High,4,5,9,0,280000,314100,34100,Approved
+CR0049,Commercial Office,Material,Site,Medium,3,3,6,1,20000,20100,100,Approved
+CR0050,Hospitality Interiors,Material,Procurement,Low,3,4,7,1,235000,264200,29200,Rejected
+CR0051,Hospitality Interiors,Scope,Client Services,Medium,6,4,10,0,115000,149900,34900,Approved
+CR0052,Residential Tower,Design,Site,Medium,6,4,10,0,220000,283600,63600,Rejected
+CR0053,Residential Tower,Material,Client Services,Medium,8,2,10,0,170000,231700,61700,Approved
+CR0054,Hospitality Interiors,Scope,Site,Medium,7,2,9,0,110000,147100,37100,Approved
+CR0055,Warehouse Renovation,Design,Client Services,Low,3,5,8,0,215000,240700,25700,Open
+CR0056,Retail Fit-out,Scope,Procurement,High,8,2,10,0,275000,237600,-37400,Open
+CR0057,Retail Fit-out,Scope,Procurement,Medium,8,4,12,0,120000,126300,6300,Open
+CR0058,Commercial Office,Site Condition,Client Services,Medium,6,3,9,0,130000,162200,32200,Approved
+CR0059,Commercial Office,Design,Procurement,Low,3,4,7,1,270000,286200,16200,Approved
+CR0060,Commercial Office,Material,Architecture,Medium,5,4,9,0,225000,233600,8600,Approved
+CR0061,Hospitality Interiors,Design,Architecture,High,6,3,9,0,25000,32200,7200,Rejected
+CR0062,Residential Tower,Scope,Architecture,Medium,6,3,9,0,255000,301000,46000,Rejected
+CR0063,Warehouse Renovation,Scope,Architecture,Medium,9,1,10,0,140000,134100,-5900,Rejected
+CR0064,Commercial Office,Design,Procurement,Medium,3,4,7,1,140000,167200,27200,Approved
+CR0065,Commercial Office,Site Condition,Client Services,High,3,1,4,1,185000,218100,33100,Approved
+CR0066,Retail Fit-out,Scope,Architecture,High,9,2,11,0,155000,116600,-38400,Approved
+CR0067,Residential Tower,Material,Site,Low,2,4,6,1,135000,126600,-8400,Approved
+CR0068,Hospitality Interiors,Site Condition,Client Services,Low,4,4,8,0,295000,363400,68400,Approved
+CR0069,Retail Fit-out,Material,Client Services,High,5,3,8,0,195000,262300,67300,Approved
+CR0070,Warehouse Renovation,Site Condition,Site,Medium,2,1,3,1,120000,115300,-4700,Rejected
+CR0071,Residential Tower,Design,Client Services,Low,6,8,14,0,245000,318500,73500,Approved
+CR0072,Retail Fit-out,Scope,Procurement,Medium,8,2,10,0,100000,85600,-14400,Approved
+CR0073,Commercial Office,Design,Architecture,Medium,2,8,10,0,245000,256800,11800,Approved
+CR0074,Warehouse Renovation,Material,Site,High,8,2,10,0,250000,223100,-26900,Approved
+CR0075,Retail Fit-out,Site Condition,Architecture,Medium,5,5,10,0,165000,201600,36600,Approved
+CR0076,Residential Tower,Design,Architecture,High,6,6,12,0,220000,305500,85500,Approved
+CR0077,Warehouse Renovation,Material,Architecture,Medium,1,1,2,1,30000,31800,1800,Approved
+CR0078,Retail Fit-out,Scope,Architecture,Medium,11,4,15,0,180000,152700,-27300,Approved
+CR0079,Hospitality Interiors,Design,Client Services,High,6,6,12,0,25000,22400,-2600,Approved
+CR0080,Warehouse Renovation,Site Condition,Procurement,Medium,5,2,7,1,195000,164400,-30600,Rejected
+CR0081,Warehouse Renovation,Design,Client Services,Medium,1,5,6,1,200000,272300,72300,Rejected
+CR0082,Commercial Office,Material,Client Services,High,4,1,5,1,190000,219300,29300,Approved
+CR0083,Residential Tower,Material,Site,Low,2,3,5,1,225000,197300,-27700,Approved
+CR0084,Warehouse Renovation,Site Condition,Procurement,High,6,3,9,0,150000,207900,57900,Approved
+CR0085,Hospitality Interiors,Material,Procurement,Medium,6,4,10,0,100000,117300,17300,Approved
+CR0086,Residential Tower,Material,Client Services,Medium,8,2,10,0,200000,229900,29900,Approved
+CR0087,Commercial Office,Design,Site,Medium,4,6,10,0,195000,224300,29300,Approved
+CR0088,Residential Tower,Material,Procurement,High,6,1,7,1,225000,170200,-54800,Approved
+CR0089,Warehouse Renovation,Material,Client Services,Low,4,3,7,1,115000,158900,43900,Approved
+CR0090,Hospitality Interiors,Design,Procurement,High,9,5,14,0,110000,92600,-17400,Rejected
+CR0091,Warehouse Renovation,Material,Client Services,High,6,1,7,1,180000,177900,-2100,Approved
+CR0092,Commercial Office,Material,Site,Medium,5,3,8,0,70000,70700,700,Approved
+CR0093,Residential Tower,Scope,Site,Low,5,2,7,1,220000,169700,-50300,Approved
+CR0094,Hospitality Interiors,Material,Client Services,Medium,2,3,5,1,70000,93700,23700,Approved
+CR0095,Retail Fit-out,Scope,Client Services,High,10,2,12,0,160000,226100,66100,Approved
+CR0096,Retail Fit-out,Scope,Site,High,10,5,15,0,80000,89300,9300,Approved
+CR0097,Warehouse Renovation,Design,Site,High,7,4,11,0,210000,181200,-28800,Open
+CR0098,Hospitality Interiors,Material,Procurement,Medium,7,2,9,0,170000,161700,-8300,Rejected
+CR0099,Commercial Office,Scope,Procurement,Medium,8,3,11,0,120000,142000,22000,Open
+CR0100,Hospitality Interiors,Material,Client Services,High,6,3,9,0,225000,272400,47400,Open
+CR0101,Retail Fit-out,Design,Architecture,Low,7,8,15,0,270000,213300,-56700,Rejected
+CR0102,Retail Fit-out,Material,Procurement,Low,3,3,6,1,135000,156500,21500,Approved
+CR0103,Retail Fit-out,Material,Architecture,Low,2,2,4,1,55000,54000,-1000,Approved
+CR0104,Hospitality Interiors,Design,Client Services,High,5,6,11,0,20000,17300,-2700,Approved
+CR0105,Warehouse Renovation,Site Condition,Architecture,Medium,2,3,5,1,250000,240700,-9300,Approved
+CR0106,Retail Fit-out,Design,Architecture,High,4,5,9,0,125000,98300,-26700,Rejected
+CR0107,Retail Fit-out,Material,Site,Medium,7,1,8,0,45000,52200,7200,Approved
+CR0108,Warehouse Renovation,Site Condition,Procurement,High,4,1,5,1,145000,108500,-36500,Approved
+CR0109,Residential Tower,Design,Site,Low,5,8,13,0,170000,221500,51500,Approved
+CR0110,Commercial Office,Material,Site,High,3,2,5,1,70000,95600,25600,Approved
+CR0111,Commercial Office,Material,Procurement,High,5,2,7,1,75000,55800,-19200,Approved
+CR0112,Commercial Office,Material,Procurement,High,3,4,7,1,195000,144100,-50900,Open
+CR0113,Hospitality Interiors,Design,Site,Medium,2,6,8,0,20000,17800,-2200,Open
+CR0114,Residential Tower,Scope,Architecture,Medium,5,3,8,0,50000,60200,10200,Rejected
+CR0115,Retail Fit-out,Design,Client Services,Medium,4,4,8,0,40000,30600,-9400,Approved
+CR0116,Retail Fit-out,Design,Procurement,Medium,3,4,7,1,180000,206600,26600,Open
+CR0117,Retail Fit-out,Scope,Procurement,Medium,5,4,9,0,165000,181400,16400,Approved
+CR0118,Retail Fit-out,Design,Site,Medium,1,5,6,1,270000,374700,104700,Approved
+CR0119,Commercial Office,Design,Architecture,Low,4,5,9,0,115000,113400,-1600,Approved
+CR0120,Hospitality Interiors,Design,Site,Medium,3,6,9,0,285000,333500,48500,Rejected
+CR0121,Hospitality Interiors,Scope,Architecture,Medium,7,6,13,0,140000,129300,-10700,Open
+CR0122,Residential Tower,Scope,Site,Medium,4,2,6,1,155000,183200,28200,Approved
+CR0123,Residential Tower,Scope,Procurement,Low,5,4,9,0,175000,188400,13400,Approved
+CR0124,Commercial Office,Scope,Procurement,Medium,8,4,12,0,100000,140600,40600,Approved
+CR0125,Retail Fit-out,Design,Architecture,Medium,1,5,6,1,135000,186800,51800,Rejected
+CR0126,Hospitality Interiors,Design,Client Services,High,4,7,11,0,230000,217500,-12500,Rejected
+CR0127,Residential Tower,Design,Architecture,Medium,3,7,10,0,255000,197400,-57600,Approved
+CR0128,Hospitality Interiors,Design,Client Services,Medium,5,3,8,0,285000,393500,108500,Approved
+CR0129,Residential Tower,Material,Architecture,Medium,5,2,7,1,190000,156300,-33700,Approved
+CR0130,Hospitality Interiors,Site Condition,Procurement,Medium,3,4,7,1,15000,18200,3200,Approved
+CR0131,Hospitality Interiors,Design,Architecture,Medium,6,3,9,0,20000,15700,-4300,Approved
+CR0132,Retail Fit-out,Material,Client Services,Low,4,2,6,1,55000,61400,6400,Rejected
+CR0133,Commercial Office,Scope,Client Services,Medium,8,3,11,0,65000,79800,14800,Open
+CR0134,Commercial Office,Design,Site,Medium,6,4,10,0,115000,154500,39500,Approved
+CR0135,Commercial Office,Design,Site,Medium,4,5,9,0,155000,178200,23200,Approved
+CR0136,Hospitality Interiors,Scope,Procurement,High,10,1,11,0,150000,191600,41600,Approved
+CR0137,Commercial Office,Material,Procurement,Medium,3,2,5,1,50000,39200,-10800,Approved
+CR0138,Hospitality Interiors,Scope,Client Services,Low,7,4,11,0,275000,339200,64200,Approved
+CR0139,Retail Fit-out,Site Condition,Architecture,Low,4,2,6,1,105000,100000,-5000,Rejected
+CR0140,Hospitality Interiors,Design,Architecture,Medium,2,3,5,1,230000,276000,46000,Open
+CR0141,Commercial Office,Material,Procurement,Medium,5,2,7,1,75000,96100,21100,Approved
+CR0142,Warehouse Renovation,Design,Client Services,Medium,6,4,10,0,65000,86000,21000,Approved
+CR0143,Commercial Office,Site Condition,Client Services,Medium,5,4,9,0,275000,256400,-18600,Approved
+CR0144,Retail Fit-out,Site Condition,Site,Medium,4,3,7,1,300000,306800,6800,Approved
+CR0145,Residential Tower,Scope,Site,Low,7,1,8,0,30000,32700,2700,Open
+CR0146,Residential Tower,Site Condition,Site,Medium,5,3,8,0,15000,15600,600,Approved
+CR0147,Residential Tower,Scope,Procurement,High,9,5,14,0,200000,276200,76200,Approved
+CR0148,Commercial Office,Scope,Architecture,Medium,5,3,8,0,290000,377400,87400,Rejected
+CR0149,Hospitality Interiors,Design,Client Services,Medium,4,6,10,0,210000,231500,21500,Approved
+CR0150,Commercial Office,Site Condition,Client Services,High,5,1,6,1,190000,159200,-30800,Open
+CR0151,Commercial Office,Scope,Site,Low,5,3,8,0,90000,82200,-7800,Open
+CR0152,Warehouse Renovation,Site Condition,Client Services,High,4,3,7,1,10000,12000,2000,Rejected
+CR0153,Commercial Office,Design,Procurement,Medium,2,3,5,1,80000,98000,18000,Rejected
+CR0154,Hospitality Interiors,Scope,Site,Medium,8,1,9,0,35000,37900,2900,Rejected
+CR0155,Residential Tower,Material,Site,Medium,3,3,6,1,200000,240600,40600,Rejected
+CR0156,Commercial Office,Material,Site,Low,4,3,7,1,225000,318700,93700,Approved
+CR0157,Warehouse Renovation,Material,Client Services,High,6,3,9,0,265000,320800,55800,Rejected
+CR0158,Commercial Office,Material,Site,High,7,4,11,0,140000,145700,5700,Rejected
+CR0159,Warehouse Renovation,Scope,Site,Low,6,3,9,0,10000,11100,1100,Open
+CR0160,Hospitality Interiors,Material,Architecture,Medium,3,3,6,1,110000,79200,-30800,Open
+CR0161,Hospitality Interiors,Material,Site,Medium,3,3,6,1,185000,206600,21600,Approved
+CR0162,Warehouse Renovation,Scope,Architecture,Medium,8,3,11,0,115000,152300,37300,Open
+CR0163,Hospitality Interiors,Scope,Procurement,High,10,4,14,0,270000,316600,46600,Approved
+CR0164,Warehouse Renovation,Site Condition,Architecture,Low,4,4,8,0,45000,34900,-10100,Approved
+CR0165,Commercial Office,Design,Client Services,Low,5,4,9,0,290000,382900,92900,Rejected
+CR0166,Hospitality Interiors,Material,Procurement,High,5,6,11,0,270000,206700,-63300,Open
+CR0167,Retail Fit-out,Design,Architecture,Medium,2,6,8,0,125000,110800,-14200,Open
+CR0168,Warehouse Renovation,Design,Site,Medium,4,6,10,0,185000,189000,4000,Open
+CR0169,Commercial Office,Design,Site,Medium,2,6,8,0,235000,184300,-50700,Approved
+CR0170,Hospitality Interiors,Material,Client Services,Medium,4,3,7,1,155000,188400,33400,Approved
+CR0171,Residential Tower,Design,Architecture,Medium,1,5,6,1,70000,80000,10000,Approved
+CR0172,Hospitality Interiors,Design,Client Services,Medium,3,3,6,1,265000,214500,-50500,Rejected
+CR0173,Warehouse Renovation,Design,Architecture,Medium,5,5,10,0,180000,217200,37200,Approved
+CR0174,Residential Tower,Scope,Procurement,Medium,5,3,8,0,165000,145100,-19900,Approved
+CR0175,Retail Fit-out,Design,Site,Medium,4,3,7,1,135000,101100,-33900,Approved
+CR0176,Warehouse Renovation,Scope,Site,Medium,4,3,7,1,55000,71700,16700,Open
+CR0177,Residential Tower,Site Condition,Site,Medium,2,2,4,1,245000,284800,39800,Approved
+CR0178,Warehouse Renovation,Design,Client Services,Low,2,3,5,1,180000,144100,-35900,Open
+CR0179,Warehouse Renovation,Site Condition,Client Services,Medium,5,3,8,0,230000,233000,3000,Rejected
+CR0180,Commercial Office,Material,Client Services,Medium,5,4,9,0,160000,144800,-15200,Approved
+CR0181,Hospitality Interiors,Design,Client Services,Medium,1,4,5,1,270000,365000,95000,Approved
+CR0182,Warehouse Renovation,Scope,Site,Medium,5,4,9,0,270000,338300,68300,Approved
+CR0183,Hospitality Interiors,Site Condition,Site,Medium,6,1,7,1,120000,96600,-23400,Approved
+CR0184,Residential Tower,Site Condition,Client Services,Medium,4,3,7,1,170000,231900,61900,Approved
+CR0185,Residential Tower,Design,Client Services,Medium,4,6,10,0,225000,178300,-46700,Approved
+CR0186,Warehouse Renovation,Material,Site,Low,3,1,4,1,275000,350900,75900,Approved
+CR0187,Warehouse Renovation,Design,Site,High,4,3,7,1,10000,10900,900,Approved
+CR0188,Hospitality Interiors,Design,Architecture,Medium,1,6,7,1,125000,178300,53300,Open
+CR0189,Hospitality Interiors,Scope,Procurement,High,7,4,11,0,190000,267700,77700,Rejected
+CR0190,Warehouse Renovation,Scope,Client Services,Medium,4,5,9,0,175000,230200,55200,Approved
+CR0191,Commercial Office,Scope,Procurement,Low,6,3,9,0,225000,307000,82000,Open
+CR0192,Residential Tower,Design,Site,Medium,6,5,11,0,20000,28500,8500,Approved
+CR0193,Warehouse Renovation,Material,Site,Medium,3,4,7,1,180000,209900,29900,Open
+CR0194,Warehouse Renovation,Site Condition,Site,Medium,4,6,10,0,40000,33000,-7000,Rejected
+CR0195,Retail Fit-out,Material,Procurement,Medium,4,2,6,1,150000,110400,-39600,Approved
+CR0196,Residential Tower,Site Condition,Procurement,Medium,3,1,4,1,200000,199700,-300,Rejected
+CR0197,Residential Tower,Scope,Client Services,Medium,6,4,10,0,15000,16100,1100,Approved
+CR0198,Residential Tower,Scope,Procurement,High,6,2,8,0,85000,93300,8300,Approved
+CR0199,Commercial Office,Scope,Site,Medium,4,4,8,0,35000,46500,11500,Approved
+CR0200,Retail Fit-out,Scope,Site,Medium,8,3,11,0,50000,50400,400,Approved
+CR0201,Commercial Office,Material,Site,Medium,1,1,2,1,60000,71100,11100,Rejected
+CR0202,Warehouse Renovation,Material,Architecture,Medium,4,3,7,1,70000,77900,7900,Approved
+CR0203,Retail Fit-out,Site Condition,Procurement,High,8,4,12,0,125000,175300,50300,Approved
+CR0204,Retail Fit-out,Design,Site,Low,3,4,7,1,25000,27600,2600,Approved
+CR0205,Residential Tower,Scope,Client Services,Medium,7,2,9,0,25000,19800,-5200,Open
+CR0206,Commercial Office,Design,Site,Low,4,6,10,0,70000,59300,-10700,Approved
+CR0207,Warehouse Renovation,Scope,Procurement,High,9,4,13,0,235000,245900,10900,Rejected
+CR0208,Residential Tower,Scope,Site,High,8,1,9,0,110000,98900,-11100,Rejected
+CR0209,Commercial Office,Site Condition,Client Services,High,9,4,13,0,275000,329200,54200,Approved
+CR0210,Residential Tower,Material,Site,Medium,3,3,6,1,125000,159300,34300,Open
+CR0211,Hospitality Interiors,Design,Procurement,Medium,5,4,9,0,235000,257200,22200,Approved
+CR0212,Retail Fit-out,Site Condition,Procurement,High,7,4,11,0,160000,197700,37700,Approved
+CR0213,Retail Fit-out,Material,Client Services,Medium,5,3,8,0,260000,286800,26800,Approved
+CR0214,Hospitality Interiors,Design,Architecture,Medium,2,7,9,0,45000,39700,-5300,Approved
+CR0215,Hospitality Interiors,Material,Architecture,Medium,5,3,8,0,30000,27400,-2600,Rejected
+CR0216,Retail Fit-out,Material,Architecture,Medium,2,7,9,0,35000,33400,-1600,Approved
+CR0217,Commercial Office,Design,Procurement,High,4,4,8,0,60000,63900,3900,Approved
+CR0218,Hospitality Interiors,Scope,Procurement,Medium,9,4,13,0,110000,95900,-14100,Approved
+CR0219,Retail Fit-out,Scope,Client Services,Medium,10,1,11,0,150000,113700,-36300,Approved
+CR0220,Residential Tower,Site Condition,Procurement,High,5,2,7,1,145000,183600,38600,Rejected
+CR0221,Commercial Office,Material,Site,High,6,2,8,0,210000,211700,1700,Approved
+CR0222,Residential Tower,Material,Procurement,Medium,4,1,5,1,110000,131700,21700,Approved
+CR0223,Retail Fit-out,Material,Client Services,Medium,3,2,5,1,185000,145400,-39600,Approved
+CR0224,Retail Fit-out,Scope,Procurement,Medium,7,5,12,0,145000,146500,1500,Approved
+CR0225,Commercial Office,Scope,Architecture,Medium,8,3,11,0,105000,85900,-19100,Approved
+CR0226,Hospitality Interiors,Scope,Architecture,Low,5,6,11,0,150000,159700,9700,Approved
+CR0227,Hospitality Interiors,Material,Site,Medium,5,3,8,0,35000,37900,2900,Approved
+CR0228,Retail Fit-out,Design,Procurement,Low,3,6,9,0,270000,232800,-37200,Approved
+CR0229,Warehouse Renovation,Design,Client Services,Medium,4,3,7,1,160000,127100,-32900,Rejected
+CR0230,Residential Tower,Material,Architecture,Low,5,3,8,0,190000,192900,2900,Approved
+CR0231,Commercial Office,Scope,Site,Medium,5,3,8,0,35000,37100,2100,Approved
+CR0232,Warehouse Renovation,Scope,Architecture,Medium,4,1,5,1,60000,68300,8300,Rejected
+CR0233,Residential Tower,Design,Client Services,Medium,2,3,5,1,75000,71600,-3400,Approved
+CR0234,Residential Tower,Design,Client Services,Medium,2,3,5,1,70000,65500,-4500,Rejected
+CR0235,Hospitality Interiors,Scope,Procurement,Medium,6,1,7,1,65000,92100,27100,Approved
+CR0236,Warehouse Renovation,Material,Architecture,Low,3,3,6,1,20000,17300,-2700,Approved
+CR0237,Commercial Office,Material,Site,Medium,3,4,7,1,280000,259900,-20100,Open
+CR0238,Retail Fit-out,Material,Site,Medium,2,3,5,1,125000,101400,-23600,Approved
+CR0239,Commercial Office,Material,Site,High,4,4,8,0,210000,270800,60800,Open
+CR0240,Retail Fit-out,Design,Client Services,Low,3,5,8,0,10000,10900,900,Rejected
+CR0241,Residential Tower,Site Condition,Site,Medium,2,3,5,1,255000,273100,18100,Approved
+CR0242,Warehouse Renovation,Material,Procurement,Medium,1,1,2,1,185000,205800,20800,Open
+CR0243,Hospitality Interiors,Design,Site,Medium,3,6,9,0,145000,184300,39300,Approved
+CR0244,Warehouse Renovation,Material,Site,Medium,8,1,9,0,200000,157200,-42800,Approved
+CR0245,Hospitality Interiors,Material,Procurement,Medium,6,3,9,0,140000,135300,-4700,Approved
+CR0246,Residential Tower,Material,Site,Medium,2,1,3,1,65000,81600,16600,Approved
+CR0247,Commercial Office,Scope,Architecture,High,9,4,13,0,90000,84600,-5400,Approved
+CR0248,Commercial Office,Scope,Site,High,7,2,9,0,220000,254400,34400,Rejected
+CR0249,Retail Fit-out,Design,Procurement,High,3,7,10,0,265000,313200,48200,Approved
+CR0250,Retail Fit-out,Scope,Procurement,Medium,7,4,11,0,65000,82200,17200,Approved
+CR0251,Retail Fit-out,Site Condition,Client Services,Medium,4,4,8,0,265000,268600,3600,Approved
+CR0252,Retail Fit-out,Material,Site,High,3,2,5,1,110000,104500,-5500,Approved
+CR0253,Warehouse Renovation,Material,Site,Medium,6,1,7,1,160000,122500,-37500,Rejected
+CR0254,Warehouse Renovation,Material,Procurement,Low,4,5,9,0,30000,27300,-2700,Open
+CR0255,Residential Tower,Material,Architecture,Medium,4,3,7,1,175000,131400,-43600,Open
+CR0256,Warehouse Renovation,Design,Architecture,Medium,4,5,9,0,270000,360200,90200,Rejected
+CR0257,Hospitality Interiors,Scope,Architecture,Low,5,3,8,0,220000,226000,6000,Rejected
+CR0258,Commercial Office,Design,Architecture,High,4,4,8,0,145000,130200,-14800,Rejected
+CR0259,Hospitality Interiors,Material,Procurement,High,6,4,10,0,200000,257400,57400,Approved
+CR0260,Commercial Office,Scope,Client Services,Low,6,4,10,0,200000,263200,63200,Rejected
+CR0261,Residential Tower,Design,Site,High,7,5,12,0,195000,227800,32800,Approved
+CR0262,Retail Fit-out,Scope,Procurement,Medium,9,2,11,0,105000,121400,16400,Open
+CR0263,Commercial Office,Material,Site,High,5,3,8,0,240000,228500,-11500,Approved
+CR0264,Warehouse Renovation,Site Condition,Site,High,8,3,11,0,180000,213100,33100,Approved
+CR0265,Warehouse Renovation,Material,Client Services,Low,5,2,7,1,140000,119000,-21000,Approved
+CR0266,Commercial Office,Scope,Client Services,High,6,2,8,0,105000,85600,-19400,Approved
+CR0267,Hospitality Interiors,Material,Architecture,High,7,4,11,0,75000,97500,22500,Open
+CR0268,Commercial Office,Site Condition,Site,Medium,3,3,6,1,235000,173000,-62000,Approved
+CR0269,Retail Fit-out,Site Condition,Client Services,Medium,5,4,9,0,140000,176400,36400,Approved
+CR0270,Warehouse Renovation,Scope,Site,Medium,4,2,6,1,155000,217900,62900,Open
+CR0271,Commercial Office,Scope,Site,Medium,7,4,11,0,140000,159200,19200,Approved
+CR0272,Hospitality Interiors,Material,Client Services,Medium,5,2,7,1,50000,43600,-6400,Open
+CR0273,Residential Tower,Design,Site,Low,4,3,7,1,65000,58700,-6300,Rejected
+CR0274,Residential Tower,Material,Architecture,Low,6,4,10,0,190000,235800,45800,Approved
+CR0275,Warehouse Renovation,Material,Site,Medium,4,3,7,1,15000,15200,200,Rejected
+CR0276,Residential Tower,Scope,Procurement,Low,5,1,6,1,25000,22200,-2800,Open
+CR0277,Hospitality Interiors,Scope,Client Services,High,10,2,12,0,130000,150400,20400,Approved
+CR0278,Warehouse Renovation,Material,Procurement,Medium,4,3,7,1,250000,198300,-51700,Rejected
+CR0279,Commercial Office,Design,Architecture,High,7,5,12,0,275000,235400,-39600,Approved
+CR0280,Hospitality Interiors,Site Condition,Client Services,Medium,5,5,10,0,280000,328800,48800,Rejected
+CR0281,Commercial Office,Scope,Architecture,High,6,3,9,0,210000,291900,81900,Open
+CR0282,Commercial Office,Material,Site,High,4,1,5,1,280000,340000,60000,Rejected
+CR0283,Warehouse Renovation,Design,Procurement,Medium,2,4,6,1,200000,172700,-27300,Rejected
+CR0284,Warehouse Renovation,Design,Procurement,High,6,6,12,0,250000,261900,11900,Approved
+CR0285,Hospitality Interiors,Site Condition,Procurement,High,5,4,9,0,205000,187600,-17400,Approved
+CR0286,Warehouse Renovation,Design,Site,Low,4,3,7,1,70000,60000,-10000,Approved
+CR0287,Hospitality Interiors,Design,Client Services,Medium,5,4,9,0,190000,142000,-48000,Approved
+CR0288,Retail Fit-out,Material,Client Services,Medium,2,3,5,1,30000,22000,-8000,Approved
+CR0289,Hospitality Interiors,Site Condition,Client Services,Medium,3,2,5,1,275000,310500,35500,Rejected
+CR0290,Retail Fit-out,Scope,Architecture,Low,10,3,13,0,260000,204300,-55700,Open
+CR0291,Warehouse Renovation,Material,Client Services,Medium,3,3,6,1,140000,104100,-35900,Approved
+CR0292,Hospitality Interiors,Site Condition,Client Services,High,6,4,10,0,215000,271400,56400,Approved
+CR0293,Warehouse Renovation,Scope,Client Services,Low,9,4,13,0,70000,53400,-16600,Approved
+CR0294,Warehouse Renovation,Material,Site,Medium,1,1,2,1,50000,67400,17400,Approved
+CR0295,Warehouse Renovation,Scope,Client Services,High,7,1,8,0,30000,32100,2100,Approved
+CR0296,Hospitality Interiors,Material,Procurement,Medium,3,2,5,1,260000,277600,17600,Approved
+CR0297,Residential Tower,Design,Architecture,Medium,2,6,8,0,105000,92100,-12900,Approved
+CR0298,Residential Tower,Material,Procurement,High,7,3,10,0,125000,116900,-8100,Approved
+CR0299,Commercial Office,Design,Site,High,7,7,14,0,185000,241100,56100,Rejected
+CR0300,Retail Fit-out,Site Condition,Client Services,Medium,4,1,5,1,145000,171900,26900,Approved
+CR0301,Hospitality Interiors,Site Condition,Procurement,High,5,2,7,1,265000,250000,-15000,Approved
+CR0302,Residential Tower,Scope,Client Services,Medium,10,5,15,0,125000,150300,25300,Approved
+CR0303,Retail Fit-out,Design,Procurement,Low,3,8,11,0,300000,410800,110800,Approved
+CR0304,Hospitality Interiors,Site Condition,Procurement,Medium,2,3,5,1,120000,165600,45600,Approved
+CR0305,Commercial Office,Scope,Client Services,High,8,1,9,0,155000,211400,56400,Approved
+CR0306,Commercial Office,Material,Architecture,Low,4,3,7,1,230000,290700,60700,Approved
+CR0307,Commercial Office,Scope,Architecture,Medium,5,2,7,1,80000,63500,-16500,Approved
+CR0308,Commercial Office,Scope,Architecture,High,8,1,9,0,180000,163400,-16600,Approved
+CR0309,Hospitality Interiors,Scope,Client Services,Medium,7,4,11,0,50000,53100,3100,Rejected
+CR0310,Residential Tower,Site Condition,Client Services,Medium,6,2,8,0,235000,239300,4300,Approved
+CR0311,Hospitality Interiors,Design,Procurement,Low,7,6,13,0,150000,142500,-7500,Approved
+CR0312,Residential Tower,Site Condition,Client Services,Medium,9,5,14,0,50000,36600,-13400,Approved
+CR0313,Commercial Office,Material,Procurement,Medium,4,4,8,0,135000,187100,52100,Open
+CR0314,Residential Tower,Design,Procurement,Medium,3,3,6,1,60000,68800,8800,Approved
+CR0315,Residential Tower,Design,Site,Medium,5,6,11,0,225000,294900,69900,Approved
+CR0316,Commercial Office,Material,Architecture,High,7,3,10,0,140000,124400,-15600,Approved
+CR0317,Hospitality Interiors,Scope,Site,Low,6,4,10,0,200000,172800,-27200,Approved
+CR0318,Retail Fit-out,Scope,Site,Low,4,4,8,0,135000,117000,-18000,Open
+CR0319,Retail Fit-out,Design,Procurement,High,5,4,9,0,120000,121600,1600,Rejected
+CR0320,Warehouse Renovation,Site Condition,Client Services,Low,2,4,6,1,15000,16900,1900,Open
+CR0321,Retail Fit-out,Material,Client Services,Medium,2,2,4,1,10000,8400,-1600,Approved
+CR0322,Commercial Office,Scope,Architecture,High,10,3,13,0,70000,83700,13700,Approved
+CR0323,Commercial Office,Design,Site,Medium,6,5,11,0,205000,286700,81700,Rejected
+CR0324,Residential Tower,Design,Client Services,Medium,4,5,9,0,15000,19400,4400,Approved
+CR0325,Commercial Office,Scope,Procurement,Medium,7,3,10,0,35000,43600,8600,Approved
+CR0326,Commercial Office,Site Condition,Procurement,Medium,7,2,9,0,35000,45800,10800,Approved
+CR0327,Warehouse Renovation,Design,Client Services,Medium,2,4,6,1,110000,144600,34600,Open
+CR0328,Retail Fit-out,Site Condition,Architecture,High,4,2,6,1,275000,240700,-34300,Approved
+CR0329,Warehouse Renovation,Material,Client Services,Medium,3,2,5,1,110000,81900,-28100,Open
+CR0330,Warehouse Renovation,Design,Site,Low,3,5,8,0,50000,64400,14400,Approved
+CR0331,Commercial Office,Design,Site,Medium,4,6,10,0,80000,61400,-18600,Approved
+CR0332,Residential Tower,Design,Architecture,Low,3,3,6,1,245000,193400,-51600,Rejected
+CR0333,Residential Tower,Scope,Client Services,Medium,10,1,11,0,65000,60400,-4600,Rejected
+CR0334,Warehouse Renovation,Site Condition,Architecture,Medium,5,4,9,0,285000,360400,75400,Approved
+CR0335,Warehouse Renovation,Scope,Site,High,9,4,13,0,50000,59900,9900,Approved
+CR0336,Warehouse Renovation,Site Condition,Client Services,Low,8,3,11,0,240000,283400,43400,Approved
+CR0337,Residential Tower,Site Condition,Procurement,High,4,2,6,1,60000,62300,2300,Approved
+CR0338,Commercial Office,Design,Procurement,Low,1,5,6,1,55000,57400,2400,Rejected
+CR0339,Residential Tower,Scope,Client Services,Medium,5,3,8,0,20000,26000,6000,Approved
+CR0340,Commercial Office,Scope,Procurement,Medium,8,4,12,0,100000,100500,500,Rejected
+CR0341,Retail Fit-out,Scope,Procurement,Medium,5,6,11,0,180000,131100,-48900,Approved
+CR0342,Hospitality Interiors,Material,Site,Low,4,2,6,1,260000,294100,34100,Approved
+CR0343,Commercial Office,Design,Client Services,Low,2,3,5,1,135000,106500,-28500,Approved
+CR0344,Commercial Office,Material,Procurement,High,4,5,9,0,75000,55200,-19800,Open
+CR0345,Commercial Office,Scope,Site,Low,7,2,9,0,40000,47800,7800,Approved
+CR0346,Residential Tower,Site Condition,Client Services,Medium,5,2,7,1,135000,156000,21000,Approved
+CR0347,Residential Tower,Material,Procurement,High,7,3,10,0,30000,29700,-300,Approved
+CR0348,Hospitality Interiors,Material,Procurement,Medium,4,1,5,1,295000,222700,-72300,Rejected
+CR0349,Warehouse Renovation,Site Condition,Site,High,6,2,8,0,45000,40800,-4200,Approved
+CR0350,Commercial Office,Scope,Site,Medium,10,3,13,0,270000,315000,45000,Approved
+CR0351,Hospitality Interiors,Design,Client Services,High,7,4,11,0,220000,261900,41900,Approved
+CR0352,Commercial Office,Scope,Client Services,Medium,7,2,9,0,270000,324000,54000,Approved
+CR0353,Retail Fit-out,Design,Architecture,High,4,6,10,0,300000,281300,-18700,Approved
+CR0354,Warehouse Renovation,Material,Site,Medium,4,2,6,1,160000,117100,-42900,Approved
+CR0355,Residential Tower,Material,Architecture,High,8,3,11,0,105000,127500,22500,Rejected
+CR0356,Warehouse Renovation,Design,Site,Medium,6,7,13,0,235000,173100,-61900,Approved
+CR0357,Residential Tower,Scope,Client Services,High,8,5,13,0,20000,24900,4900,Rejected
+CR0358,Hospitality Interiors,Design,Architecture,Medium,5,3,8,0,150000,112200,-37800,Approved
+CR0359,Hospitality Interiors,Material,Architecture,Medium,6,4,10,0,50000,54000,4000,Approved
+CR0360,Retail Fit-out,Scope,Site,Medium,6,5,11,0,110000,85300,-24700,Rejected
+CR0361,Retail Fit-out,Design,Client Services,Medium,3,5,8,0,230000,292800,62800,Approved
+CR0362,Commercial Office,Design,Procurement,Low,4,6,10,0,190000,166100,-23900,Approved
+CR0363,Warehouse Renovation,Site Condition,Site,Medium,5,5,10,0,300000,352600,52600,Approved
+CR0364,Residential Tower,Scope,Architecture,Medium,7,4,11,0,70000,73800,3800,Approved
+CR0365,Warehouse Renovation,Site Condition,Procurement,Low,5,2,7,1,295000,250500,-44500,Rejected
+CR0366,Warehouse Renovation,Design,Procurement,Medium,2,4,6,1,35000,33600,-1400,Open
+CR0367,Retail Fit-out,Design,Client Services,Medium,5,5,10,0,165000,137000,-28000,Open
+CR0368,Residential Tower,Scope,Client Services,Medium,6,2,8,0,160000,190800,30800,Open
+CR0369,Commercial Office,Design,Architecture,Medium,1,4,5,1,280000,275900,-4100,Approved
+CR0370,Residential Tower,Site Condition,Procurement,Low,4,1,5,1,200000,216800,16800,Rejected
+CR0371,Retail Fit-out,Design,Procurement,Low,6,5,11,0,10000,12300,2300,Approved
+CR0372,Commercial Office,Design,Procurement,Medium,5,3,8,0,155000,176100,21100,Approved
+CR0373,Commercial Office,Scope,Procurement,Medium,7,1,8,0,110000,94000,-16000,Approved
+CR0374,Residential Tower,Material,Procurement,Medium,3,4,7,1,160000,224100,64100,Approved
+CR0375,Commercial Office,Scope,Architecture,Medium,10,5,15,0,290000,273500,-16500,Rejected
+CR0376,Retail Fit-out,Site Condition,Site,Medium,6,3,9,0,70000,92900,22900,Open
+CR0377,Retail Fit-out,Material,Architecture,High,7,4,11,0,245000,331300,86300,Approved
+CR0378,Hospitality Interiors,Material,Client Services,Medium,4,4,8,0,290000,316200,26200,Approved
+CR0379,Warehouse Renovation,Material,Procurement,Medium,6,6,12,0,215000,196400,-18600,Approved
+CR0380,Hospitality Interiors,Material,Procurement,High,3,2,5,1,210000,245200,35200,Rejected
+CR0381,Residential Tower,Site Condition,Client Services,Medium,4,3,7,1,255000,230400,-24600,Approved
+CR0382,Warehouse Renovation,Site Condition,Procurement,Medium,3,1,4,1,100000,132200,32200,Rejected
+CR0383,Warehouse Renovation,Site Condition,Site,Medium,4,2,6,1,110000,90700,-19300,Approved
+CR0384,Hospitality Interiors,Material,Procurement,Low,5,4,9,0,25000,30900,5900,Approved
+CR0385,Commercial Office,Material,Procurement,Medium,4,2,6,1,165000,212500,47500,Approved
+CR0386,Retail Fit-out,Design,Site,Medium,7,4,11,0,25000,20200,-4800,Approved
+CR0387,Residential Tower,Design,Procurement,Medium,4,5,9,0,215000,157400,-57600,Approved
+CR0388,Retail Fit-out,Site Condition,Client Services,Medium,7,3,10,0,265000,292900,27900,Approved
+CR0389,Retail Fit-out,Scope,Architecture,Medium,7,3,10,0,130000,112800,-17200,Rejected
+CR0390,Commercial Office,Material,Architecture,Medium,6,4,10,0,255000,294200,39200,Approved
+CR0391,Commercial Office,Design,Architecture,Low,3,5,8,0,30000,21900,-8100,Approved
+CR0392,Residential Tower,Material,Procurement,Low,1,3,4,1,150000,157100,7100,Rejected
+CR0393,Retail Fit-out,Site Condition,Architecture,High,3,2,5,1,255000,330000,75000,Approved
+CR0394,Commercial Office,Material,Architecture,High,6,2,8,0,125000,91500,-33500,Approved
+CR0395,Retail Fit-out,Material,Architecture,High,5,2,7,1,300000,335800,35800,Approved
+CR0396,Warehouse Renovation,Site Condition,Procurement,Medium,4,1,5,1,100000,121500,21500,Approved
+CR0397,Commercial Office,Design,Procurement,Medium,4,5,9,0,50000,62700,12700,Approved
+CR0398,Retail Fit-out,Scope,Architecture,Medium,8,1,9,0,55000,68200,13200,Open
+CR0399,Warehouse Renovation,Scope,Client Services,Low,8,6,14,0,275000,236600,-38400,Approved
+CR0400,Residential Tower,Scope,Client Services,Medium,9,4,13,0,215000,274500,59500,Approved
+CR0401,Hospitality Interiors,Design,Architecture,Medium,5,4,9,0,295000,351200,56200,Approved
+CR0402,Commercial Office,Site Condition,Client Services,Low,4,4,8,0,110000,123800,13800,Rejected
+CR0403,Residential Tower,Material,Architecture,Low,3,5,8,0,50000,41300,-8700,Rejected
+CR0404,Warehouse Renovation,Material,Site,Medium,2,3,5,1,220000,159200,-60800,Approved
+CR0405,Warehouse Renovation,Scope,Client Services,Low,7,3,10,0,185000,243500,58500,Approved
+CR0406,Warehouse Renovation,Site Condition,Architecture,Medium,4,2,6,1,45000,42000,-3000,Rejected
+CR0407,Hospitality Interiors,Material,Site,Medium,3,5,8,0,60000,48600,-11400,Rejected
+CR0408,Hospitality Interiors,Design,Architecture,Medium,6,5,11,0,120000,125200,5200,Open
+CR0409,Retail Fit-out,Material,Client Services,Low,3,1,4,1,110000,155200,45200,Approved
+CR0410,Residential Tower,Material,Procurement,Low,5,3,8,0,220000,222200,2200,Open
+CR0411,Retail Fit-out,Scope,Architecture,Medium,4,4,8,0,75000,67700,-7300,Approved
+CR0412,Hospitality Interiors,Design,Procurement,Medium,6,5,11,0,95000,103300,8300,Approved
+CR0413,Commercial Office,Material,Architecture,Medium,6,2,8,0,270000,239000,-31000,Approved
+CR0414,Residential Tower,Design,Site,Medium,3,3,6,1,190000,256400,66400,Approved
+CR0415,Hospitality Interiors,Scope,Site,Low,8,2,10,0,255000,288500,33500,Approved
+CR0416,Warehouse Renovation,Material,Site,High,3,1,4,1,260000,270400,10400,Approved
+CR0417,Warehouse Renovation,Scope,Client Services,Medium,4,1,5,1,200000,284400,84400,Rejected
+CR0418,Retail Fit-out,Material,Procurement,Low,4,3,7,1,255000,209900,-45100,Approved
+CR0419,Commercial Office,Scope,Client Services,Low,9,2,11,0,50000,64400,14400,Approved
+CR0420,Retail Fit-out,Site Condition,Site,Low,4,1,5,1,230000,286200,56200,Open
+CR0421,Retail Fit-out,Site Condition,Client Services,Low,3,5,8,0,295000,278100,-16900,Open
+CR0422,Commercial Office,Site Condition,Architecture,Medium,4,3,7,1,275000,245200,-29800,Approved
+CR0423,Commercial Office,Scope,Procurement,Medium,4,1,5,1,295000,289900,-5100,Approved
+CR0424,Retail Fit-out,Design,Site,Medium,1,6,7,1,190000,248100,58100,Approved
+CR0425,Hospitality Interiors,Material,Site,High,6,3,9,0,35000,40600,5600,Approved
+CR0426,Retail Fit-out,Material,Site,High,5,5,10,0,175000,228500,53500,Approved
+CR0427,Retail Fit-out,Design,Architecture,Low,5,4,9,0,120000,105100,-14900,Approved
+CR0428,Commercial Office,Design,Architecture,High,6,4,10,0,205000,168800,-36200,Approved
+CR0429,Residential Tower,Site Condition,Procurement,Medium,1,3,4,1,200000,184500,-15500,Rejected
+CR0430,Residential Tower,Material,Site,Low,5,3,8,0,220000,214000,-6000,Open
+CR0431,Commercial Office,Design,Procurement,Medium,5,3,8,0,165000,197100,32100,Rejected
+CR0432,Hospitality Interiors,Scope,Client Services,Low,6,4,10,0,190000,137100,-52900,Approved
+CR0433,Retail Fit-out,Design,Site,Medium,2,4,6,1,75000,66600,-8400,Approved
+CR0434,Commercial Office,Design,Procurement,Medium,5,6,11,0,180000,134800,-45200,Approved
+CR0435,Warehouse Renovation,Scope,Procurement,Medium,7,5,12,0,55000,44100,-10900,Approved
+CR0436,Commercial Office,Design,Site,Medium,1,5,6,1,115000,119800,4800,Open
+CR0437,Commercial Office,Design,Architecture,Medium,1,4,5,1,155000,173000,18000,Rejected
+CR0438,Commercial Office,Design,Procurement,Medium,3,4,7,1,300000,239200,-60800,Approved
+CR0439,Retail Fit-out,Scope,Client Services,Low,10,3,13,0,200000,249800,49800,Approved
+CR0440,Warehouse Renovation,Scope,Architecture,Low,7,3,10,0,300000,304900,4900,Approved
+CR0441,Retail Fit-out,Scope,Architecture,High,9,3,12,0,85000,75100,-9900,Approved
+CR0442,Warehouse Renovation,Design,Client Services,Low,4,4,8,0,230000,309200,79200,Approved
+CR0443,Retail Fit-out,Scope,Architecture,Medium,8,3,11,0,295000,304900,9900,Approved
+CR0444,Hospitality Interiors,Material,Procurement,High,3,2,5,1,195000,196500,1500,Approved
+CR0445,Warehouse Renovation,Design,Client Services,Medium,5,4,9,0,15000,14500,-500,Approved
+CR0446,Residential Tower,Scope,Procurement,Medium,5,1,6,1,145000,115700,-29300,Rejected
+CR0447,Retail Fit-out,Scope,Client Services,Low,10,3,13,0,270000,293900,23900,Approved
+CR0448,Hospitality Interiors,Scope,Site,Medium,7,4,11,0,230000,232300,2300,Rejected
+CR0449,Hospitality Interiors,Scope,Procurement,Medium,7,2,9,0,110000,114500,4500,Approved
+CR0450,Residential Tower,Site Condition,Client Services,High,6,2,8,0,225000,310800,85800,Approved
+CR0451,Commercial Office,Scope,Client Services,Low,4,2,6,1,260000,359000,99000,Approved
+CR0452,Hospitality Interiors,Scope,Client Services,High,7,2,9,0,255000,346100,91100,Open
+CR0453,Residential Tower,Scope,Site,Medium,4,3,7,1,180000,154800,-25200,Approved
+CR0454,Warehouse Renovation,Scope,Client Services,Low,6,3,9,0,235000,333500,98500,Approved
+CR0455,Retail Fit-out,Scope,Procurement,Low,7,2,9,0,105000,142800,37800,Approved
+CR0456,Hospitality Interiors,Design,Site,Medium,6,5,11,0,160000,154100,-5900,Open
+CR0457,Residential Tower,Design,Site,Low,5,4,9,0,300000,380000,80000,Rejected
+CR0458,Retail Fit-out,Scope,Site,High,8,1,9,0,115000,104100,-10900,Rejected
+CR0459,Warehouse Renovation,Material,Client Services,Medium,2,3,5,1,105000,139100,34100,Approved
+CR0460,Hospitality Interiors,Site Condition,Architecture,Medium,5,3,8,0,35000,31700,-3300,Approved
+CR0461,Commercial Office,Design,Architecture,Medium,5,4,9,0,265000,207700,-57300,Approved
+CR0462,Residential Tower,Scope,Site,High,7,4,11,0,245000,189300,-55700,Rejected
+CR0463,Warehouse Renovation,Scope,Architecture,High,7,4,11,0,260000,322000,62000,Approved
+CR0464,Retail Fit-out,Site Condition,Client Services,Medium,4,3,7,1,180000,164100,-15900,Approved
+CR0465,Residential Tower,Scope,Client Services,Medium,7,2,9,0,55000,57000,2000,Open
+CR0466,Commercial Office,Material,Procurement,Medium,4,1,5,1,30000,36100,6100,Approved
+CR0467,Hospitality Interiors,Design,Client Services,Low,4,8,12,0,245000,180700,-64300,Rejected
+CR0468,Residential Tower,Scope,Client Services,Medium,6,2,8,0,105000,88300,-16700,Approved
+CR0469,Retail Fit-out,Design,Procurement,High,3,7,10,0,105000,125300,20300,Approved
+CR0470,Residential Tower,Design,Architecture,Medium,5,5,10,0,130000,147400,17400,Approved
+CR0471,Residential Tower,Material,Procurement,Low,5,2,7,1,180000,134200,-45800,Approved
+CR0472,Residential Tower,Site Condition,Procurement,Medium,2,4,6,1,215000,291900,76900,Approved
+CR0473,Residential Tower,Material,Procurement,Medium,3,2,5,1,185000,181800,-3200,Approved
+CR0474,Hospitality Interiors,Material,Site,Low,4,3,7,1,110000,109200,-800,Approved
+CR0475,Hospitality Interiors,Material,Client Services,Low,3,2,5,1,100000,113800,13800,Approved
+CR0476,Warehouse Renovation,Material,Client Services,High,5,1,6,1,245000,261500,16500,Approved
+CR0477,Residential Tower,Material,Procurement,Medium,2,3,5,1,215000,270000,55000,Approved
+CR0478,Residential Tower,Design,Procurement,Medium,2,5,7,1,65000,66600,1600,Approved
+CR0479,Warehouse Renovation,Scope,Site,Medium,6,4,10,0,40000,35000,-5000,Rejected
+CR0480,Warehouse Renovation,Material,Architecture,Low,4,2,6,1,225000,232000,7000,Open
+CR0481,Warehouse Renovation,Design,Site,High,7,5,12,0,150000,115200,-34800,Approved
+CR0482,Residential Tower,Site Condition,Client Services,High,5,2,7,1,50000,44600,-5400,Approved
+CR0483,Warehouse Renovation,Scope,Site,High,9,4,13,0,25000,35000,10000,Approved
+CR0484,Warehouse Renovation,Design,Architecture,Low,3,7,10,0,80000,107600,27600,Approved
+CR0485,Hospitality Interiors,Material,Procurement,High,8,2,10,0,240000,198300,-41700,Approved
+CR0486,Retail Fit-out,Site Condition,Procurement,Low,3,4,7,1,265000,207300,-57700,Open
+CR0487,Residential Tower,Material,Architecture,Low,2,2,4,1,205000,192600,-12400,Open
+CR0488,Warehouse Renovation,Design,Architecture,High,6,5,11,0,155000,171900,16900,Approved
+CR0489,Residential Tower,Design,Procurement,Low,5,6,11,0,135000,140000,5000,Approved
+CR0490,Hospitality Interiors,Site Condition,Site,Medium,4,6,10,0,260000,357000,97000,Approved
+CR0491,Warehouse Renovation,Scope,Client Services,Medium,8,2,10,0,255000,327800,72800,Open
+CR0492,Warehouse Renovation,Material,Client Services,High,6,2,8,0,130000,105700,-24300,Rejected
+CR0493,Hospitality Interiors,Design,Client Services,Medium,2,4,6,1,50000,45400,-4600,Approved
+CR0494,Hospitality Interiors,Design,Client Services,High,4,4,8,0,260000,270000,10000,Approved
+CR0495,Commercial Office,Design,Client Services,Medium,3,8,11,0,275000,294500,19500,Approved
+CR0496,Retail Fit-out,Scope,Client Services,Low,10,4,14,0,235000,271400,36400,Approved
+CR0497,Residential Tower,Site Condition,Procurement,Medium,4,2,6,1,280000,325400,45400,Approved
+CR0498,Commercial Office,Design,Procurement,Medium,5,5,10,0,175000,155400,-19600,Open
+CR0499,Residential Tower,Site Condition,Client Services,Medium,7,2,9,0,35000,35300,300,Approved
+CR0500,Warehouse Renovation,Design,Site,Medium,8,7,15,0,205000,192400,-12600,Approved
+CR0501,Warehouse Renovation,Site Condition,Procurement,Low,4,1,5,1,75000,56800,-18200,Approved
+CR0502,Commercial Office,Material,Procurement,High,6,4,10,0,190000,262600,72600,Approved
+CR0503,Hospitality Interiors,Scope,Architecture,Medium,7,2,9,0,105000,87300,-17700,Rejected
+CR0504,Commercial Office,Design,Architecture,Low,3,4,7,1,55000,75600,20600,Rejected
+CR0505,Commercial Office,Material,Procurement,High,7,4,11,0,205000,290200,85200,Approved
+CR0506,Retail Fit-out,Scope,Procurement,Medium,6,3,9,0,140000,182200,42200,Approved
+CR0507,Residential Tower,Material,Procurement,High,5,3,8,0,55000,63700,8700,Approved
+CR0508,Warehouse Renovation,Site Condition,Site,Medium,2,2,4,1,230000,209500,-20500,Rejected
+CR0509,Hospitality Interiors,Material,Site,High,7,3,10,0,175000,225100,50100,Open
+CR0510,Residential Tower,Material,Client Services,High,7,5,12,0,285000,248500,-36500,Approved
+CR0511,Retail Fit-out,Material,Site,Low,3,3,6,1,30000,23500,-6500,Approved
+CR0512,Commercial Office,Material,Procurement,Low,4,2,6,1,130000,135900,5900,Approved
+CR0513,Warehouse Renovation,Material,Client Services,Low,1,4,5,1,250000,206900,-43100,Approved
+CR0514,Retail Fit-out,Design,Procurement,Medium,4,4,8,0,40000,45800,5800,Open
+CR0515,Warehouse Renovation,Site Condition,Site,Medium,2,3,5,1,165000,162100,-2900,Approved
+CR0516,Hospitality Interiors,Design,Client Services,Medium,4,3,7,1,25000,25100,100,Approved
+CR0517,Retail Fit-out,Material,Client Services,Medium,3,5,8,0,170000,189400,19400,Open
+CR0518,Residential Tower,Site Condition,Site,Medium,2,3,5,1,260000,302500,42500,Approved
+CR0519,Commercial Office,Design,Architecture,High,6,5,11,0,270000,340300,70300,Open
+CR0520,Commercial Office,Scope,Client Services,Low,8,4,12,0,200000,272400,72400,Approved
+CR0521,Commercial Office,Material,Site,Low,3,5,8,0,110000,94500,-15500,Approved
+CR0522,Commercial Office,Material,Client Services,High,7,2,9,0,75000,90500,15500,Rejected
+CR0523,Hospitality Interiors,Scope,Procurement,Medium,6,4,10,0,20000,20600,600,Approved
+CR0524,Warehouse Renovation,Design,Architecture,Low,4,4,8,0,80000,80200,200,Open
+CR0525,Warehouse Renovation,Site Condition,Architecture,Medium,6,3,9,0,180000,150500,-29500,Approved
+CR0526,Hospitality Interiors,Design,Site,Medium,1,3,4,1,110000,97900,-12100,Rejected
+CR0527,Commercial Office,Site Condition,Site,Medium,3,6,9,0,145000,124600,-20400,Approved
+CR0528,Warehouse Renovation,Design,Architecture,Medium,2,6,8,0,230000,205400,-24600,Open
+CR0529,Residential Tower,Material,Architecture,High,5,3,8,0,275000,213600,-61400,Rejected
+CR0530,Retail Fit-out,Design,Procurement,High,5,5,10,0,90000,96700,6700,Rejected
+CR0531,Retail Fit-out,Design,Client Services,Medium,5,6,11,0,190000,181800,-8200,Rejected
+CR0532,Warehouse Renovation,Design,Architecture,Medium,2,5,7,1,95000,83900,-11100,Approved
+CR0533,Hospitality Interiors,Material,Procurement,Medium,2,2,4,1,65000,86900,21900,Approved
+CR0534,Hospitality Interiors,Design,Site,Low,5,5,10,0,220000,281400,61400,Approved
+CR0535,Hospitality Interiors,Scope,Site,High,8,2,10,0,25000,32200,7200,Rejected
+CR0536,Commercial Office,Material,Procurement,Medium,4,3,7,1,265000,211400,-53600,Approved
+CR0537,Commercial Office,Design,Procurement,Low,7,4,11,0,120000,123700,3700,Approved
+CR0538,Retail Fit-out,Material,Architecture,Low,4,2,6,1,120000,134700,14700,Approved
+CR0539,Residential Tower,Scope,Architecture,Low,4,2,6,1,145000,202100,57100,Approved
+CR0540,Warehouse Renovation,Material,Site,Low,7,3,10,0,55000,69600,14600,Approved
+CR0541,Hospitality Interiors,Scope,Site,Medium,7,4,11,0,125000,150800,25800,Approved
+CR0542,Retail Fit-out,Site Condition,Client Services,Medium,4,3,7,1,20000,27600,7600,Approved
+CR0543,Warehouse Renovation,Scope,Procurement,Medium,6,2,8,0,135000,176200,41200,Approved
+CR0544,Commercial Office,Scope,Architecture,High,10,2,12,0,250000,220200,-29800,Approved
+CR0545,Commercial Office,Material,Site,High,5,4,9,0,70000,79100,9100,Approved
+CR0546,Retail Fit-out,Site Condition,Site,Low,3,3,6,1,70000,73300,3300,Open
+CR0547,Warehouse Renovation,Material,Architecture,Medium,5,3,8,0,120000,129600,9600,Approved
+CR0548,Residential Tower,Design,Procurement,Low,7,5,12,0,20000,27200,7200,Approved
+CR0549,Hospitality Interiors,Design,Client Services,Medium,5,5,10,0,25000,22500,-2500,Approved
+CR0550,Retail Fit-out,Design,Procurement,Medium,5,7,12,0,240000,241900,1900,Approved
+CR0551,Residential Tower,Material,Site,Medium,5,1,6,1,240000,315200,75200,Approved
+CR0552,Warehouse Renovation,Design,Procurement,High,6,3,9,0,260000,330200,70200,Approved
+CR0553,Warehouse Renovation,Design,Architecture,Low,4,7,11,0,50000,52300,2300,Open
+CR0554,Residential Tower,Design,Procurement,High,6,6,12,0,220000,168100,-51900,Rejected
+CR0555,Warehouse Renovation,Scope,Architecture,Low,6,4,10,0,210000,167100,-42900,Approved
+CR0556,Commercial Office,Site Condition,Procurement,Medium,6,3,9,0,110000,124600,14600,Approved
+CR0557,Commercial Office,Design,Client Services,Medium,3,4,7,1,225000,277300,52300,Rejected
+CR0558,Warehouse Renovation,Material,Architecture,Medium,6,2,8,0,240000,181000,-59000,Approved
+CR0559,Retail Fit-out,Design,Architecture,Medium,6,6,12,0,155000,127300,-27700,Approved
+CR0560,Warehouse Renovation,Site Condition,Procurement,Medium,1,2,3,1,85000,66800,-18200,Approved
+CR0561,Warehouse Renovation,Design,Architecture,High,7,6,13,0,265000,343900,78900,Approved
+CR0562,Hospitality Interiors,Design,Procurement,Medium,6,5,11,0,230000,279800,49800,Approved
+CR0563,Residential Tower,Material,Client Services,High,11,4,15,0,210000,184100,-25900,Open
+CR0564,Hospitality Interiors,Design,Procurement,High,4,7,11,0,65000,74000,9000,Open
+CR0565,Residential Tower,Design,Client Services,Medium,3,3,6,1,220000,291500,71500,Rejected
+CR0566,Hospitality Interiors,Site Condition,Architecture,Medium,3,3,6,1,115000,143100,28100,Approved
+CR0567,Hospitality Interiors,Scope,Site,Low,5,3,8,0,110000,109400,-600,Approved
+CR0568,Commercial Office,Material,Architecture,Low,1,2,3,1,100000,107300,7300,Approved
+CR0569,Retail Fit-out,Scope,Client Services,Medium,6,3,9,0,75000,106800,31800,Approved
+CR0570,Commercial Office,Material,Site,Medium,7,2,9,0,115000,87700,-27300,Approved
+CR0571,Hospitality Interiors,Site Condition,Client Services,Medium,4,3,7,1,90000,72700,-17300,Open
+CR0572,Commercial Office,Design,Site,Medium,4,7,11,0,245000,196300,-48700,Approved
+CR0573,Hospitality Interiors,Material,Procurement,Medium,5,5,10,0,150000,121500,-28500,Open
+CR0574,Commercial Office,Design,Client Services,High,10,3,13,0,95000,75700,-19300,Approved
+CR0575,Hospitality Interiors,Design,Client Services,Medium,4,5,9,0,275000,286900,11900,Approved
+CR0576,Hospitality Interiors,Material,Site,Medium,5,4,9,0,145000,164600,19600,Approved
+CR0577,Retail Fit-out,Design,Client Services,Medium,4,5,9,0,60000,74500,14500,Approved
+CR0578,Hospitality Interiors,Site Condition,Architecture,Medium,3,3,6,1,150000,189700,39700,Open
+CR0579,Hospitality Interiors,Scope,Site,Medium,8,3,11,0,275000,319500,44500,Approved
+CR0580,Commercial Office,Site Condition,Procurement,Medium,4,3,7,1,140000,118100,-21900,Approved
+CR0581,Residential Tower,Scope,Site,Low,6,2,8,0,220000,225600,5600,Approved
+CR0582,Hospitality Interiors,Site Condition,Architecture,High,6,1,7,1,10000,13200,3200,Approved
+CR0583,Hospitality Interiors,Scope,Architecture,Low,8,2,10,0,225000,206800,-18200,Rejected
+CR0584,Retail Fit-out,Design,Site,High,6,7,13,0,85000,102000,17000,Rejected
+CR0585,Commercial Office,Scope,Procurement,Low,9,5,14,0,125000,114700,-10300,Rejected
+CR0586,Commercial Office,Design,Architecture,High,7,5,12,0,15000,19900,4900,Approved
+CR0587,Hospitality Interiors,Site Condition,Client Services,High,4,2,6,1,125000,94700,-30300,Rejected
+CR0588,Warehouse Renovation,Design,Client Services,Medium,2,5,7,1,140000,107000,-33000,Rejected
+CR0589,Hospitality Interiors,Site Condition,Client Services,High,7,1,8,0,55000,44500,-10500,Approved
+CR0590,Warehouse Renovation,Scope,Procurement,High,8,3,11,0,250000,229000,-21000,Open
+CR0591,Hospitality Interiors,Site Condition,Architecture,High,4,3,7,1,10000,7300,-2700,Approved
+CR0592,Hospitality Interiors,Material,Client Services,Medium,3,3,6,1,250000,223900,-26100,Rejected
+CR0593,Retail Fit-out,Site Condition,Procurement,Medium,6,2,8,0,30000,42700,12700,Approved
+CR0594,Hospitality Interiors,Material,Procurement,High,6,3,9,0,55000,68200,13200,Rejected
+CR0595,Residential Tower,Scope,Architecture,Low,7,5,12,0,230000,168500,-61500,Open
+CR0596,Residential Tower,Design,Site,High,6,5,11,0,95000,133900,38900,Open
+CR0597,Residential Tower,Material,Architecture,High,4,6,10,0,300000,330100,30100,Open
+CR0598,Residential Tower,Design,Architecture,Low,4,3,7,1,155000,130800,-24200,Approved
+CR0599,Commercial Office,Scope,Site,High,8,3,11,0,125000,106100,-18900,Approved
+CR0600,Retail Fit-out,Material,Procurement,Medium,6,2,8,0,165000,219200,54200,Rejected
+CR0601,Residential Tower,Scope,Procurement,Medium,6,2,8,0,175000,182900,7900,Approved
+CR0602,Retail Fit-out,Scope,Architecture,Low,7,2,9,0,220000,179000,-41000,Approved
+CR0603,Hospitality Interiors,Site Condition,Site,Medium,1,4,5,1,260000,361700,101700,Approved
+CR0604,Commercial Office,Design,Architecture,Medium,2,3,5,1,60000,49200,-10800,Open
+CR0605,Hospitality Interiors,Material,Site,Medium,2,1,3,1,225000,291700,66700,Rejected
+CR0606,Hospitality Interiors,Scope,Procurement,High,8,3,11,0,40000,48200,8200,Open
+CR0607,Hospitality Interiors,Site Condition,Procurement,High,6,3,9,0,95000,114100,19100,Rejected
+CR0608,Commercial Office,Material,Architecture,Medium,2,6,8,0,225000,264300,39300,Approved
+CR0609,Retail Fit-out,Material,Procurement,Low,3,5,8,0,15000,12800,-2200,Approved
+CR0610,Residential Tower,Material,Procurement,Medium,4,4,8,0,185000,195400,10400,Approved
+CR0611,Commercial Office,Material,Architecture,Low,2,6,8,0,265000,265200,200,Open
+CR0612,Retail Fit-out,Scope,Site,Low,5,5,10,0,155000,112800,-42200,Rejected
+CR0613,Residential Tower,Scope,Architecture,Medium,5,6,11,0,25000,24200,-800,Approved
+CR0614,Residential Tower,Scope,Procurement,Low,6,1,7,1,45000,47800,2800,Approved
+CR0615,Retail Fit-out,Design,Procurement,Medium,5,4,9,0,115000,135700,20700,Approved
+CR0616,Warehouse Renovation,Design,Site,Medium,7,5,12,0,205000,199800,-5200,Rejected
+CR0617,Retail Fit-out,Design,Procurement,High,3,5,8,0,190000,206600,16600,Approved
+CR0618,Warehouse Renovation,Material,Procurement,High,4,2,6,1,35000,26200,-8800,Approved
+CR0619,Residential Tower,Design,Client Services,Medium,3,7,10,0,130000,109500,-20500,Approved
+CR0620,Hospitality Interiors,Material,Client Services,High,6,1,7,1,95000,97300,2300,Approved
+CR0621,Residential Tower,Material,Procurement,Medium,1,4,5,1,15000,13000,-2000,Approved
+CR0622,Commercial Office,Scope,Site,Medium,4,4,8,0,220000,257400,37400,Approved
+CR0623,Warehouse Renovation,Design,Procurement,Medium,5,6,11,0,150000,156300,6300,Approved
+CR0624,Commercial Office,Material,Site,High,9,4,13,0,125000,136900,11900,Approved
+CR0625,Retail Fit-out,Material,Client Services,Low,4,5,9,0,135000,137900,2900,Approved
+CR0626,Hospitality Interiors,Design,Client Services,High,3,5,8,0,240000,311100,71100,Approved
+CR0627,Hospitality Interiors,Design,Client Services,High,3,4,7,1,100000,89900,-10100,Approved
+CR0628,Residential Tower,Design,Site,Medium,4,6,10,0,175000,184800,9800,Rejected
+CR0629,Commercial Office,Design,Architecture,Medium,5,5,10,0,145000,201600,56600,Rejected
+CR0630,Commercial Office,Design,Procurement,Medium,5,4,9,0,145000,152400,7400,Open
+CR0631,Hospitality Interiors,Design,Architecture,Medium,4,5,9,0,25000,19200,-5800,Rejected
+CR0632,Commercial Office,Material,Procurement,Medium,6,3,9,0,220000,211500,-8500,Rejected
+CR0633,Residential Tower,Material,Site,High,3,3,6,1,280000,373000,93000,Open
+CR0634,Retail Fit-out,Material,Architecture,Low,4,2,6,1,10000,12900,2900,Approved
+CR0635,Retail Fit-out,Scope,Client Services,High,10,3,13,0,300000,332300,32300,Approved
+CR0636,Commercial Office,Design,Client Services,Medium,6,8,14,0,15000,13600,-1400,Approved
+CR0637,Hospitality Interiors,Design,Site,Low,2,5,7,1,40000,49600,9600,Approved
+CR0638,Hospitality Interiors,Material,Architecture,Low,2,5,7,1,35000,45000,10000,Approved
+CR0639,Hospitality Interiors,Design,Client Services,Low,2,5,7,1,135000,170500,35500,Approved
+CR0640,Warehouse Renovation,Scope,Site,Medium,6,3,9,0,35000,42400,7400,Approved
+CR0641,Hospitality Interiors,Site Condition,Procurement,Medium,4,3,7,1,230000,238700,8700,Approved
+CR0642,Commercial Office,Material,Site,Medium,1,2,3,1,280000,285200,5200,Approved
+CR0643,Residential Tower,Site Condition,Client Services,Medium,3,4,7,1,155000,221600,66600,Open
+CR0644,Commercial Office,Design,Site,Medium,3,3,6,1,250000,350200,100200,Rejected
+CR0645,Retail Fit-out,Site Condition,Client Services,High,3,3,6,1,220000,301300,81300,Rejected
+CR0646,Warehouse Renovation,Design,Site,Medium,3,5,8,0,70000,61600,-8400,Approved
+CR0647,Warehouse Renovation,Material,Procurement,High,4,4,8,0,65000,77800,12800,Approved
+CR0648,Retail Fit-out,Design,Procurement,Medium,3,4,7,1,215000,218000,3000,Rejected
+CR0649,Residential Tower,Material,Procurement,Low,5,4,9,0,255000,290000,35000,Open
+CR0650,Residential Tower,Material,Client Services,High,4,2,6,1,145000,118800,-26200,Approved
+CR0651,Residential Tower,Site Condition,Procurement,Low,2,5,7,1,280000,358600,78600,Approved
+CR0652,Warehouse Renovation,Design,Site,Medium,2,7,9,0,45000,41600,-3400,Open
+CR0653,Warehouse Renovation,Scope,Procurement,High,10,3,13,0,195000,171200,-23800,Approved
+CR0654,Hospitality Interiors,Site Condition,Site,Medium,5,4,9,0,40000,34100,-5900,Approved
+CR0655,Commercial Office,Scope,Architecture,Medium,6,1,7,1,50000,37800,-12200,Approved
+CR0656,Retail Fit-out,Design,Site,Medium,3,5,8,0,60000,56000,-4000,Approved
+CR0657,Residential Tower,Design,Site,High,5,4,9,0,275000,278800,3800,Approved
+CR0658,Hospitality Interiors,Design,Procurement,High,9,5,14,0,145000,146900,1900,Open
+CR0659,Warehouse Renovation,Site Condition,Client Services,Medium,2,4,6,1,285000,337800,52800,Open
+CR0660,Hospitality Interiors,Design,Site,Medium,1,3,4,1,220000,206600,-13400,Rejected
+CR0661,Residential Tower,Site Condition,Site,Medium,5,3,8,0,20000,19800,-200,Rejected
+CR0662,Commercial Office,Scope,Client Services,Medium,8,5,13,0,280000,284000,4000,Approved
+CR0663,Hospitality Interiors,Design,Site,Medium,4,6,10,0,65000,77600,12600,Approved
+CR0664,Residential Tower,Design,Client Services,Medium,5,5,10,0,220000,211900,-8100,Approved
+CR0665,Residential Tower,Material,Site,High,4,3,7,1,265000,290600,25600,Approved
+CR0666,Commercial Office,Scope,Client Services,Medium,8,4,12,0,240000,288100,48100,Approved
+CR0667,Commercial Office,Design,Site,Low,4,4,8,0,35000,46500,11500,Approved
+CR0668,Commercial Office,Material,Site,Medium,5,2,7,1,95000,124800,29800,Open
+CR0669,Residential Tower,Scope,Client Services,Medium,7,4,11,0,285000,295500,10500,Approved
+CR0670,Retail Fit-out,Site Condition,Architecture,Medium,4,2,6,1,100000,137700,37700,Approved
+CR0671,Warehouse Renovation,Design,Procurement,High,4,7,11,0,145000,201300,56300,Approved
+CR0672,Warehouse Renovation,Material,Site,Medium,3,3,6,1,60000,85000,25000,Open
+CR0673,Commercial Office,Scope,Architecture,High,8,3,11,0,125000,99300,-25700,Open
+CR0674,Retail Fit-out,Site Condition,Site,High,9,2,11,0,300000,381100,81100,Approved
+CR0675,Retail Fit-out,Design,Client Services,High,5,4,9,0,180000,214100,34100,Approved
+CR0676,Residential Tower,Design,Architecture,Medium,4,7,11,0,105000,106300,1300,Approved
+CR0677,Commercial Office,Design,Client Services,Medium,5,4,9,0,250000,279500,29500,Approved
+CR0678,Residential Tower,Material,Procurement,High,7,5,12,0,110000,85800,-24200,Open
+CR0679,Commercial Office,Design,Client Services,Low,4,6,10,0,160000,116500,-43500,Approved
+CR0680,Commercial Office,Design,Architecture,Medium,3,4,7,1,145000,121900,-23100,Approved
+CR0681,Warehouse Renovation,Design,Procurement,High,4,3,7,1,255000,209300,-45700,Approved
+CR0682,Commercial Office,Design,Architecture,High,5,5,10,0,190000,238200,48200,Open
+CR0683,Retail Fit-out,Site Condition,Procurement,Medium,3,4,7,1,85000,76800,-8200,Rejected
+CR0684,Warehouse Renovation,Material,Client Services,High,8,1,9,0,195000,222900,27900,Rejected
+CR0685,Residential Tower,Design,Site,Medium,3,6,9,0,185000,141700,-43300,Approved
+CR0686,Retail Fit-out,Material,Client Services,High,7,1,8,0,195000,175800,-19200,Approved
+CR0687,Retail Fit-out,Scope,Site,Low,9,4,13,0,190000,202500,12500,Approved
+CR0688,Retail Fit-out,Scope,Client Services,Medium,5,2,7,1,185000,198100,13100,Approved
+CR0689,Retail Fit-out,Design,Architecture,Medium,4,6,10,0,25000,28800,3800,Approved
+CR0690,Commercial Office,Scope,Architecture,Low,11,2,13,0,25000,29300,4300,Rejected
+CR0691,Residential Tower,Material,Client Services,Medium,4,3,7,1,185000,135800,-49200,Approved
+CR0692,Hospitality Interiors,Design,Client Services,High,5,4,9,0,285000,276400,-8600,Rejected
+CR0693,Residential Tower,Material,Procurement,Medium,3,6,9,0,180000,219900,39900,Approved
+CR0694,Hospitality Interiors,Scope,Architecture,Medium,6,3,9,0,155000,152100,-2900,Approved
+CR0695,Warehouse Renovation,Material,Procurement,Low,5,1,6,1,160000,126100,-33900,Approved
+CR0696,Hospitality Interiors,Material,Procurement,High,8,4,12,0,10000,12600,2600,Approved
+CR0697,Commercial Office,Site Condition,Client Services,Low,3,2,5,1,175000,240400,65400,Open
+CR0698,Retail Fit-out,Material,Client Services,Low,5,2,7,1,210000,152600,-57400,Approved
+CR0699,Warehouse Renovation,Material,Site,Medium,4,3,7,1,245000,186300,-58700,Rejected
+CR0700,Commercial Office,Design,Site,Medium,5,4,9,0,85000,102800,17800,Rejected
+CR0701,Commercial Office,Material,Site,Medium,6,4,10,0,195000,211900,16900,Approved
+CR0702,Commercial Office,Scope,Procurement,Medium,6,3,9,0,100000,108000,8000,Rejected
+CR0703,Hospitality Interiors,Scope,Architecture,Medium,4,4,8,0,240000,281700,41700,Approved
+CR0704,Commercial Office,Design,Procurement,Medium,6,5,11,0,110000,109500,-500,Approved
+CR0705,Retail Fit-out,Design,Site,High,6,5,11,0,135000,188000,53000,Rejected
+CR0706,Commercial Office,Design,Site,High,3,7,10,0,115000,104400,-10600,Approved
+CR0707,Retail Fit-out,Site Condition,Procurement,Medium,5,4,9,0,105000,125600,20600,Rejected
+CR0708,Warehouse Renovation,Design,Site,High,6,6,12,0,125000,92200,-32800,Rejected
+CR0709,Hospitality Interiors,Design,Client Services,Low,5,4,9,0,195000,219000,24000,Approved
+CR0710,Hospitality Interiors,Design,Client Services,Medium,2,7,9,0,165000,157800,-7200,Approved
+CR0711,Warehouse Renovation,Site Condition,Client Services,Low,5,3,8,0,110000,81600,-28400,Rejected
+CR0712,Hospitality Interiors,Scope,Architecture,Low,6,3,9,0,235000,333000,98000,Approved
+CR0713,Residential Tower,Material,Architecture,High,8,3,11,0,185000,228000,43000,Approved
+CR0714,Warehouse Renovation,Design,Client Services,Medium,6,5,11,0,80000,97000,17000,Approved
+CR0715,Commercial Office,Design,Architecture,Medium,2,4,6,1,60000,48100,-11900,Rejected
+CR0716,Commercial Office,Scope,Procurement,Medium,8,3,11,0,165000,223100,58100,Approved
+CR0717,Hospitality Interiors,Site Condition,Procurement,Medium,4,1,5,1,105000,96800,-8200,Open
+CR0718,Warehouse Renovation,Design,Procurement,Low,4,6,10,0,30000,30300,300,Approved
+CR0719,Retail Fit-out,Scope,Client Services,Low,7,1,8,0,290000,303800,13800,Rejected
+CR0720,Hospitality Interiors,Design,Client Services,Medium,1,7,8,0,105000,93700,-11300,Open
+CR0721,Retail Fit-out,Scope,Site,Low,5,1,6,1,45000,59100,14100,Approved
+CR0722,Residential Tower,Scope,Architecture,Medium,4,2,6,1,130000,129500,-500,Approved
+CR0723,Retail Fit-out,Material,Architecture,Low,1,1,2,1,90000,86100,-3900,Rejected
+CR0724,Residential Tower,Scope,Site,Low,7,3,10,0,225000,240700,15700,Approved
+CR0725,Residential Tower,Design,Site,Medium,4,7,11,0,230000,242200,12200,Approved
+CR0726,Commercial Office,Design,Architecture,Medium,4,4,8,0,135000,175300,40300,Approved
+CR0727,Residential Tower,Design,Client Services,Medium,4,5,9,0,85000,97300,12300,Approved
+CR0728,Residential Tower,Material,Architecture,Medium,6,4,10,0,220000,245600,25600,Approved
+CR0729,Commercial Office,Design,Client Services,Medium,4,4,8,0,35000,38600,3600,Approved
+CR0730,Residential Tower,Design,Site,Low,2,3,5,1,165000,151000,-14000,Rejected
+CR0731,Retail Fit-out,Scope,Client Services,High,11,3,14,0,140000,164400,24400,Approved
+CR0732,Residential Tower,Scope,Client Services,Medium,6,3,9,0,215000,275900,60900,Approved
+CR0733,Commercial Office,Site Condition,Site,High,6,2,8,0,140000,103400,-36600,Rejected
+CR0734,Commercial Office,Design,Site,Low,4,3,7,1,195000,214400,19400,Approved
+CR0735,Hospitality Interiors,Site Condition,Procurement,Medium,1,3,4,1,120000,168600,48600,Rejected
+CR0736,Retail Fit-out,Design,Client Services,Medium,1,3,4,1,225000,313000,88000,Approved
+CR0737,Commercial Office,Scope,Site,Medium,7,3,10,0,45000,57000,12000,Rejected
+CR0738,Warehouse Renovation,Design,Site,Medium,6,5,11,0,195000,191800,-3200,Rejected
+CR0739,Residential Tower,Design,Architecture,Low,5,9,14,0,300000,337800,37800,Approved
+CR0740,Retail Fit-out,Design,Site,Medium,2,5,7,1,30000,22300,-7700,Approved
+CR0741,Hospitality Interiors,Material,Client Services,High,6,2,8,0,145000,164000,19000,Approved
+CR0742,Hospitality Interiors,Scope,Client Services,Medium,6,5,11,0,160000,191400,31400,Approved
+CR0743,Retail Fit-out,Site Condition,Procurement,High,6,6,12,0,15000,18500,3500,Approved
+CR0744,Retail Fit-out,Site Condition,Client Services,High,4,3,7,1,50000,56600,6600,Approved
+CR0745,Hospitality Interiors,Material,Site,Medium,1,2,3,1,260000,262400,2400,Approved
+CR0746,Commercial Office,Material,Site,Medium,2,2,4,1,135000,183400,48400,Approved
+CR0747,Warehouse Renovation,Material,Client Services,Medium,3,2,5,1,210000,167000,-43000,Rejected
+CR0748,Retail Fit-out,Material,Client Services,Medium,5,4,9,0,300000,298300,-1700,Approved
+CR0749,Residential Tower,Design,Procurement,Low,4,5,9,0,300000,282900,-17100,Rejected
+CR0750,Residential Tower,Material,Site,High,5,2,7,1,55000,43700,-11300,Approved

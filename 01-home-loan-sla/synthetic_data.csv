@@ -1,0 +1,2401 @@
+application_id,branch,channel,loan_amount_inr,missing_documents,verification_days,underwriting_days,decision_days,total_days,sla_met,status
+HL00001,Velachery,Digital,4400000,0,4,5,2,11,0,Approved
+HL00002,Tambaram,Digital,7400000,0,2,2,3,7,1,Approved
+HL00003,T Nagar,Branch,6550000,0,1,8,2,11,0,Pending
+HL00004,Anna Nagar,Branch,1450000,0,3,2,3,8,1,Approved
+HL00005,Anna Nagar,Branch,7950000,0,4,3,2,9,0,Rejected
+HL00006,Adyar,Partner,3150000,1,6,4,2,12,0,Rejected
+HL00007,T Nagar,Partner,7600000,0,1,5,2,8,1,Rejected
+HL00008,Tambaram,Digital,4250000,0,3,7,2,12,0,Approved
+HL00009,Adyar,Digital,550000,0,1,3,1,5,1,Approved
+HL00010,Adyar,Digital,4550000,0,2,1,3,6,1,Approved
+HL00011,T Nagar,Partner,600000,0,3,6,1,10,0,Pending
+HL00012,Anna Nagar,Branch,6300000,0,2,5,3,10,0,Approved
+HL00013,Tambaram,Branch,1750000,0,1,5,3,9,0,Approved
+HL00014,Anna Nagar,Digital,4950000,0,1,2,2,5,1,Approved
+HL00015,T Nagar,Partner,1400000,0,3,8,1,12,0,Approved
+HL00016,Anna Nagar,Digital,7900000,0,1,3,1,5,1,Rejected
+HL00017,Anna Nagar,Digital,2500000,0,4,3,2,9,0,Approved
+HL00018,Tambaram,Partner,3000000,1,6,4,2,12,0,Pending
+HL00019,Velachery,Branch,2400000,0,4,1,1,6,1,Approved
+HL00020,Tambaram,Digital,1900000,0,2,7,1,10,0,Pending
+HL00021,T Nagar,Branch,4500000,0,2,3,3,8,1,Approved
+HL00022,Velachery,Branch,800000,1,6,5,1,12,0,Pending
+HL00023,Tambaram,Branch,5750000,0,2,4,2,8,1,Rejected
+HL00024,Adyar,Branch,7550000,0,3,4,1,8,1,Approved
+HL00025,Adyar,Digital,3750000,0,3,4,2,9,0,Approved
+HL00026,Anna Nagar,Branch,800000,0,4,4,1,9,0,Pending
+HL00027,Anna Nagar,Branch,5350000,0,2,2,1,5,1,Approved
+HL00028,Velachery,Digital,7750000,0,4,4,3,11,0,Approved
+HL00029,Velachery,Digital,7200000,0,2,4,1,7,1,Approved
+HL00030,Anna Nagar,Branch,3450000,0,4,6,2,12,0,Approved
+HL00031,Velachery,Digital,2400000,0,2,7,1,10,0,Approved
+HL00032,T Nagar,Digital,7400000,0,3,3,3,9,0,Pending
+HL00033,Velachery,Branch,7900000,0,4,5,1,10,0,Approved
+HL00034,Velachery,Digital,4500000,0,3,3,3,9,0,Approved
+HL00035,Adyar,Branch,7900000,0,2,5,2,9,0,Rejected
+HL00036,Adyar,Digital,5750000,0,2,2,2,6,1,Rejected
+HL00037,T Nagar,Partner,4150000,0,2,6,2,10,0,Approved
+HL00038,Anna Nagar,Digital,7450000,0,2,5,2,9,0,Approved
+HL00039,T Nagar,Branch,6800000,0,1,1,2,4,1,Approved
+HL00040,T Nagar,Digital,2950000,0,4,2,2,8,1,Rejected
+HL00041,Anna Nagar,Digital,4300000,0,3,3,1,7,1,Approved
+HL00042,Tambaram,Branch,450000,0,3,8,2,13,0,Approved
+HL00043,T Nagar,Branch,5850000,0,3,6,1,10,0,Approved
+HL00044,Adyar,Partner,4800000,0,3,7,1,11,0,Pending
+HL00045,Velachery,Digital,2000000,0,4,5,2,11,0,Pending
+HL00046,Tambaram,Digital,5600000,0,2,6,3,11,0,Approved
+HL00047,Velachery,Digital,5250000,0,1,2,1,4,1,Pending
+HL00048,T Nagar,Digital,4000000,0,2,5,3,10,0,Approved
+HL00049,Velachery,Digital,5600000,0,2,4,3,9,0,Approved
+HL00050,Adyar,Digital,2750000,0,2,6,2,10,0,Approved
+HL00051,T Nagar,Partner,2300000,0,3,5,1,9,0,Approved
+HL00052,Velachery,Branch,850000,0,1,3,3,7,1,Approved
+HL00053,Adyar,Branch,6350000,0,1,2,3,6,1,Approved
+HL00054,T Nagar,Partner,6000000,0,3,3,2,8,1,Approved
+HL00055,T Nagar,Digital,500000,0,2,3,2,7,1,Approved
+HL00056,Velachery,Partner,7650000,0,1,5,2,8,1,Rejected
+HL00057,Velachery,Digital,2350000,1,8,2,3,13,0,Pending
+HL00058,Adyar,Partner,450000,0,1,4,1,6,1,Pending
+HL00059,Adyar,Digital,2800000,1,6,5,1,12,0,Rejected
+HL00060,Velachery,Digital,6000000,0,2,6,2,10,0,Pending
+HL00061,Tambaram,Digital,1250000,0,1,4,2,7,1,Approved
+HL00062,Adyar,Branch,5800000,1,6,4,2,12,0,Rejected
+HL00063,Anna Nagar,Partner,3900000,1,4,7,1,12,0,Approved
+HL00064,Adyar,Branch,5950000,0,4,1,1,6,1,Approved
+HL00065,Anna Nagar,Digital,4850000,0,2,4,2,8,1,Approved
+HL00066,Adyar,Branch,5700000,0,3,7,2,12,0,Approved
+HL00067,Velachery,Digital,1350000,1,6,4,1,11,0,Approved
+HL00068,Adyar,Digital,4100000,0,4,5,1,10,0,Rejected
+HL00069,Tambaram,Branch,2650000,1,8,4,2,14,0,Approved
+HL00070,Tambaram,Branch,6500000,1,7,4,2,13,0,Approved
+HL00071,Adyar,Branch,3900000,0,2,3,2,7,1,Rejected
+HL00072,Tambaram,Digital,2650000,0,4,5,1,10,0,Approved
+HL00073,T Nagar,Digital,6600000,0,1,5,2,8,1,Rejected
+HL00074,Adyar,Branch,4400000,0,3,3,1,7,1,Pending
+HL00075,Tambaram,Digital,750000,0,3,7,3,13,0,Rejected
+HL00076,Velachery,Partner,3700000,0,4,8,1,13,0,Rejected
+HL00077,Velachery,Partner,7550000,0,3,6,3,12,0,Pending
+HL00078,Tambaram,Branch,750000,0,1,2,2,5,1,Approved
+HL00079,T Nagar,Digital,4000000,0,2,6,1,9,0,Approved
+HL00080,Anna Nagar,Partner,4300000,1,4,8,1,13,0,Rejected
+HL00081,Adyar,Branch,700000,1,4,2,1,7,1,Rejected
+HL00082,Tambaram,Partner,4450000,0,3,6,1,10,0,Approved
+HL00083,Anna Nagar,Partner,7050000,0,2,10,1,13,0,Approved
+HL00084,T Nagar,Branch,5250000,0,2,4,1,7,1,Approved
+HL00085,Tambaram,Digital,1150000,0,2,4,1,7,1,Approved
+HL00086,T Nagar,Branch,750000,0,1,2,1,4,1,Approved
+HL00087,Adyar,Branch,7350000,0,1,5,4,10,0,Rejected
+HL00088,Tambaram,Partner,850000,0,1,6,2,9,0,Approved
+HL00089,Anna Nagar,Partner,3700000,0,3,3,2,8,1,Approved
+HL00090,T Nagar,Digital,2950000,0,4,4,1,9,0,Rejected
+HL00091,Adyar,Digital,1550000,0,1,4,2,7,1,Rejected
+HL00092,Tambaram,Digital,2100000,1,6,2,1,9,0,Approved
+HL00093,Velachery,Branch,5000000,0,4,5,2,11,0,Approved
+HL00094,Adyar,Branch,3950000,0,3,5,2,10,0,Approved
+HL00095,T Nagar,Digital,350000,0,3,4,2,9,0,Approved
+HL00096,Adyar,Branch,3350000,0,2,5,2,9,0,Pending
+HL00097,T Nagar,Branch,3050000,0,5,5,1,11,0,Approved
+HL00098,Anna Nagar,Digital,6000000,0,1,6,3,10,0,Pending
+HL00099,Anna Nagar,Partner,7800000,0,2,8,1,11,0,Approved
+HL00100,Adyar,Partner,3000000,1,7,5,2,14,0,Approved
+HL00101,Adyar,Digital,5700000,0,2,2,2,6,1,Approved
+HL00102,T Nagar,Digital,7350000,1,6,2,2,10,0,Pending
+HL00103,Tambaram,Digital,5650000,0,3,6,2,11,0,Approved
+HL00104,Velachery,Partner,6050000,0,1,3,2,6,1,Rejected
+HL00105,Adyar,Digital,4050000,0,1,6,1,8,1,Approved
+HL00106,T Nagar,Digital,7750000,0,1,6,2,9,0,Pending
+HL00107,T Nagar,Digital,2550000,0,1,3,2,6,1,Approved
+HL00108,Anna Nagar,Branch,1750000,0,3,5,3,11,0,Approved
+HL00109,Velachery,Branch,2700000,0,2,5,1,8,1,Approved
+HL00110,Adyar,Digital,4700000,0,2,1,1,4,1,Pending
+HL00111,T Nagar,Digital,5900000,0,1,4,1,6,1,Rejected
+HL00112,Anna Nagar,Digital,8000000,0,2,4,1,7,1,Approved
+HL00113,T Nagar,Digital,2350000,0,3,4,1,8,1,Approved
+HL00114,Tambaram,Digital,7750000,0,1,3,2,6,1,Pending
+HL00115,T Nagar,Digital,2000000,0,1,3,1,5,1,Rejected
+HL00116,Tambaram,Branch,4100000,0,3,5,3,11,0,Approved
+HL00117,T Nagar,Digital,3850000,0,2,4,2,8,1,Rejected
+HL00118,Tambaram,Partner,6600000,0,4,4,1,9,0,Rejected
+HL00119,Velachery,Branch,7400000,0,1,3,1,5,1,Approved
+HL00120,Velachery,Digital,2750000,0,3,8,2,13,0,Pending
+HL00121,Tambaram,Partner,3650000,1,4,7,1,12,0,Approved
+HL00122,Velachery,Branch,6150000,1,4,2,3,9,0,Rejected
+HL00123,Adyar,Digital,4200000,0,1,4,2,7,1,Approved
+HL00124,T Nagar,Partner,7300000,0,1,5,3,9,0,Approved
+HL00125,T Nagar,Digital,500000,0,1,4,2,7,1,Approved
+HL00126,Velachery,Partner,3150000,0,4,5,2,11,0,Rejected
+HL00127,Velachery,Digital,3400000,0,2,4,3,9,0,Approved
+HL00128,Velachery,Digital,750000,0,4,8,2,14,0,Approved
+HL00129,Adyar,Partner,2700000,0,2,4,2,8,1,Approved
+HL00130,Velachery,Branch,650000,0,2,3,1,6,1,Pending
+HL00131,T Nagar,Branch,6800000,1,4,5,2,11,0,Approved
+HL00132,Velachery,Partner,500000,0,1,4,1,6,1,Rejected
+HL00133,Tambaram,Digital,7900000,1,6,3,2,11,0,Approved
+HL00134,Anna Nagar,Branch,3600000,0,2,2,2,6,1,Approved
+HL00135,Velachery,Digital,450000,0,4,4,2,10,0,Approved
+HL00136,Anna Nagar,Partner,5200000,0,2,6,1,9,0,Approved
+HL00137,Anna Nagar,Digital,6000000,1,5,4,3,12,0,Approved
+HL00138,T Nagar,Partner,3650000,0,3,4,1,8,1,Pending
+HL00139,Velachery,Digital,2400000,0,4,4,1,9,0,Rejected
+HL00140,Anna Nagar,Digital,1850000,0,4,3,1,8,1,Approved
+HL00141,Anna Nagar,Digital,6700000,0,1,4,1,6,1,Approved
+HL00142,Velachery,Partner,2800000,0,2,5,1,8,1,Rejected
+HL00143,Anna Nagar,Branch,1100000,0,2,5,1,8,1,Pending
+HL00144,Anna Nagar,Digital,3450000,0,3,3,1,7,1,Pending
+HL00145,Anna Nagar,Digital,5950000,0,1,3,1,5,1,Approved
+HL00146,Adyar,Digital,2000000,0,2,4,3,9,0,Approved
+HL00147,Adyar,Branch,650000,0,2,2,2,6,1,Approved
+HL00148,Anna Nagar,Digital,550000,1,7,4,2,13,0,Pending
+HL00149,T Nagar,Digital,6200000,1,6,4,2,12,0,Approved
+HL00150,Anna Nagar,Branch,1050000,0,4,1,2,7,1,Approved
+HL00151,Anna Nagar,Partner,5400000,0,3,5,2,10,0,Approved
+HL00152,Tambaram,Branch,5700000,0,2,1,1,4,1,Approved
+HL00153,Adyar,Branch,4100000,1,7,3,1,11,0,Approved
+HL00154,Velachery,Digital,4750000,0,1,2,1,4,1,Approved
+HL00155,Tambaram,Branch,5350000,0,1,4,2,7,1,Approved
+HL00156,Tambaram,Digital,5250000,1,7,5,1,13,0,Rejected
+HL00157,Adyar,Branch,7950000,1,5,5,1,11,0,Approved
+HL00158,Anna Nagar,Partner,7150000,0,1,7,3,11,0,Approved
+HL00159,Velachery,Branch,7100000,0,1,5,3,9,0,Approved
+HL00160,Tambaram,Branch,5450000,0,2,6,2,10,0,Approved
+HL00161,Velachery,Digital,1150000,0,2,8,3,13,0,Approved
+HL00162,Velachery,Branch,3300000,0,2,6,1,9,0,Rejected
+HL00163,Velachery,Branch,7450000,1,7,3,2,12,0,Rejected
+HL00164,T Nagar,Digital,3600000,0,2,5,2,9,0,Pending
+HL00165,Tambaram,Digital,3800000,0,1,2,4,7,1,Approved
+HL00166,T Nagar,Partner,5400000,0,3,7,2,12,0,Approved
+HL00167,Anna Nagar,Branch,1000000,0,3,5,2,10,0,Approved
+HL00168,Adyar,Branch,1450000,0,2,2,1,5,1,Pending
+HL00169,Velachery,Digital,3250000,1,6,3,3,12,0,Approved
+HL00170,T Nagar,Branch,6900000,0,2,5,2,9,0,Approved
+HL00171,Velachery,Partner,1950000,0,1,7,1,9,0,Approved
+HL00172,Anna Nagar,Partner,900000,0,3,8,3,14,0,Approved
+HL00173,Adyar,Branch,500000,0,3,5,1,9,0,Approved
+HL00174,Velachery,Branch,7350000,0,1,4,2,7,1,Approved
+HL00175,T Nagar,Digital,1500000,0,1,5,2,8,1,Approved
+HL00176,Tambaram,Digital,700000,1,4,6,3,13,0,Approved
+HL00177,T Nagar,Branch,3600000,1,6,4,1,11,0,Approved
+HL00178,T Nagar,Branch,5400000,0,4,6,1,11,0,Approved
+HL00179,Tambaram,Branch,2400000,0,3,1,3,7,1,Rejected
+HL00180,Adyar,Branch,2700000,0,2,3,1,6,1,Approved
+HL00181,T Nagar,Partner,2400000,0,3,8,2,13,0,Approved
+HL00182,Adyar,Partner,5700000,0,3,8,1,12,0,Rejected
+HL00183,T Nagar,Digital,6900000,0,4,5,2,11,0,Approved
+HL00184,Tambaram,Digital,7800000,1,4,5,2,11,0,Approved
+HL00185,T Nagar,Branch,5350000,0,3,2,1,6,1,Approved
+HL00186,Anna Nagar,Digital,7550000,0,1,8,3,12,0,Approved
+HL00187,Adyar,Digital,2150000,1,6,3,3,12,0,Approved
+HL00188,Anna Nagar,Digital,6650000,0,2,5,1,8,1,Approved
+HL00189,Adyar,Digital,1400000,0,3,4,1,8,1,Approved
+HL00190,Velachery,Partner,1850000,0,5,8,1,14,0,Approved
+HL00191,Velachery,Branch,400000,0,1,2,1,4,1,Approved
+HL00192,Anna Nagar,Branch,4550000,1,6,5,1,12,0,Approved
+HL00193,T Nagar,Digital,1750000,0,2,3,2,7,1,Approved
+HL00194,Tambaram,Branch,4200000,0,2,3,3,8,1,Rejected
+HL00195,Anna Nagar,Branch,3750000,0,1,4,2,7,1,Approved
+HL00196,Velachery,Digital,5000000,0,1,3,1,5,1,Rejected
+HL00197,Anna Nagar,Partner,4900000,0,1,6,2,9,0,Approved
+HL00198,Adyar,Partner,2800000,0,3,8,1,12,0,Approved
+HL00199,Tambaram,Branch,6400000,0,2,1,1,4,1,Approved
+HL00200,Velachery,Digital,1050000,0,1,5,2,8,1,Approved
+HL00201,Adyar,Branch,4800000,0,1,3,1,5,1,Rejected
+HL00202,Anna Nagar,Digital,6750000,0,1,3,1,5,1,Rejected
+HL00203,Anna Nagar,Digital,2800000,0,2,1,1,4,1,Approved
+HL00204,Velachery,Partner,5750000,0,3,5,1,9,0,Approved
+HL00205,Velachery,Branch,5150000,0,3,3,3,9,0,Approved
+HL00206,Velachery,Branch,4400000,0,3,4,2,9,0,Approved
+HL00207,Tambaram,Digital,4900000,0,2,7,2,11,0,Approved
+HL00208,Adyar,Branch,1250000,0,4,2,2,8,1,Approved
+HL00209,Adyar,Digital,6400000,0,1,6,1,8,1,Rejected
+HL00210,Adyar,Digital,3900000,0,2,4,1,7,1,Rejected
+HL00211,Anna Nagar,Branch,6300000,0,1,3,2,6,1,Approved
+HL00212,Adyar,Branch,7350000,0,1,3,1,5,1,Approved
+HL00213,Velachery,Branch,7750000,1,6,4,2,12,0,Approved
+HL00214,Velachery,Digital,950000,0,4,6,1,11,0,Approved
+HL00215,Tambaram,Branch,5850000,0,3,5,1,9,0,Approved
+HL00216,Adyar,Digital,3000000,0,3,5,1,9,0,Approved
+HL00217,T Nagar,Branch,2800000,0,3,2,4,9,0,Approved
+HL00218,Adyar,Branch,1350000,0,3,5,2,10,0,Approved
+HL00219,Tambaram,Digital,4200000,1,4,6,2,12,0,Approved
+HL00220,Adyar,Branch,6700000,0,2,6,1,9,0,Approved
+HL00221,T Nagar,Branch,4400000,0,4,2,1,7,1,Approved
+HL00222,Anna Nagar,Digital,7550000,0,2,2,1,5,1,Approved
+HL00223,T Nagar,Digital,500000,0,2,5,2,9,0,Approved
+HL00224,Anna Nagar,Digital,4150000,0,1,2,3,6,1,Rejected
+HL00225,Tambaram,Digital,3450000,0,3,1,1,5,1,Approved
+HL00226,Anna Nagar,Digital,3200000,0,1,4,1,6,1,Rejected
+HL00227,Velachery,Partner,4350000,0,1,6,2,9,0,Approved
+HL00228,Tambaram,Partner,5850000,0,2,4,2,8,1,Approved
+HL00229,Velachery,Branch,4050000,0,4,5,1,10,0,Approved
+HL00230,Tambaram,Branch,5800000,0,3,4,2,9,0,Rejected
+HL00231,Anna Nagar,Branch,950000,0,2,5,2,9,0,Approved
+HL00232,Anna Nagar,Partner,7200000,0,3,4,2,9,0,Rejected
+HL00233,Tambaram,Branch,5000000,0,2,5,2,9,0,Approved
+HL00234,Velachery,Digital,2000000,0,2,8,2,12,0,Rejected
+HL00235,T Nagar,Branch,2700000,1,5,6,1,12,0,Approved
+HL00236,Anna Nagar,Branch,2650000,0,1,3,1,5,1,Approved
+HL00237,Anna Nagar,Branch,2200000,0,1,6,1,8,1,Approved
+HL00238,Tambaram,Branch,7950000,0,3,8,2,13,0,Pending
+HL00239,Adyar,Digital,1700000,0,2,3,1,6,1,Approved
+HL00240,Adyar,Partner,3750000,0,2,6,2,10,0,Approved
+HL00241,Anna Nagar,Branch,900000,1,5,5,2,12,0,Pending
+HL00242,Tambaram,Digital,7550000,0,1,4,3,8,1,Approved
+HL00243,T Nagar,Branch,4250000,0,2,3,2,7,1,Approved
+HL00244,Adyar,Digital,3550000,0,1,5,1,7,1,Rejected
+HL00245,Adyar,Branch,5950000,0,1,3,1,5,1,Approved
+HL00246,T Nagar,Digital,1650000,0,2,8,3,13,0,Approved
+HL00247,Tambaram,Digital,3600000,0,2,4,1,7,1,Approved
+HL00248,Velachery,Branch,6700000,0,1,7,2,10,0,Pending
+HL00249,Tambaram,Branch,5900000,0,3,2,3,8,1,Rejected
+HL00250,Tambaram,Branch,2500000,1,6,6,2,14,0,Approved
+HL00251,T Nagar,Digital,2800000,0,1,4,1,6,1,Approved
+HL00252,Adyar,Branch,7500000,1,6,4,2,12,0,Approved
+HL00253,Tambaram,Digital,7750000,0,2,4,3,9,0,Pending
+HL00254,Velachery,Digital,6150000,1,5,3,4,12,0,Approved
+HL00255,T Nagar,Branch,950000,0,4,4,2,10,0,Approved
+HL00256,Tambaram,Partner,7600000,1,6,3,2,11,0,Approved
+HL00257,Adyar,Partner,5900000,0,3,7,2,12,0,Approved
+HL00258,T Nagar,Partner,800000,0,4,9,1,14,0,Approved
+HL00259,Tambaram,Digital,3550000,0,3,8,2,13,0,Approved
+HL00260,T Nagar,Branch,7150000,0,4,4,2,10,0,Pending
+HL00261,T Nagar,Branch,500000,0,3,3,2,8,1,Approved
+HL00262,Adyar,Branch,7250000,0,2,3,3,8,1,Approved
+HL00263,Velachery,Digital,6750000,0,3,3,4,10,0,Rejected
+HL00264,Adyar,Branch,4600000,1,6,3,2,11,0,Pending
+HL00265,Adyar,Branch,1900000,0,3,5,1,9,0,Approved
+HL00266,Anna Nagar,Partner,1200000,1,5,3,1,9,0,Rejected
+HL00267,Anna Nagar,Branch,3550000,0,1,3,1,5,1,Approved
+HL00268,Tambaram,Branch,7850000,0,3,3,3,9,0,Approved
+HL00269,T Nagar,Partner,6250000,0,1,5,2,8,1,Rejected
+HL00270,Tambaram,Digital,5600000,0,1,8,3,12,0,Approved
+HL00271,Tambaram,Digital,5100000,0,4,4,2,10,0,Approved
+HL00272,T Nagar,Digital,1500000,0,4,6,1,11,0,Rejected
+HL00273,T Nagar,Partner,3350000,0,4,9,1,14,0,Pending
+HL00274,Tambaram,Branch,2800000,0,1,4,1,6,1,Approved
+HL00275,Velachery,Branch,7250000,0,2,5,3,10,0,Rejected
+HL00276,Tambaram,Partner,2400000,1,5,5,1,11,0,Pending
+HL00277,Tambaram,Digital,950000,1,7,1,2,10,0,Pending
+HL00278,Velachery,Digital,4450000,0,2,1,1,4,1,Approved
+HL00279,Anna Nagar,Partner,4600000,0,3,8,1,12,0,Approved
+HL00280,Adyar,Branch,2900000,0,2,3,2,7,1,Approved
+HL00281,Anna Nagar,Branch,800000,0,4,3,2,9,0,Rejected
+HL00282,Anna Nagar,Partner,1550000,0,1,4,1,6,1,Rejected
+HL00283,T Nagar,Branch,7750000,0,3,4,3,10,0,Approved
+HL00284,T Nagar,Partner,7200000,0,1,6,1,8,1,Approved
+HL00285,Tambaram,Partner,6300000,0,3,5,2,10,0,Approved
+HL00286,T Nagar,Branch,4700000,0,1,2,2,5,1,Approved
+HL00287,T Nagar,Digital,2250000,0,1,1,1,3,1,Rejected
+HL00288,Tambaram,Digital,1200000,0,2,2,1,5,1,Approved
+HL00289,Velachery,Digital,7950000,0,2,1,4,7,1,Approved
+HL00290,Adyar,Digital,1950000,0,2,3,3,8,1,Approved
+HL00291,Adyar,Branch,4750000,1,5,6,1,12,0,Rejected
+HL00292,Adyar,Digital,850000,0,3,1,2,6,1,Approved
+HL00293,Velachery,Partner,800000,0,3,5,2,10,0,Approved
+HL00294,T Nagar,Branch,2300000,0,2,1,2,5,1,Approved
+HL00295,Velachery,Partner,4950000,0,1,3,2,6,1,Approved
+HL00296,Velachery,Branch,6900000,0,3,3,2,8,1,Rejected
+HL00297,Anna Nagar,Branch,1550000,0,4,3,1,8,1,Approved
+HL00298,T Nagar,Partner,7750000,0,2,5,1,8,1,Approved
+HL00299,Anna Nagar,Branch,1600000,0,1,3,3,7,1,Approved
+HL00300,Anna Nagar,Branch,6750000,0,2,4,1,7,1,Approved
+HL00301,T Nagar,Digital,4500000,1,6,1,2,9,0,Approved
+HL00302,T Nagar,Digital,1100000,0,1,4,3,8,1,Rejected
+HL00303,Velachery,Branch,5550000,0,3,2,2,7,1,Pending
+HL00304,Tambaram,Digital,6050000,0,1,4,2,7,1,Approved
+HL00305,Velachery,Branch,4650000,1,6,9,1,16,0,Pending
+HL00306,Anna Nagar,Partner,5450000,0,3,6,1,10,0,Approved
+HL00307,Tambaram,Digital,3100000,0,3,4,2,9,0,Approved
+HL00308,T Nagar,Digital,6650000,0,3,3,1,7,1,Approved
+HL00309,Adyar,Digital,2300000,0,2,4,2,8,1,Approved
+HL00310,T Nagar,Branch,4400000,0,2,5,2,9,0,Rejected
+HL00311,Tambaram,Digital,4150000,0,4,6,1,11,0,Approved
+HL00312,Tambaram,Branch,500000,0,3,7,2,12,0,Pending
+HL00313,Tambaram,Branch,4650000,0,3,5,1,9,0,Approved
+HL00314,Anna Nagar,Branch,6000000,0,2,4,1,7,1,Approved
+HL00315,T Nagar,Partner,3550000,0,2,8,2,12,0,Approved
+HL00316,T Nagar,Branch,6950000,0,2,6,2,10,0,Approved
+HL00317,Velachery,Partner,1550000,1,5,6,3,14,0,Approved
+HL00318,Velachery,Branch,7050000,0,2,4,1,7,1,Approved
+HL00319,Velachery,Branch,750000,0,3,6,3,12,0,Pending
+HL00320,T Nagar,Digital,7500000,0,3,4,1,8,1,Approved
+HL00321,Tambaram,Digital,1450000,0,2,5,3,10,0,Approved
+HL00322,T Nagar,Partner,3100000,1,4,5,1,10,0,Rejected
+HL00323,T Nagar,Branch,800000,1,5,6,3,14,0,Rejected
+HL00324,Velachery,Partner,450000,0,2,6,2,10,0,Rejected
+HL00325,Anna Nagar,Branch,6800000,0,3,4,3,10,0,Approved
+HL00326,Tambaram,Branch,6200000,0,3,2,3,8,1,Approved
+HL00327,Tambaram,Digital,2250000,0,2,6,1,9,0,Approved
+HL00328,Anna Nagar,Digital,3800000,0,2,2,2,6,1,Approved
+HL00329,Adyar,Partner,6400000,0,2,7,2,11,0,Approved
+HL00330,T Nagar,Digital,5750000,0,1,2,1,4,1,Pending
+HL00331,Velachery,Branch,1100000,0,1,3,3,7,1,Rejected
+HL00332,Tambaram,Digital,3400000,0,1,2,3,6,1,Approved
+HL00333,Anna Nagar,Branch,550000,0,1,4,2,7,1,Approved
+HL00334,Adyar,Branch,7550000,0,1,4,1,6,1,Approved
+HL00335,Anna Nagar,Branch,2550000,0,3,4,1,8,1,Approved
+HL00336,Adyar,Partner,2000000,0,1,8,1,10,0,Rejected
+HL00337,T Nagar,Branch,6450000,1,6,4,2,12,0,Approved
+HL00338,Adyar,Branch,1150000,0,2,6,1,9,0,Approved
+HL00339,Tambaram,Partner,7600000,1,8,7,3,18,0,Approved
+HL00340,Anna Nagar,Digital,5350000,0,1,1,2,4,1,Approved
+HL00341,Tambaram,Digital,2650000,0,1,7,1,9,0,Approved
+HL00342,T Nagar,Partner,4350000,0,3,8,1,12,0,Approved
+HL00343,Velachery,Partner,1350000,0,2,9,1,12,0,Rejected
+HL00344,Velachery,Digital,8000000,0,1,5,2,8,1,Rejected
+HL00345,Tambaram,Digital,6700000,0,2,3,2,7,1,Rejected
+HL00346,T Nagar,Branch,3750000,0,3,4,1,8,1,Approved
+HL00347,Velachery,Digital,6600000,0,2,6,3,11,0,Approved
+HL00348,Anna Nagar,Branch,1600000,0,2,7,2,11,0,Pending
+HL00349,Adyar,Digital,1150000,0,2,4,3,9,0,Rejected
+HL00350,Tambaram,Branch,7350000,0,2,8,1,11,0,Rejected
+HL00351,T Nagar,Branch,5950000,0,2,4,1,7,1,Approved
+HL00352,Adyar,Digital,5250000,0,2,6,4,12,0,Approved
+HL00353,Velachery,Digital,5200000,0,3,1,2,6,1,Approved
+HL00354,T Nagar,Branch,4850000,0,1,4,3,8,1,Approved
+HL00355,Adyar,Branch,6500000,0,2,1,3,6,1,Approved
+HL00356,Anna Nagar,Partner,3150000,0,3,9,2,14,0,Approved
+HL00357,T Nagar,Branch,1700000,0,3,3,1,7,1,Approved
+HL00358,Adyar,Digital,2500000,0,3,1,3,7,1,Rejected
+HL00359,Tambaram,Digital,2900000,0,1,3,1,5,1,Rejected
+HL00360,Velachery,Branch,1300000,0,4,2,3,9,0,Approved
+HL00361,Tambaram,Digital,7000000,0,3,5,1,9,0,Rejected
+HL00362,T Nagar,Branch,350000,0,1,4,3,8,1,Pending
+HL00363,Tambaram,Branch,2300000,0,3,6,2,11,0,Rejected
+HL00364,T Nagar,Digital,900000,0,3,4,1,8,1,Approved
+HL00365,Adyar,Digital,600000,0,1,5,2,8,1,Approved
+HL00366,Anna Nagar,Branch,5750000,0,2,2,2,6,1,Approved
+HL00367,Velachery,Digital,2750000,1,4,5,1,10,0,Rejected
+HL00368,Anna Nagar,Branch,2300000,0,3,4,2,9,0,Approved
+HL00369,Adyar,Digital,2550000,0,3,4,2,9,0,Approved
+HL00370,T Nagar,Partner,2600000,0,3,7,1,11,0,Approved
+HL00371,Anna Nagar,Digital,7050000,0,4,5,2,11,0,Approved
+HL00372,Tambaram,Digital,1050000,0,4,1,1,6,1,Approved
+HL00373,Tambaram,Digital,4050000,0,2,1,1,4,1,Approved
+HL00374,Velachery,Digital,4150000,0,1,3,2,6,1,Approved
+HL00375,Velachery,Digital,3250000,0,1,4,2,7,1,Approved
+HL00376,Anna Nagar,Digital,4100000,0,1,4,2,7,1,Approved
+HL00377,Anna Nagar,Branch,1000000,0,2,4,3,9,0,Rejected
+HL00378,Adyar,Digital,5950000,0,3,4,2,9,0,Approved
+HL00379,Tambaram,Digital,3500000,0,3,1,1,5,1,Rejected
+HL00380,Adyar,Branch,1700000,0,1,3,2,6,1,Rejected
+HL00381,T Nagar,Branch,7300000,0,2,6,2,10,0,Rejected
+HL00382,T Nagar,Branch,4400000,0,2,3,2,7,1,Rejected
+HL00383,Anna Nagar,Digital,4700000,0,4,3,2,9,0,Approved
+HL00384,Anna Nagar,Digital,4800000,1,5,4,3,12,0,Approved
+HL00385,T Nagar,Partner,5550000,0,1,6,3,10,0,Approved
+HL00386,Adyar,Branch,6900000,0,2,4,2,8,1,Approved
+HL00387,Velachery,Branch,5900000,1,6,5,1,12,0,Approved
+HL00388,Tambaram,Branch,2600000,0,3,3,1,7,1,Approved
+HL00389,Velachery,Digital,1850000,1,5,4,2,11,0,Rejected
+HL00390,Anna Nagar,Digital,5500000,1,4,2,2,8,1,Pending
+HL00391,Anna Nagar,Digital,6600000,0,2,6,2,10,0,Approved
+HL00392,Adyar,Digital,3200000,0,3,6,1,10,0,Rejected
+HL00393,Adyar,Partner,2450000,0,2,7,2,11,0,Approved
+HL00394,T Nagar,Branch,2150000,0,2,3,1,6,1,Rejected
+HL00395,Adyar,Partner,5000000,0,3,7,2,12,0,Approved
+HL00396,Velachery,Branch,7950000,0,3,5,1,9,0,Approved
+HL00397,Adyar,Branch,1800000,0,3,1,2,6,1,Rejected
+HL00398,Tambaram,Partner,3200000,0,4,6,3,13,0,Approved
+HL00399,Adyar,Digital,4050000,0,1,5,2,8,1,Rejected
+HL00400,Adyar,Partner,6750000,0,1,8,2,11,0,Approved
+HL00401,Velachery,Branch,1300000,0,1,6,1,8,1,Pending
+HL00402,Adyar,Branch,7700000,0,3,5,2,10,0,Approved
+HL00403,T Nagar,Digital,6000000,0,2,4,2,8,1,Pending
+HL00404,Adyar,Branch,3850000,0,3,2,1,6,1,Approved
+HL00405,Adyar,Branch,700000,0,3,6,2,11,0,Approved
+HL00406,Tambaram,Partner,3050000,0,2,7,1,10,0,Rejected
+HL00407,Tambaram,Digital,900000,1,4,1,2,7,1,Rejected
+HL00408,Tambaram,Branch,2200000,0,2,4,1,7,1,Approved
+HL00409,T Nagar,Branch,2550000,0,3,3,3,9,0,Approved
+HL00410,Velachery,Branch,7100000,0,2,1,1,4,1,Approved
+HL00411,Tambaram,Digital,2200000,0,2,3,1,6,1,Approved
+HL00412,Anna Nagar,Digital,4200000,0,2,6,2,10,0,Rejected
+HL00413,Tambaram,Digital,2600000,0,3,2,4,9,0,Approved
+HL00414,Velachery,Branch,4350000,0,1,6,3,10,0,Rejected
+HL00415,Velachery,Branch,6500000,0,3,5,4,12,0,Approved
+HL00416,Velachery,Digital,7350000,0,2,5,2,9,0,Approved
+HL00417,Velachery,Partner,2300000,1,6,7,1,14,0,Approved
+HL00418,Anna Nagar,Digital,4600000,0,2,6,1,9,0,Approved
+HL00419,Velachery,Branch,850000,0,4,3,1,8,1,Approved
+HL00420,T Nagar,Branch,6950000,0,2,4,2,8,1,Rejected
+HL00421,Tambaram,Digital,5100000,0,4,2,2,8,1,Approved
+HL00422,Tambaram,Branch,2150000,0,3,4,2,9,0,Approved
+HL00423,Anna Nagar,Digital,4750000,0,1,6,2,9,0,Approved
+HL00424,Anna Nagar,Digital,4250000,0,1,4,1,6,1,Approved
+HL00425,Adyar,Digital,5300000,0,2,3,2,7,1,Approved
+HL00426,Tambaram,Branch,4650000,1,6,1,2,9,0,Rejected
+HL00427,Anna Nagar,Digital,2800000,0,3,3,1,7,1,Approved
+HL00428,T Nagar,Branch,7100000,0,5,6,2,13,0,Pending
+HL00429,T Nagar,Partner,2250000,0,4,7,3,14,0,Approved
+HL00430,Tambaram,Digital,6350000,0,3,3,2,8,1,Approved
+HL00431,Velachery,Branch,2500000,0,3,9,1,13,0,Rejected
+HL00432,T Nagar,Digital,500000,0,4,2,2,8,1,Rejected
+HL00433,Anna Nagar,Digital,5650000,1,4,4,1,9,0,Approved
+HL00434,Velachery,Branch,5500000,0,2,1,1,4,1,Approved
+HL00435,Velachery,Digital,4300000,0,3,4,2,9,0,Approved
+HL00436,T Nagar,Branch,5100000,0,2,3,3,8,1,Pending
+HL00437,Anna Nagar,Branch,6000000,0,3,6,1,10,0,Approved
+HL00438,Anna Nagar,Branch,5200000,0,3,4,1,8,1,Pending
+HL00439,Velachery,Branch,600000,0,1,3,3,7,1,Approved
+HL00440,Velachery,Branch,5400000,1,4,3,2,9,0,Approved
+HL00441,T Nagar,Digital,3600000,1,6,6,1,13,0,Approved
+HL00442,Tambaram,Digital,500000,0,2,4,2,8,1,Approved
+HL00443,Anna Nagar,Partner,5300000,0,1,7,2,10,0,Rejected
+HL00444,T Nagar,Digital,7500000,0,2,1,4,7,1,Approved
+HL00445,Velachery,Digital,2600000,0,2,1,2,5,1,Approved
+HL00446,T Nagar,Partner,2300000,0,2,7,1,10,0,Approved
+HL00447,Tambaram,Branch,3950000,0,2,1,1,4,1,Approved
+HL00448,T Nagar,Digital,4150000,0,2,1,2,5,1,Approved
+HL00449,Velachery,Digital,1000000,0,2,7,2,11,0,Approved
+HL00450,T Nagar,Digital,500000,0,2,4,2,8,1,Approved
+HL00451,Velachery,Digital,4550000,0,2,4,3,9,0,Rejected
+HL00452,Anna Nagar,Digital,4350000,0,4,6,3,13,0,Approved
+HL00453,Anna Nagar,Branch,3750000,0,1,4,1,6,1,Rejected
+HL00454,T Nagar,Branch,5650000,0,3,5,3,11,0,Pending
+HL00455,T Nagar,Branch,5100000,0,2,3,2,7,1,Rejected
+HL00456,Anna Nagar,Digital,2350000,0,2,1,1,4,1,Approved
+HL00457,Anna Nagar,Digital,500000,0,1,4,2,7,1,Approved
+HL00458,Tambaram,Partner,7100000,0,1,4,2,7,1,Approved
+HL00459,Velachery,Branch,6750000,0,2,6,2,10,0,Approved
+HL00460,Velachery,Partner,2150000,0,2,4,1,7,1,Rejected
+HL00461,Adyar,Digital,700000,0,3,2,1,6,1,Approved
+HL00462,T Nagar,Digital,6550000,0,4,2,1,7,1,Pending
+HL00463,Velachery,Digital,4000000,0,2,4,3,9,0,Rejected
+HL00464,Adyar,Digital,8000000,0,3,5,3,11,0,Approved
+HL00465,T Nagar,Digital,7650000,0,3,4,1,8,1,Approved
+HL00466,Velachery,Branch,4700000,0,3,6,2,11,0,Rejected
+HL00467,Adyar,Branch,1650000,0,2,1,1,4,1,Pending
+HL00468,Anna Nagar,Partner,3600000,0,2,4,1,7,1,Approved
+HL00469,Anna Nagar,Partner,350000,1,5,8,4,17,0,Approved
+HL00470,Adyar,Partner,750000,1,6,8,3,17,0,Approved
+HL00471,Anna Nagar,Digital,550000,0,3,3,1,7,1,Approved
+HL00472,Tambaram,Digital,1250000,0,3,6,3,12,0,Approved
+HL00473,Adyar,Digital,2950000,0,3,5,1,9,0,Approved
+HL00474,Velachery,Digital,6600000,0,2,1,2,5,1,Approved
+HL00475,T Nagar,Branch,5150000,0,2,3,1,6,1,Approved
+HL00476,Tambaram,Branch,2150000,0,1,4,1,6,1,Approved
+HL00477,Adyar,Digital,4400000,0,1,4,2,7,1,Approved
+HL00478,T Nagar,Branch,4950000,0,2,4,2,8,1,Pending
+HL00479,Anna Nagar,Branch,8000000,1,4,3,2,9,0,Approved
+HL00480,T Nagar,Digital,4050000,0,3,5,3,11,0,Approved
+HL00481,Velachery,Branch,3650000,0,5,6,1,12,0,Rejected
+HL00482,Velachery,Branch,900000,0,3,2,2,7,1,Approved
+HL00483,T Nagar,Digital,7350000,0,4,5,2,11,0,Approved
+HL00484,Anna Nagar,Digital,7850000,0,3,1,1,5,1,Approved
+HL00485,Velachery,Partner,4800000,0,2,4,2,8,1,Approved
+HL00486,T Nagar,Branch,7800000,0,3,1,1,5,1,Approved
+HL00487,Adyar,Branch,2400000,0,3,3,1,7,1,Approved
+HL00488,Anna Nagar,Digital,3450000,0,4,3,1,8,1,Approved
+HL00489,T Nagar,Digital,1100000,1,6,4,1,11,0,Approved
+HL00490,Adyar,Digital,2700000,0,1,8,2,11,0,Approved
+HL00491,Adyar,Partner,4950000,0,2,5,1,8,1,Approved
+HL00492,Anna Nagar,Digital,3750000,0,2,6,2,10,0,Approved
+HL00493,T Nagar,Digital,5650000,0,4,2,2,8,1,Approved
+HL00494,Anna Nagar,Branch,2800000,0,3,4,2,9,0,Approved
+HL00495,Tambaram,Branch,850000,0,2,2,1,5,1,Rejected
+HL00496,Adyar,Branch,300000,1,6,3,2,11,0,Approved
+HL00497,Anna Nagar,Branch,1200000,1,7,4,1,12,0,Approved
+HL00498,Tambaram,Branch,4700000,0,2,4,1,7,1,Approved
+HL00499,Adyar,Digital,7000000,0,3,5,3,11,0,Rejected
+HL00500,Adyar,Partner,7300000,0,2,6,2,10,0,Approved
+HL00501,Adyar,Digital,950000,0,1,6,2,9,0,Approved
+HL00502,Adyar,Branch,950000,0,3,1,1,5,1,Rejected
+HL00503,Tambaram,Branch,3550000,0,6,2,2,10,0,Pending
+HL00504,T Nagar,Branch,2550000,0,2,5,2,9,0,Approved
+HL00505,Anna Nagar,Digital,4050000,1,5,4,2,11,0,Approved
+HL00506,T Nagar,Partner,2350000,0,1,5,3,9,0,Approved
+HL00507,Tambaram,Digital,7650000,0,1,3,3,7,1,Rejected
+HL00508,Anna Nagar,Digital,3350000,0,2,3,3,8,1,Approved
+HL00509,Anna Nagar,Digital,6100000,0,2,4,1,7,1,Approved
+HL00510,T Nagar,Partner,5550000,1,4,6,3,13,0,Rejected
+HL00511,Adyar,Digital,1150000,1,6,1,3,10,0,Approved
+HL00512,T Nagar,Branch,2400000,0,2,3,2,7,1,Approved
+HL00513,Anna Nagar,Digital,800000,0,4,4,1,9,0,Approved
+HL00514,Tambaram,Partner,2050000,0,2,3,1,6,1,Approved
+HL00515,Adyar,Branch,6500000,0,2,3,1,6,1,Approved
+HL00516,Tambaram,Branch,5050000,0,2,4,1,7,1,Rejected
+HL00517,Adyar,Digital,3500000,0,1,3,1,5,1,Rejected
+HL00518,Velachery,Digital,1000000,0,3,4,1,8,1,Approved
+HL00519,Adyar,Digital,1000000,0,3,4,2,9,0,Approved
+HL00520,Tambaram,Partner,4700000,0,1,6,1,8,1,Approved
+HL00521,Adyar,Partner,6550000,0,1,5,1,7,1,Approved
+HL00522,Tambaram,Branch,3000000,0,2,2,2,6,1,Pending
+HL00523,Tambaram,Partner,4600000,0,4,6,1,11,0,Pending
+HL00524,Anna Nagar,Digital,1200000,0,3,4,3,10,0,Approved
+HL00525,T Nagar,Branch,4500000,0,3,6,3,12,0,Approved
+HL00526,Adyar,Digital,2950000,0,2,4,1,7,1,Approved
+HL00527,Tambaram,Partner,4100000,0,4,7,1,12,0,Approved
+HL00528,Velachery,Branch,2500000,0,1,4,1,6,1,Approved
+HL00529,Anna Nagar,Digital,7150000,0,2,1,2,5,1,Rejected
+HL00530,T Nagar,Digital,6400000,1,5,7,1,13,0,Rejected
+HL00531,Anna Nagar,Branch,7000000,1,5,3,2,10,0,Pending
+HL00532,Tambaram,Digital,4700000,0,3,1,2,6,1,Approved
+HL00533,T Nagar,Branch,5900000,0,2,4,3,9,0,Approved
+HL00534,Anna Nagar,Branch,6800000,0,1,3,1,5,1,Approved
+HL00535,Velachery,Digital,2450000,0,1,6,3,10,0,Rejected
+HL00536,T Nagar,Branch,1950000,0,4,3,1,8,1,Approved
+HL00537,T Nagar,Digital,750000,0,3,4,1,8,1,Approved
+HL00538,Adyar,Branch,6050000,0,3,5,2,10,0,Approved
+HL00539,Velachery,Partner,5950000,1,6,5,3,14,0,Pending
+HL00540,Anna Nagar,Digital,7000000,1,6,3,2,11,0,Rejected
+HL00541,Anna Nagar,Partner,5650000,0,2,5,3,10,0,Pending
+HL00542,T Nagar,Digital,7800000,0,1,2,1,4,1,Approved
+HL00543,Velachery,Partner,1000000,1,6,4,1,11,0,Approved
+HL00544,Velachery,Partner,7900000,1,5,8,2,15,0,Pending
+HL00545,Tambaram,Digital,500000,0,4,3,2,9,0,Approved
+HL00546,Velachery,Digital,3050000,1,5,5,1,11,0,Approved
+HL00547,T Nagar,Digital,1000000,0,2,3,1,6,1,Approved
+HL00548,Velachery,Branch,2150000,0,1,3,1,5,1,Approved
+HL00549,Adyar,Partner,1550000,0,2,6,2,10,0,Rejected
+HL00550,Anna Nagar,Digital,6300000,0,2,3,1,6,1,Approved
+HL00551,Velachery,Branch,4350000,0,3,4,1,8,1,Rejected
+HL00552,Anna Nagar,Partner,4600000,0,4,7,3,14,0,Approved
+HL00553,Adyar,Branch,4200000,1,5,6,3,14,0,Approved
+HL00554,Anna Nagar,Branch,1950000,1,6,4,3,13,0,Approved
+HL00555,Velachery,Branch,1850000,0,1,4,1,6,1,Pending
+HL00556,Velachery,Digital,2150000,0,1,3,2,6,1,Pending
+HL00557,T Nagar,Digital,7850000,0,5,4,2,11,0,Approved
+HL00558,T Nagar,Digital,6800000,0,4,3,1,8,1,Approved
+HL00559,Tambaram,Digital,5750000,0,3,5,1,9,0,Rejected
+HL00560,Tambaram,Branch,1400000,0,2,4,1,7,1,Approved
+HL00561,T Nagar,Partner,5500000,1,4,7,3,14,0,Approved
+HL00562,Velachery,Branch,600000,0,1,2,2,5,1,Approved
+HL00563,Tambaram,Branch,7400000,0,4,1,2,7,1,Approved
+HL00564,Velachery,Digital,7850000,0,2,5,1,8,1,Rejected
+HL00565,Velachery,Digital,1050000,0,3,2,2,7,1,Pending
+HL00566,Adyar,Partner,3600000,0,1,4,1,6,1,Pending
+HL00567,Velachery,Digital,6050000,0,4,4,2,10,0,Pending
+HL00568,Tambaram,Partner,4850000,0,2,4,1,7,1,Approved
+HL00569,T Nagar,Branch,3050000,0,1,5,1,7,1,Approved
+HL00570,Velachery,Branch,4700000,0,3,2,1,6,1,Pending
+HL00571,Anna Nagar,Branch,2550000,1,4,6,2,12,0,Approved
+HL00572,T Nagar,Branch,6550000,0,3,4,2,9,0,Approved
+HL00573,Velachery,Digital,7550000,0,4,2,2,8,1,Approved
+HL00574,Anna Nagar,Digital,1750000,0,3,3,1,7,1,Rejected
+HL00575,T Nagar,Partner,1500000,0,1,8,1,10,0,Approved
+HL00576,Adyar,Branch,4900000,0,1,4,2,7,1,Approved
+HL00577,Velachery,Branch,6350000,0,1,2,1,4,1,Rejected
+HL00578,Anna Nagar,Branch,1700000,0,1,3,1,5,1,Approved
+HL00579,Tambaram,Branch,4850000,0,2,2,2,6,1,Approved
+HL00580,Velachery,Partner,7950000,0,2,4,1,7,1,Approved
+HL00581,Tambaram,Branch,7300000,0,3,1,1,5,1,Approved
+HL00582,T Nagar,Digital,4100000,0,1,1,2,4,1,Approved
+HL00583,Adyar,Partner,5650000,0,4,7,1,12,0,Approved
+HL00584,Velachery,Digital,2250000,1,8,6,2,16,0,Pending
+HL00585,Velachery,Branch,5800000,0,2,5,1,8,1,Rejected
+HL00586,T Nagar,Digital,1000000,0,1,1,2,4,1,Approved
+HL00587,T Nagar,Branch,3100000,0,3,5,2,10,0,Rejected
+HL00588,Velachery,Branch,3000000,1,4,5,1,10,0,Rejected
+HL00589,Velachery,Digital,5050000,0,2,2,1,5,1,Approved
+HL00590,T Nagar,Branch,3350000,0,2,5,2,9,0,Rejected
+HL00591,T Nagar,Branch,1700000,0,3,5,2,10,0,Rejected
+HL00592,Velachery,Digital,1450000,1,5,3,2,10,0,Approved
+HL00593,T Nagar,Digital,3350000,0,3,2,3,8,1,Rejected
+HL00594,Velachery,Digital,5750000,0,3,4,1,8,1,Approved
+HL00595,Anna Nagar,Digital,1900000,0,2,4,2,8,1,Approved
+HL00596,Velachery,Branch,5750000,0,2,7,2,11,0,Pending
+HL00597,Adyar,Partner,4400000,0,3,9,1,13,0,Approved
+HL00598,Velachery,Digital,1700000,1,5,4,2,11,0,Rejected
+HL00599,Adyar,Digital,2200000,0,1,2,1,4,1,Approved
+HL00600,Anna Nagar,Branch,7950000,1,5,8,1,14,0,Approved
+HL00601,Velachery,Digital,6750000,0,3,6,4,13,0,Approved
+HL00602,Tambaram,Branch,4400000,0,2,2,1,5,1,Approved
+HL00603,Anna Nagar,Digital,7200000,0,1,5,3,9,0,Approved
+HL00604,Velachery,Partner,4050000,0,2,3,2,7,1,Approved
+HL00605,T Nagar,Digital,5850000,0,2,4,2,8,1,Approved
+HL00606,Anna Nagar,Digital,5300000,0,4,1,3,8,1,Approved
+HL00607,Velachery,Partner,4500000,1,4,7,2,13,0,Approved
+HL00608,Tambaram,Digital,400000,0,2,2,1,5,1,Approved
+HL00609,Tambaram,Digital,6850000,0,4,1,2,7,1,Approved
+HL00610,T Nagar,Digital,5300000,0,1,1,1,3,1,Rejected
+HL00611,T Nagar,Digital,7000000,0,2,4,1,7,1,Approved
+HL00612,Tambaram,Digital,3600000,0,2,5,2,9,0,Approved
+HL00613,Anna Nagar,Digital,4450000,0,1,8,2,11,0,Approved
+HL00614,Adyar,Branch,3000000,0,4,3,3,10,0,Rejected
+HL00615,T Nagar,Partner,6200000,1,5,3,2,10,0,Rejected
+HL00616,Velachery,Digital,6500000,1,5,3,1,9,0,Approved
+HL00617,T Nagar,Branch,4050000,1,5,7,1,13,0,Approved
+HL00618,Tambaram,Partner,950000,0,3,8,1,12,0,Approved
+HL00619,Velachery,Branch,2100000,0,2,4,2,8,1,Rejected
+HL00620,Velachery,Partner,7900000,0,3,10,2,15,0,Approved
+HL00621,Velachery,Digital,7450000,1,6,4,2,12,0,Approved
+HL00622,T Nagar,Partner,900000,0,4,5,1,10,0,Approved
+HL00623,T Nagar,Digital,1700000,0,4,2,3,9,0,Approved
+HL00624,Anna Nagar,Digital,6600000,0,1,4,1,6,1,Rejected
+HL00625,Anna Nagar,Partner,7850000,0,4,7,1,12,0,Approved
+HL00626,T Nagar,Partner,5850000,0,3,7,2,12,0,Approved
+HL00627,Tambaram,Digital,6750000,0,2,5,3,10,0,Approved
+HL00628,Tambaram,Branch,3200000,0,2,3,1,6,1,Approved
+HL00629,T Nagar,Digital,7100000,0,5,1,1,7,1,Approved
+HL00630,Tambaram,Digital,1650000,0,1,5,1,7,1,Rejected
+HL00631,T Nagar,Partner,750000,0,4,7,3,14,0,Approved
+HL00632,Velachery,Digital,8000000,0,2,4,1,7,1,Approved
+HL00633,Anna Nagar,Branch,2700000,0,2,4,1,7,1,Approved
+HL00634,Velachery,Branch,3350000,0,1,4,4,9,0,Approved
+HL00635,T Nagar,Branch,6200000,0,2,4,3,9,0,Approved
+HL00636,Velachery,Branch,4350000,0,2,5,2,9,0,Rejected
+HL00637,Adyar,Branch,7950000,0,3,3,2,8,1,Approved
+HL00638,T Nagar,Digital,6250000,0,3,7,3,13,0,Approved
+HL00639,Velachery,Partner,3400000,1,7,5,1,13,0,Approved
+HL00640,Velachery,Branch,2550000,0,1,4,1,6,1,Pending
+HL00641,Anna Nagar,Digital,3500000,0,1,4,2,7,1,Approved
+HL00642,Adyar,Digital,4750000,0,3,3,2,8,1,Pending
+HL00643,T Nagar,Branch,4000000,1,6,5,2,13,0,Approved
+HL00644,Tambaram,Branch,1100000,0,3,2,1,6,1,Pending
+HL00645,Velachery,Branch,850000,0,3,2,2,7,1,Approved
+HL00646,Tambaram,Digital,2600000,1,7,6,1,14,0,Approved
+HL00647,Tambaram,Digital,3100000,0,1,4,1,6,1,Approved
+HL00648,Adyar,Branch,4050000,0,1,2,1,4,1,Approved
+HL00649,Adyar,Partner,3750000,1,4,5,2,11,0,Pending
+HL00650,Anna Nagar,Digital,1300000,1,5,3,1,9,0,Approved
+HL00651,Tambaram,Branch,5750000,0,2,3,1,6,1,Rejected
+HL00652,Velachery,Digital,1300000,1,6,9,2,17,0,Approved
+HL00653,Adyar,Partner,7250000,1,6,7,1,14,0,Approved
+HL00654,Adyar,Digital,1600000,0,3,5,1,9,0,Rejected
+HL00655,Adyar,Digital,6150000,0,2,3,2,7,1,Approved
+HL00656,Anna Nagar,Digital,1200000,0,2,5,2,9,0,Approved
+HL00657,T Nagar,Partner,7550000,0,2,6,2,10,0,Rejected
+HL00658,T Nagar,Digital,6300000,0,2,3,1,6,1,Rejected
+HL00659,Adyar,Partner,5750000,0,2,5,1,8,1,Approved
+HL00660,T Nagar,Digital,4550000,0,3,1,1,5,1,Approved
+HL00661,T Nagar,Digital,4200000,0,1,7,2,10,0,Approved
+HL00662,Anna Nagar,Digital,4200000,0,3,4,1,8,1,Approved
+HL00663,T Nagar,Partner,4400000,0,2,4,3,9,0,Approved
+HL00664,T Nagar,Partner,3600000,0,3,6,1,10,0,Pending
+HL00665,Anna Nagar,Digital,4750000,0,3,3,1,7,1,Approved
+HL00666,Velachery,Branch,4350000,0,1,5,2,8,1,Rejected
+HL00667,Tambaram,Partner,2100000,1,6,8,1,15,0,Approved
+HL00668,Velachery,Digital,1950000,0,3,6,1,10,0,Rejected
+HL00669,Velachery,Digital,3050000,0,3,1,1,5,1,Approved
+HL00670,Adyar,Digital,4450000,0,1,3,1,5,1,Rejected
+HL00671,Anna Nagar,Branch,5150000,0,2,4,2,8,1,Pending
+HL00672,Velachery,Branch,7700000,1,4,1,2,7,1,Approved
+HL00673,Tambaram,Digital,650000,0,2,2,2,6,1,Approved
+HL00674,Tambaram,Partner,7950000,0,3,4,3,10,0,Rejected
+HL00675,Tambaram,Digital,5600000,1,7,4,2,13,0,Approved
+HL00676,T Nagar,Digital,4050000,1,4,4,3,11,0,Approved
+HL00677,Velachery,Branch,350000,0,3,6,1,10,0,Rejected
+HL00678,Tambaram,Digital,2250000,0,1,6,2,9,0,Rejected
+HL00679,Anna Nagar,Partner,1100000,0,1,5,2,8,1,Approved
+HL00680,Anna Nagar,Branch,1000000,0,2,2,1,5,1,Rejected
+HL00681,T Nagar,Branch,2950000,0,1,1,1,3,1,Approved
+HL00682,T Nagar,Partner,2150000,0,4,5,2,11,0,Approved
+HL00683,Velachery,Branch,7650000,1,5,5,2,12,0,Approved
+HL00684,Adyar,Digital,3950000,0,4,6,2,12,0,Pending
+HL00685,Velachery,Branch,1200000,0,2,3,1,6,1,Pending
+HL00686,T Nagar,Branch,6100000,0,2,5,2,9,0,Rejected
+HL00687,Anna Nagar,Digital,8000000,0,2,5,1,8,1,Rejected
+HL00688,Tambaram,Branch,7800000,1,4,3,1,8,1,Approved
+HL00689,Velachery,Branch,3750000,0,3,6,1,10,0,Approved
+HL00690,Adyar,Digital,7100000,0,1,6,3,10,0,Approved
+HL00691,Velachery,Partner,1000000,0,3,5,3,11,0,Approved
+HL00692,Anna Nagar,Partner,2050000,0,3,6,2,11,0,Pending
+HL00693,Adyar,Branch,2350000,0,1,1,2,4,1,Approved
+HL00694,T Nagar,Branch,2400000,1,5,3,2,10,0,Pending
+HL00695,Adyar,Digital,1400000,0,4,4,2,10,0,Approved
+HL00696,Velachery,Partner,4050000,0,1,4,3,8,1,Approved
+HL00697,Tambaram,Digital,4450000,1,5,6,3,14,0,Approved
+HL00698,Anna Nagar,Branch,5600000,0,2,3,2,7,1,Rejected
+HL00699,T Nagar,Branch,7250000,0,2,1,2,5,1,Approved
+HL00700,Velachery,Partner,550000,0,1,7,2,10,0,Rejected
+HL00701,Velachery,Partner,1000000,0,1,5,1,7,1,Rejected
+HL00702,Velachery,Branch,7200000,1,7,1,1,9,0,Approved
+HL00703,T Nagar,Digital,3200000,0,2,5,1,8,1,Approved
+HL00704,Adyar,Partner,3500000,0,2,5,2,9,0,Rejected
+HL00705,Velachery,Digital,2450000,0,3,3,3,9,0,Approved
+HL00706,T Nagar,Partner,5350000,0,3,3,2,8,1,Approved
+HL00707,Tambaram,Branch,7400000,0,1,3,3,7,1,Approved
+HL00708,Velachery,Branch,1800000,0,4,6,3,13,0,Approved
+HL00709,Velachery,Partner,900000,0,2,7,2,11,0,Pending
+HL00710,T Nagar,Branch,7850000,0,1,5,1,7,1,Approved
+HL00711,Adyar,Partner,2650000,0,2,5,2,9,0,Pending
+HL00712,Adyar,Digital,3200000,0,4,4,3,11,0,Approved
+HL00713,Velachery,Branch,4050000,0,2,3,2,7,1,Approved
+HL00714,T Nagar,Digital,4100000,0,5,4,1,10,0,Rejected
+HL00715,Anna Nagar,Branch,4050000,0,2,5,1,8,1,Pending
+HL00716,Tambaram,Partner,1100000,1,4,7,2,13,0,Approved
+HL00717,Velachery,Digital,7100000,0,2,3,2,7,1,Pending
+HL00718,T Nagar,Branch,7650000,0,3,5,1,9,0,Approved
+HL00719,Tambaram,Digital,6000000,0,4,2,1,7,1,Approved
+HL00720,Velachery,Branch,700000,0,5,3,3,11,0,Approved
+HL00721,Tambaram,Digital,450000,1,5,5,1,11,0,Approved
+HL00722,Tambaram,Digital,4400000,0,3,8,3,14,0,Approved
+HL00723,T Nagar,Branch,7150000,0,2,1,2,5,1,Approved
+HL00724,Velachery,Branch,5250000,0,2,5,1,8,1,Approved
+HL00725,Tambaram,Branch,4000000,0,2,6,2,10,0,Rejected
+HL00726,Tambaram,Branch,6500000,0,2,3,1,6,1,Approved
+HL00727,T Nagar,Branch,6850000,0,6,2,1,9,0,Approved
+HL00728,Adyar,Digital,4450000,0,1,4,1,6,1,Rejected
+HL00729,Adyar,Partner,2000000,0,1,6,2,9,0,Approved
+HL00730,Velachery,Branch,2700000,0,4,6,1,11,0,Approved
+HL00731,Adyar,Digital,2800000,0,2,4,2,8,1,Approved
+HL00732,Adyar,Branch,300000,0,2,5,1,8,1,Pending
+HL00733,T Nagar,Partner,5650000,0,2,5,2,9,0,Approved
+HL00734,Tambaram,Digital,400000,0,2,4,1,7,1,Rejected
+HL00735,Adyar,Digital,450000,0,1,4,1,6,1,Approved
+HL00736,Anna Nagar,Digital,750000,0,3,3,2,8,1,Rejected
+HL00737,Adyar,Digital,4450000,0,1,6,1,8,1,Approved
+HL00738,Velachery,Digital,5700000,0,2,5,1,8,1,Rejected
+HL00739,T Nagar,Branch,950000,0,3,4,2,9,0,Approved
+HL00740,Velachery,Digital,5050000,0,4,4,2,10,0,Rejected
+HL00741,T Nagar,Branch,4250000,0,1,3,2,6,1,Approved
+HL00742,Velachery,Branch,4850000,0,1,5,2,8,1,Rejected
+HL00743,Anna Nagar,Digital,3950000,0,2,5,2,9,0,Approved
+HL00744,Velachery,Partner,350000,0,3,5,1,9,0,Rejected
+HL00745,Velachery,Branch,5200000,0,2,3,2,7,1,Approved
+HL00746,Velachery,Branch,2200000,1,4,7,2,13,0,Approved
+HL00747,Adyar,Digital,1400000,0,3,8,2,13,0,Pending
+HL00748,Adyar,Branch,3450000,0,3,6,1,10,0,Approved
+HL00749,Velachery,Partner,350000,0,2,6,1,9,0,Rejected
+HL00750,Velachery,Digital,6050000,0,1,3,2,6,1,Rejected
+HL00751,T Nagar,Branch,6600000,0,3,1,3,7,1,Rejected
+HL00752,Tambaram,Branch,2950000,0,2,4,2,8,1,Approved
+HL00753,Tambaram,Digital,1900000,0,2,2,2,6,1,Approved
+HL00754,Tambaram,Branch,7650000,0,3,2,2,7,1,Approved
+HL00755,Velachery,Digital,3100000,0,4,6,3,13,0,Pending
+HL00756,Adyar,Partner,6800000,1,6,6,2,14,0,Approved
+HL00757,Tambaram,Branch,7800000,0,2,4,1,7,1,Pending
+HL00758,Tambaram,Branch,6650000,0,3,5,1,9,0,Rejected
+HL00759,Anna Nagar,Digital,2500000,0,2,6,1,9,0,Approved
+HL00760,Anna Nagar,Digital,3300000,0,2,3,2,7,1,Approved
+HL00761,T Nagar,Digital,1250000,0,4,4,1,9,0,Approved
+HL00762,T Nagar,Branch,1750000,0,3,3,1,7,1,Pending
+HL00763,T Nagar,Branch,2900000,0,2,4,1,7,1,Rejected
+HL00764,Adyar,Branch,7850000,1,4,3,2,9,0,Approved
+HL00765,Tambaram,Branch,6750000,0,1,6,2,9,0,Approved
+HL00766,T Nagar,Digital,5350000,0,1,4,2,7,1,Pending
+HL00767,Adyar,Branch,4050000,0,3,4,3,10,0,Approved
+HL00768,Anna Nagar,Partner,2700000,0,4,6,3,13,0,Rejected
+HL00769,Velachery,Digital,2200000,0,4,3,1,8,1,Approved
+HL00770,Velachery,Digital,5850000,0,3,5,1,9,0,Approved
+HL00771,T Nagar,Digital,4850000,0,1,7,1,9,0,Pending
+HL00772,T Nagar,Branch,6500000,0,1,1,1,3,1,Approved
+HL00773,Velachery,Partner,3150000,0,2,4,1,7,1,Rejected
+HL00774,Velachery,Branch,4250000,0,2,7,2,11,0,Approved
+HL00775,Anna Nagar,Branch,6500000,0,4,7,2,13,0,Approved
+HL00776,Anna Nagar,Branch,3400000,1,5,5,1,11,0,Approved
+HL00777,Velachery,Partner,900000,0,3,8,1,12,0,Approved
+HL00778,Adyar,Digital,1750000,0,3,4,2,9,0,Rejected
+HL00779,T Nagar,Digital,900000,1,5,3,3,11,0,Approved
+HL00780,Adyar,Digital,4550000,0,3,7,3,13,0,Pending
+HL00781,Anna Nagar,Digital,2800000,0,2,5,3,10,0,Approved
+HL00782,Tambaram,Digital,1800000,0,3,3,2,8,1,Approved
+HL00783,Adyar,Branch,1350000,0,1,5,1,7,1,Pending
+HL00784,Tambaram,Digital,1050000,0,3,5,2,10,0,Approved
+HL00785,Tambaram,Digital,2200000,0,2,2,4,8,1,Approved
+HL00786,T Nagar,Digital,6450000,0,1,4,2,7,1,Approved
+HL00787,Velachery,Digital,4450000,0,3,1,1,5,1,Rejected
+HL00788,Anna Nagar,Digital,3050000,0,1,4,1,6,1,Approved
+HL00789,Velachery,Partner,1650000,0,3,7,1,11,0,Approved
+HL00790,Tambaram,Digital,300000,0,2,6,1,9,0,Approved
+HL00791,Anna Nagar,Branch,2300000,0,3,6,1,10,0,Rejected
+HL00792,Tambaram,Branch,4400000,0,2,2,2,6,1,Approved
+HL00793,Adyar,Partner,6050000,0,1,8,3,12,0,Pending
+HL00794,Tambaram,Branch,5550000,0,1,7,2,10,0,Rejected
+HL00795,Anna Nagar,Digital,2100000,0,3,4,1,8,1,Approved
+HL00796,Adyar,Branch,2350000,0,1,4,1,6,1,Approved
+HL00797,Adyar,Branch,1800000,0,2,3,3,8,1,Pending
+HL00798,Anna Nagar,Digital,4850000,0,2,8,2,12,0,Pending
+HL00799,Adyar,Digital,4600000,0,1,3,2,6,1,Approved
+HL00800,Adyar,Digital,2150000,0,1,4,1,6,1,Approved
+HL00801,Velachery,Digital,2900000,0,2,3,2,7,1,Rejected
+HL00802,T Nagar,Branch,750000,0,3,6,1,10,0,Approved
+HL00803,Anna Nagar,Digital,7550000,0,3,4,2,9,0,Rejected
+HL00804,Anna Nagar,Digital,5250000,1,4,2,1,7,1,Rejected
+HL00805,T Nagar,Branch,7650000,0,3,2,2,7,1,Rejected
+HL00806,Velachery,Digital,1750000,0,4,2,1,7,1,Approved
+HL00807,Velachery,Partner,4250000,0,5,7,1,13,0,Approved
+HL00808,Anna Nagar,Partner,3200000,0,1,5,3,9,0,Approved
+HL00809,Tambaram,Digital,7100000,0,2,6,3,11,0,Approved
+HL00810,Tambaram,Branch,2700000,0,2,6,2,10,0,Approved
+HL00811,T Nagar,Branch,3000000,0,1,3,1,5,1,Approved
+HL00812,Velachery,Digital,2900000,0,2,3,2,7,1,Approved
+HL00813,Tambaram,Partner,3750000,0,2,7,1,10,0,Approved
+HL00814,Anna Nagar,Partner,1350000,0,1,3,1,5,1,Approved
+HL00815,Adyar,Branch,7700000,1,6,6,1,13,0,Approved
+HL00816,T Nagar,Partner,2500000,0,3,8,2,13,0,Approved
+HL00817,Velachery,Branch,5950000,1,4,5,1,10,0,Approved
+HL00818,Tambaram,Digital,5250000,0,2,2,1,5,1,Approved
+HL00819,T Nagar,Branch,1050000,0,2,3,1,6,1,Rejected
+HL00820,Adyar,Partner,3500000,0,4,4,3,11,0,Approved
+HL00821,Tambaram,Branch,4050000,0,2,3,1,6,1,Rejected
+HL00822,Adyar,Branch,1050000,0,4,1,1,6,1,Approved
+HL00823,Anna Nagar,Digital,8000000,0,2,6,3,11,0,Approved
+HL00824,Anna Nagar,Digital,6350000,0,2,3,1,6,1,Pending
+HL00825,Velachery,Digital,5350000,1,5,2,3,10,0,Rejected
+HL00826,Velachery,Digital,2600000,0,1,7,1,9,0,Pending
+HL00827,Tambaram,Branch,3950000,0,2,6,2,10,0,Rejected
+HL00828,Anna Nagar,Digital,300000,1,5,2,3,10,0,Approved
+HL00829,Velachery,Branch,4050000,0,3,2,2,7,1,Approved
+HL00830,Anna Nagar,Branch,600000,0,1,2,1,4,1,Approved
+HL00831,Adyar,Branch,4900000,0,3,5,2,10,0,Rejected
+HL00832,Adyar,Partner,4150000,0,1,6,3,10,0,Approved
+HL00833,Tambaram,Digital,6450000,0,1,6,1,8,1,Approved
+HL00834,Anna Nagar,Partner,3300000,1,6,8,2,16,0,Approved
+HL00835,T Nagar,Partner,3300000,0,1,7,1,9,0,Approved
+HL00836,Anna Nagar,Branch,3500000,0,3,1,1,5,1,Approved
+HL00837,Velachery,Branch,2950000,0,2,1,1,4,1,Approved
+HL00838,Adyar,Branch,4300000,0,3,2,1,6,1,Approved
+HL00839,Velachery,Branch,4250000,0,3,3,2,8,1,Approved
+HL00840,Tambaram,Branch,2150000,0,2,3,1,6,1,Approved
+HL00841,Tambaram,Branch,500000,0,1,6,2,9,0,Approved
+HL00842,Tambaram,Branch,4100000,1,6,3,2,11,0,Rejected
+HL00843,Adyar,Branch,800000,0,2,1,1,4,1,Approved
+HL00844,Velachery,Partner,5900000,0,2,7,1,10,0,Approved
+HL00845,Anna Nagar,Digital,2650000,0,2,2,2,6,1,Approved
+HL00846,Anna Nagar,Branch,1000000,0,3,4,2,9,0,Pending
+HL00847,T Nagar,Digital,5150000,0,2,2,2,6,1,Rejected
+HL00848,Anna Nagar,Branch,1300000,0,3,2,2,7,1,Approved
+HL00849,Adyar,Branch,7700000,1,6,3,3,12,0,Approved
+HL00850,T Nagar,Partner,1100000,0,2,4,3,9,0,Approved
+HL00851,T Nagar,Digital,1000000,0,1,3,2,6,1,Approved
+HL00852,Tambaram,Digital,1200000,0,4,3,1,8,1,Approved
+HL00853,Adyar,Digital,4400000,0,4,1,1,6,1,Rejected
+HL00854,Velachery,Partner,2800000,0,3,9,2,14,0,Approved
+HL00855,Anna Nagar,Digital,5700000,0,3,4,4,11,0,Rejected
+HL00856,Anna Nagar,Partner,5600000,0,2,9,2,13,0,Pending
+HL00857,Adyar,Digital,1000000,0,3,5,1,9,0,Approved
+HL00858,Adyar,Digital,4150000,0,2,6,2,10,0,Approved
+HL00859,Anna Nagar,Digital,2750000,0,3,3,2,8,1,Rejected
+HL00860,Velachery,Branch,3750000,0,2,6,3,11,0,Pending
+HL00861,Velachery,Partner,1850000,0,2,5,2,9,0,Rejected
+HL00862,Anna Nagar,Branch,2000000,1,6,2,3,11,0,Rejected
+HL00863,Tambaram,Branch,900000,0,1,1,1,3,1,Approved
+HL00864,Adyar,Branch,6350000,0,3,4,3,10,0,Pending
+HL00865,Tambaram,Digital,3500000,0,1,3,1,5,1,Approved
+HL00866,Tambaram,Branch,400000,0,2,8,1,11,0,Approved
+HL00867,Anna Nagar,Branch,1800000,0,2,3,1,6,1,Approved
+HL00868,Tambaram,Branch,6200000,1,7,3,1,11,0,Pending
+HL00869,T Nagar,Digital,1350000,0,2,4,1,7,1,Approved
+HL00870,Tambaram,Branch,3600000,0,4,3,2,9,0,Approved
+HL00871,Tambaram,Partner,3950000,0,3,7,1,11,0,Approved
+HL00872,Tambaram,Branch,6300000,0,1,5,1,7,1,Approved
+HL00873,Velachery,Branch,7850000,0,1,4,1,6,1,Approved
+HL00874,Velachery,Partner,3800000,0,4,4,1,9,0,Approved
+HL00875,Tambaram,Partner,3950000,0,3,6,1,10,0,Rejected
+HL00876,Anna Nagar,Partner,4450000,0,3,7,1,11,0,Approved
+HL00877,T Nagar,Digital,2000000,0,2,6,3,11,0,Rejected
+HL00878,Velachery,Partner,5100000,0,1,5,1,7,1,Approved
+HL00879,Velachery,Branch,2600000,0,2,1,2,5,1,Approved
+HL00880,Anna Nagar,Branch,2750000,0,2,5,3,10,0,Approved
+HL00881,Adyar,Digital,5450000,0,3,1,2,6,1,Rejected
+HL00882,Anna Nagar,Digital,4050000,0,5,4,2,11,0,Approved
+HL00883,Anna Nagar,Digital,950000,0,3,2,1,6,1,Rejected
+HL00884,Tambaram,Digital,2850000,0,4,1,1,6,1,Rejected
+HL00885,Velachery,Partner,1050000,0,2,4,2,8,1,Approved
+HL00886,Tambaram,Digital,3150000,0,1,7,2,10,0,Approved
+HL00887,Adyar,Digital,700000,0,3,4,1,8,1,Rejected
+HL00888,T Nagar,Digital,5300000,0,1,5,2,8,1,Approved
+HL00889,T Nagar,Digital,2200000,0,4,3,1,8,1,Rejected
+HL00890,Adyar,Branch,7650000,0,3,4,1,8,1,Approved
+HL00891,Tambaram,Partner,3650000,0,1,8,1,10,0,Approved
+HL00892,T Nagar,Partner,4000000,0,4,4,2,10,0,Approved
+HL00893,Adyar,Partner,7350000,0,2,3,2,7,1,Rejected
+HL00894,Adyar,Partner,1700000,0,1,7,1,9,0,Approved
+HL00895,Anna Nagar,Digital,5550000,0,1,3,2,6,1,Rejected
+HL00896,Velachery,Branch,750000,0,4,6,2,12,0,Pending
+HL00897,T Nagar,Digital,6050000,0,1,4,2,7,1,Rejected
+HL00898,Tambaram,Branch,3700000,0,3,3,3,9,0,Rejected
+HL00899,Tambaram,Partner,2950000,0,1,6,2,9,0,Approved
+HL00900,T Nagar,Digital,3150000,0,3,4,1,8,1,Approved
+HL00901,Tambaram,Digital,2750000,0,3,5,2,10,0,Rejected
+HL00902,Anna Nagar,Branch,4250000,0,3,2,3,8,1,Rejected
+HL00903,T Nagar,Digital,650000,0,2,5,1,8,1,Approved
+HL00904,T Nagar,Branch,1400000,0,2,5,1,8,1,Approved
+HL00905,T Nagar,Digital,6150000,0,1,5,1,7,1,Rejected
+HL00906,Velachery,Partner,5950000,0,3,5,2,10,0,Pending
+HL00907,Tambaram,Branch,4300000,0,4,7,3,14,0,Pending
+HL00908,Adyar,Branch,5400000,0,1,5,2,8,1,Approved
+HL00909,Velachery,Branch,6750000,0,3,6,1,10,0,Pending
+HL00910,T Nagar,Branch,1600000,0,4,4,2,10,0,Approved
+HL00911,Anna Nagar,Digital,1800000,1,6,4,2,12,0,Approved
+HL00912,T Nagar,Digital,3100000,0,3,5,3,11,0,Approved
+HL00913,Tambaram,Branch,6100000,0,1,1,3,5,1,Rejected
+HL00914,Velachery,Branch,3800000,0,4,2,3,9,0,Approved
+HL00915,Anna Nagar,Digital,6000000,0,2,4,4,10,0,Approved
+HL00916,Tambaram,Digital,3200000,0,4,5,3,12,0,Approved
+HL00917,T Nagar,Digital,2200000,0,1,5,1,7,1,Approved
+HL00918,T Nagar,Branch,7900000,0,3,4,2,9,0,Approved
+HL00919,Anna Nagar,Digital,1750000,0,3,4,2,9,0,Approved
+HL00920,Adyar,Branch,3350000,0,2,3,2,7,1,Pending
+HL00921,Velachery,Branch,6100000,0,2,8,2,12,0,Approved
+HL00922,T Nagar,Digital,4250000,0,4,5,1,10,0,Rejected
+HL00923,Velachery,Digital,2750000,0,1,5,2,8,1,Pending
+HL00924,Anna Nagar,Branch,7650000,1,6,2,1,9,0,Approved
+HL00925,T Nagar,Partner,4300000,0,1,7,2,10,0,Approved
+HL00926,Velachery,Branch,7100000,0,3,5,1,9,0,Rejected
+HL00927,T Nagar,Digital,6400000,0,2,4,2,8,1,Approved
+HL00928,Velachery,Branch,5250000,1,4,6,1,11,0,Rejected
+HL00929,Anna Nagar,Branch,1000000,0,1,5,2,8,1,Approved
+HL00930,T Nagar,Partner,6500000,0,2,5,1,8,1,Approved
+HL00931,T Nagar,Digital,6100000,0,1,5,2,8,1,Approved
+HL00932,Velachery,Branch,2250000,0,2,5,2,9,0,Approved
+HL00933,Anna Nagar,Partner,3050000,0,2,7,2,11,0,Approved
+HL00934,Anna Nagar,Digital,5700000,0,3,4,1,8,1,Approved
+HL00935,Adyar,Digital,3950000,0,1,4,3,8,1,Rejected
+HL00936,Adyar,Digital,5900000,0,1,4,2,7,1,Approved
+HL00937,Velachery,Digital,5100000,0,1,1,1,3,1,Approved
+HL00938,Velachery,Digital,7000000,0,3,6,1,10,0,Approved
+HL00939,Tambaram,Digital,1950000,0,1,3,4,8,1,Rejected
+HL00940,Adyar,Branch,3050000,0,4,5,3,12,0,Pending
+HL00941,T Nagar,Branch,6450000,0,3,1,3,7,1,Approved
+HL00942,Velachery,Digital,750000,1,4,3,2,9,0,Approved
+HL00943,T Nagar,Digital,5400000,0,3,3,1,7,1,Rejected
+HL00944,Velachery,Digital,6550000,0,2,3,1,6,1,Approved
+HL00945,Anna Nagar,Branch,3350000,1,6,4,1,11,0,Approved
+HL00946,Velachery,Digital,4450000,0,1,2,1,4,1,Approved
+HL00947,T Nagar,Digital,2600000,0,2,6,1,9,0,Rejected
+HL00948,Velachery,Branch,1950000,0,4,3,2,9,0,Rejected
+HL00949,Velachery,Partner,2350000,0,1,8,2,11,0,Pending
+HL00950,Adyar,Branch,2550000,0,1,7,2,10,0,Approved
+HL00951,T Nagar,Digital,3050000,0,3,4,2,9,0,Approved
+HL00952,Velachery,Digital,1700000,0,3,5,3,11,0,Approved
+HL00953,Anna Nagar,Partner,4350000,1,6,8,3,17,0,Approved
+HL00954,Velachery,Digital,7950000,0,1,6,3,10,0,Approved
+HL00955,Velachery,Branch,7300000,0,3,5,3,11,0,Pending
+HL00956,Tambaram,Branch,3950000,0,2,8,1,11,0,Rejected
+HL00957,Velachery,Partner,4600000,0,2,7,2,11,0,Rejected
+HL00958,Velachery,Partner,6750000,0,2,6,2,10,0,Approved
+HL00959,Anna Nagar,Digital,2850000,0,3,4,2,9,0,Approved
+HL00960,Anna Nagar,Digital,1950000,0,2,3,1,6,1,Approved
+HL00961,Velachery,Digital,2350000,0,2,5,2,9,0,Pending
+HL00962,T Nagar,Branch,3300000,0,1,3,1,5,1,Pending
+HL00963,Anna Nagar,Branch,6200000,0,2,3,1,6,1,Pending
+HL00964,Tambaram,Branch,4600000,0,3,8,2,13,0,Approved
+HL00965,Velachery,Branch,1000000,1,4,7,2,13,0,Approved
+HL00966,Adyar,Partner,5700000,0,1,4,2,7,1,Rejected
+HL00967,Anna Nagar,Branch,4600000,0,3,6,1,10,0,Approved
+HL00968,Anna Nagar,Branch,3650000,1,6,5,2,13,0,Approved
+HL00969,Tambaram,Partner,5250000,0,4,6,4,14,0,Approved
+HL00970,Anna Nagar,Digital,5650000,0,1,3,1,5,1,Approved
+HL00971,Anna Nagar,Branch,7900000,0,2,4,2,8,1,Approved
+HL00972,Tambaram,Digital,7600000,1,4,2,3,9,0,Rejected
+HL00973,Anna Nagar,Digital,7750000,0,1,5,1,7,1,Approved
+HL00974,Velachery,Digital,6700000,0,1,5,2,8,1,Rejected
+HL00975,Adyar,Digital,6450000,0,2,3,2,7,1,Rejected
+HL00976,Anna Nagar,Digital,750000,0,3,3,3,9,0,Approved
+HL00977,Anna Nagar,Digital,800000,0,1,1,2,4,1,Approved
+HL00978,T Nagar,Partner,7550000,1,6,3,1,10,0,Approved
+HL00979,Velachery,Digital,3850000,0,3,1,1,5,1,Approved
+HL00980,Anna Nagar,Digital,7550000,0,3,8,2,13,0,Approved
+HL00981,T Nagar,Partner,6200000,0,2,3,3,8,1,Pending
+HL00982,T Nagar,Digital,4950000,1,5,3,1,9,0,Approved
+HL00983,Adyar,Branch,5950000,0,2,2,1,5,1,Pending
+HL00984,Anna Nagar,Branch,7050000,0,3,6,2,11,0,Rejected
+HL00985,T Nagar,Digital,7550000,0,2,4,2,8,1,Approved
+HL00986,Tambaram,Digital,600000,0,2,6,1,9,0,Approved
+HL00987,Adyar,Partner,2100000,0,2,4,1,7,1,Pending
+HL00988,Tambaram,Digital,7850000,0,1,1,2,4,1,Approved
+HL00989,Velachery,Digital,1100000,0,3,5,1,9,0,Approved
+HL00990,Velachery,Branch,3500000,0,3,4,1,8,1,Approved
+HL00991,Velachery,Branch,3500000,0,3,4,1,8,1,Approved
+HL00992,Anna Nagar,Digital,750000,0,5,2,2,9,0,Approved
+HL00993,Anna Nagar,Branch,7200000,0,3,5,1,9,0,Rejected
+HL00994,T Nagar,Partner,1100000,0,1,7,2,10,0,Approved
+HL00995,T Nagar,Digital,1450000,0,2,5,2,9,0,Pending
+HL00996,Adyar,Partner,7950000,0,1,6,2,9,0,Approved
+HL00997,Anna Nagar,Branch,3050000,0,1,2,1,4,1,Rejected
+HL00998,Adyar,Partner,6300000,0,3,6,1,10,0,Rejected
+HL00999,Adyar,Partner,1150000,0,3,6,2,11,0,Rejected
+HL01000,Anna Nagar,Branch,4900000,0,3,1,2,6,1,Approved
+HL01001,Anna Nagar,Digital,2250000,1,5,1,2,8,1,Approved
+HL01002,T Nagar,Digital,7600000,0,3,5,1,9,0,Approved
+HL01003,Velachery,Digital,7350000,0,3,4,1,8,1,Rejected
+HL01004,Tambaram,Digital,1850000,1,5,6,2,13,0,Rejected
+HL01005,Adyar,Branch,1600000,0,2,4,3,9,0,Approved
+HL01006,Tambaram,Digital,4650000,0,2,4,2,8,1,Approved
+HL01007,Anna Nagar,Digital,5600000,0,3,5,1,9,0,Rejected
+HL01008,T Nagar,Digital,7650000,0,2,5,1,8,1,Rejected
+HL01009,Anna Nagar,Branch,2000000,0,2,3,1,6,1,Approved
+HL01010,Adyar,Digital,1900000,0,3,3,1,7,1,Approved
+HL01011,Adyar,Partner,6250000,0,3,5,1,9,0,Approved
+HL01012,Velachery,Branch,5800000,0,2,3,2,7,1,Rejected
+HL01013,Adyar,Digital,4750000,0,1,7,2,10,0,Pending
+HL01014,Tambaram,Branch,2750000,0,2,4,1,7,1,Approved
+HL01015,T Nagar,Digital,3400000,0,3,4,1,8,1,Approved
+HL01016,T Nagar,Partner,3750000,0,2,3,2,7,1,Approved
+HL01017,T Nagar,Branch,7750000,0,3,3,2,8,1,Rejected
+HL01018,Anna Nagar,Branch,2700000,0,3,1,1,5,1,Approved
+HL01019,Velachery,Partner,3650000,0,2,4,2,8,1,Approved
+HL01020,Tambaram,Digital,6300000,0,2,5,2,9,0,Pending
+HL01021,Adyar,Branch,4550000,0,2,3,2,7,1,Rejected
+HL01022,Tambaram,Branch,7800000,1,4,3,1,8,1,Rejected
+HL01023,Anna Nagar,Digital,3050000,0,2,6,1,9,0,Approved
+HL01024,T Nagar,Partner,6050000,0,3,8,1,12,0,Pending
+HL01025,Adyar,Branch,2500000,0,4,5,3,12,0,Rejected
+HL01026,Adyar,Partner,1950000,1,4,7,1,12,0,Approved
+HL01027,Adyar,Branch,5600000,0,1,1,3,5,1,Approved
+HL01028,Velachery,Digital,4750000,0,1,2,2,5,1,Pending
+HL01029,Tambaram,Branch,1550000,0,1,6,2,9,0,Rejected
+HL01030,Anna Nagar,Partner,5850000,0,3,6,2,11,0,Approved
+HL01031,Adyar,Branch,1250000,1,6,5,1,12,0,Approved
+HL01032,Anna Nagar,Digital,5850000,0,4,6,2,12,0,Approved
+HL01033,Velachery,Branch,6000000,0,4,1,2,7,1,Approved
+HL01034,T Nagar,Branch,4800000,0,2,3,1,6,1,Approved
+HL01035,Anna Nagar,Partner,1150000,0,3,6,2,11,0,Approved
+HL01036,Tambaram,Partner,1450000,0,3,4,2,9,0,Approved
+HL01037,Anna Nagar,Digital,1200000,0,1,5,1,7,1,Approved
+HL01038,Tambaram,Branch,5300000,0,1,4,1,6,1,Approved
+HL01039,T Nagar,Branch,7850000,0,4,3,1,8,1,Rejected
+HL01040,Velachery,Branch,7950000,0,2,6,3,11,0,Approved
+HL01041,Tambaram,Digital,6950000,0,3,5,1,9,0,Approved
+HL01042,Anna Nagar,Digital,1900000,0,3,4,3,10,0,Approved
+HL01043,T Nagar,Digital,1000000,0,2,6,2,10,0,Pending
+HL01044,Anna Nagar,Partner,2850000,1,5,6,1,12,0,Rejected
+HL01045,Anna Nagar,Branch,3100000,0,3,7,1,11,0,Rejected
+HL01046,T Nagar,Partner,950000,1,4,7,3,14,0,Approved
+HL01047,T Nagar,Branch,5900000,0,1,2,2,5,1,Approved
+HL01048,Anna Nagar,Digital,1550000,1,4,7,1,12,0,Approved
+HL01049,Adyar,Branch,4000000,1,6,1,1,8,1,Approved
+HL01050,Adyar,Digital,2300000,0,2,6,1,9,0,Rejected
+HL01051,Anna Nagar,Digital,1550000,0,4,5,1,10,0,Approved
+HL01052,T Nagar,Digital,7350000,0,1,2,1,4,1,Approved
+HL01053,Tambaram,Partner,1350000,0,3,8,2,13,0,Rejected
+HL01054,Velachery,Digital,1200000,0,5,6,1,12,0,Approved
+HL01055,Adyar,Digital,6650000,0,4,1,2,7,1,Approved
+HL01056,Tambaram,Branch,6000000,0,2,10,3,15,0,Rejected
+HL01057,Adyar,Branch,7350000,0,3,3,2,8,1,Approved
+HL01058,T Nagar,Digital,4850000,0,1,2,2,5,1,Approved
+HL01059,T Nagar,Digital,900000,0,2,5,1,8,1,Approved
+HL01060,Tambaram,Branch,2800000,0,1,4,2,7,1,Rejected
+HL01061,Velachery,Partner,7800000,0,2,4,1,7,1,Approved
+HL01062,Anna Nagar,Branch,1450000,0,4,5,1,10,0,Rejected
+HL01063,Adyar,Partner,1650000,0,3,8,1,12,0,Approved
+HL01064,Adyar,Partner,5000000,0,4,5,3,12,0,Approved
+HL01065,Velachery,Digital,1050000,0,3,3,2,8,1,Approved
+HL01066,T Nagar,Digital,6850000,1,4,5,1,10,0,Approved
+HL01067,Tambaram,Branch,1450000,0,2,4,3,9,0,Approved
+HL01068,T Nagar,Branch,1300000,1,4,4,1,9,0,Approved
+HL01069,Adyar,Digital,7950000,0,3,1,2,6,1,Approved
+HL01070,Tambaram,Digital,1800000,0,3,6,3,12,0,Approved
+HL01071,Tambaram,Branch,7400000,0,1,2,3,6,1,Approved
+HL01072,T Nagar,Branch,7150000,0,4,5,1,10,0,Pending
+HL01073,Adyar,Branch,1800000,0,3,6,1,10,0,Approved
+HL01074,T Nagar,Digital,6850000,0,4,5,3,12,0,Approved
+HL01075,T Nagar,Digital,6250000,0,1,2,2,5,1,Pending
+HL01076,Velachery,Digital,6250000,0,3,4,4,11,0,Pending
+HL01077,T Nagar,Branch,6450000,1,4,3,1,8,1,Rejected
+HL01078,Tambaram,Digital,7600000,0,3,4,1,8,1,Approved
+HL01079,Velachery,Digital,2500000,0,2,4,1,7,1,Approved
+HL01080,Anna Nagar,Partner,2050000,0,1,8,1,10,0,Approved
+HL01081,Tambaram,Branch,5700000,0,2,4,2,8,1,Approved
+HL01082,Velachery,Digital,1600000,1,5,7,1,13,0,Approved
+HL01083,Velachery,Digital,7550000,0,2,5,1,8,1,Approved
+HL01084,Anna Nagar,Branch,7050000,0,2,4,1,7,1,Pending
+HL01085,T Nagar,Branch,6600000,1,4,5,3,12,0,Approved
+HL01086,Anna Nagar,Branch,4400000,0,4,5,2,11,0,Approved
+HL01087,Anna Nagar,Digital,5400000,0,1,6,1,8,1,Approved
+HL01088,T Nagar,Branch,5950000,0,2,5,3,10,0,Rejected
+HL01089,T Nagar,Digital,5100000,0,1,4,2,7,1,Approved
+HL01090,Anna Nagar,Branch,2350000,0,2,1,2,5,1,Pending
+HL01091,Anna Nagar,Partner,4750000,0,1,8,1,10,0,Approved
+HL01092,Tambaram,Branch,7550000,1,6,3,2,11,0,Approved
+HL01093,T Nagar,Branch,2550000,0,1,1,3,5,1,Approved
+HL01094,Adyar,Branch,4050000,0,1,5,2,8,1,Approved
+HL01095,T Nagar,Digital,700000,1,6,7,1,14,0,Approved
+HL01096,Anna Nagar,Branch,2250000,0,3,2,2,7,1,Approved
+HL01097,Adyar,Branch,1300000,0,1,6,1,8,1,Approved
+HL01098,Tambaram,Digital,4600000,0,1,8,2,11,0,Approved
+HL01099,Adyar,Digital,800000,0,2,6,3,11,0,Rejected
+HL01100,Anna Nagar,Partner,2600000,0,1,8,3,12,0,Approved
+HL01101,Velachery,Digital,6900000,0,1,3,1,5,1,Approved
+HL01102,Tambaram,Branch,4250000,0,4,7,1,12,0,Approved
+HL01103,Velachery,Partner,3950000,1,5,4,1,10,0,Approved
+HL01104,Tambaram,Digital,3150000,0,2,6,3,11,0,Rejected
+HL01105,T Nagar,Digital,1750000,1,4,5,2,11,0,Approved
+HL01106,Adyar,Branch,2500000,0,2,4,1,7,1,Pending
+HL01107,Anna Nagar,Partner,3050000,1,7,7,2,16,0,Approved
+HL01108,T Nagar,Digital,600000,1,6,5,2,13,0,Pending
+HL01109,Tambaram,Digital,400000,1,5,3,2,10,0,Approved
+HL01110,Adyar,Partner,3800000,0,3,8,2,13,0,Rejected
+HL01111,Anna Nagar,Partner,4450000,0,3,3,2,8,1,Rejected
+HL01112,Adyar,Digital,500000,0,1,4,2,7,1,Approved
+HL01113,Adyar,Branch,2900000,0,3,5,2,10,0,Rejected
+HL01114,Velachery,Branch,300000,0,3,5,3,11,0,Approved
+HL01115,T Nagar,Branch,3750000,0,2,8,2,12,0,Approved
+HL01116,Anna Nagar,Digital,3000000,0,3,4,1,8,1,Approved
+HL01117,T Nagar,Branch,1350000,0,1,2,1,4,1,Approved
+HL01118,Tambaram,Branch,2650000,0,4,2,1,7,1,Approved
+HL01119,Tambaram,Branch,900000,1,5,4,3,12,0,Approved
+HL01120,Anna Nagar,Partner,2300000,0,3,8,1,12,0,Approved
+HL01121,T Nagar,Partner,6000000,0,2,6,1,9,0,Rejected
+HL01122,Adyar,Branch,500000,0,3,4,2,9,0,Approved
+HL01123,Velachery,Branch,6450000,1,6,2,2,10,0,Approved
+HL01124,Velachery,Branch,1950000,0,2,3,2,7,1,Approved
+HL01125,Anna Nagar,Branch,800000,0,2,2,1,5,1,Rejected
+HL01126,Velachery,Digital,2150000,0,3,1,2,6,1,Rejected
+HL01127,Anna Nagar,Digital,7600000,1,6,6,1,13,0,Rejected
+HL01128,Velachery,Digital,4250000,0,1,3,2,6,1,Approved
+HL01129,T Nagar,Branch,6800000,0,2,5,1,8,1,Rejected
+HL01130,Velachery,Digital,6000000,0,1,5,1,7,1,Pending
+HL01131,Tambaram,Digital,3950000,0,1,7,2,10,0,Approved
+HL01132,Adyar,Branch,6650000,1,4,1,3,8,1,Approved
+HL01133,T Nagar,Digital,4100000,0,2,2,3,7,1,Approved
+HL01134,Tambaram,Branch,1550000,0,1,7,1,9,0,Approved
+HL01135,T Nagar,Partner,2300000,0,2,3,1,6,1,Approved
+HL01136,Adyar,Digital,3850000,0,1,4,3,8,1,Approved
+HL01137,Tambaram,Digital,4900000,0,2,1,3,6,1,Approved
+HL01138,Anna Nagar,Digital,3900000,0,3,6,1,10,0,Pending
+HL01139,Tambaram,Partner,5400000,1,5,8,3,16,0,Rejected
+HL01140,Anna Nagar,Partner,1100000,1,7,6,1,14,0,Approved
+HL01141,Tambaram,Partner,7250000,0,3,7,1,11,0,Approved
+HL01142,Anna Nagar,Digital,6450000,0,1,4,2,7,1,Approved
+HL01143,Tambaram,Partner,3200000,0,1,4,3,8,1,Approved
+HL01144,Tambaram,Branch,550000,0,3,2,2,7,1,Pending
+HL01145,Anna Nagar,Branch,3750000,0,1,4,1,6,1,Approved
+HL01146,T Nagar,Branch,1900000,1,7,3,4,14,0,Approved
+HL01147,T Nagar,Digital,2750000,0,3,2,3,8,1,Approved
+HL01148,T Nagar,Branch,2650000,0,1,9,1,11,0,Approved
+HL01149,Adyar,Branch,7300000,0,2,1,1,4,1,Approved
+HL01150,Adyar,Branch,7650000,0,2,5,1,8,1,Approved
+HL01151,T Nagar,Branch,7450000,0,3,3,3,9,0,Approved
+HL01152,Velachery,Digital,6000000,0,3,3,4,10,0,Approved
+HL01153,T Nagar,Digital,5700000,0,1,3,1,5,1,Rejected
+HL01154,Anna Nagar,Digital,900000,0,2,2,2,6,1,Approved
+HL01155,Anna Nagar,Partner,2100000,0,2,8,1,11,0,Pending
+HL01156,T Nagar,Partner,5650000,1,6,5,2,13,0,Approved
+HL01157,Adyar,Digital,2250000,0,2,2,3,7,1,Approved
+HL01158,T Nagar,Digital,3800000,0,2,2,1,5,1,Approved
+HL01159,Tambaram,Digital,3450000,0,2,3,1,6,1,Approved
+HL01160,Adyar,Digital,7450000,0,4,7,1,12,0,Rejected
+HL01161,Velachery,Branch,5400000,0,3,4,2,9,0,Pending
+HL01162,Adyar,Partner,3050000,1,7,4,2,13,0,Pending
+HL01163,Adyar,Branch,4050000,0,3,4,1,8,1,Rejected
+HL01164,Adyar,Digital,6000000,0,4,1,2,7,1,Approved
+HL01165,Anna Nagar,Digital,7200000,0,2,2,2,6,1,Approved
+HL01166,T Nagar,Branch,7300000,0,4,5,3,12,0,Approved
+HL01167,Adyar,Branch,2700000,0,5,6,3,14,0,Rejected
+HL01168,T Nagar,Digital,6950000,0,4,4,1,9,0,Pending
+HL01169,T Nagar,Branch,5150000,0,4,5,2,11,0,Approved
+HL01170,Velachery,Partner,3600000,0,3,6,2,11,0,Approved
+HL01171,Adyar,Partner,7700000,0,3,4,2,9,0,Approved
+HL01172,Velachery,Partner,6400000,0,1,8,1,10,0,Approved
+HL01173,Anna Nagar,Partner,2200000,1,6,9,3,18,0,Rejected
+HL01174,Tambaram,Branch,4850000,0,3,2,1,6,1,Approved
+HL01175,Anna Nagar,Partner,6400000,0,3,9,1,13,0,Approved
+HL01176,T Nagar,Partner,4750000,0,3,9,1,13,0,Approved
+HL01177,T Nagar,Partner,6300000,0,1,6,1,8,1,Approved
+HL01178,Tambaram,Partner,600000,0,1,6,1,8,1,Approved
+HL01179,Adyar,Partner,3550000,1,6,4,2,12,0,Approved
+HL01180,Adyar,Digital,7500000,1,4,5,3,12,0,Approved
+HL01181,T Nagar,Partner,6000000,0,1,6,2,9,0,Approved
+HL01182,Adyar,Branch,2800000,0,4,1,2,7,1,Approved
+HL01183,Tambaram,Partner,4800000,1,6,8,1,15,0,Rejected
+HL01184,Velachery,Partner,4000000,0,1,4,1,6,1,Approved
+HL01185,T Nagar,Digital,2800000,0,3,2,3,8,1,Approved
+HL01186,Velachery,Digital,8000000,0,2,6,3,11,0,Pending
+HL01187,Velachery,Branch,2650000,0,3,1,3,7,1,Approved
+HL01188,Anna Nagar,Digital,3900000,0,2,4,3,9,0,Approved
+HL01189,Tambaram,Partner,7050000,0,3,7,1,11,0,Rejected
+HL01190,Tambaram,Digital,5650000,0,2,1,2,5,1,Approved
+HL01191,T Nagar,Digital,4200000,1,6,3,3,12,0,Approved
+HL01192,T Nagar,Partner,1550000,0,4,5,3,12,0,Rejected
+HL01193,Adyar,Branch,5050000,0,2,3,2,7,1,Approved
+HL01194,Anna Nagar,Branch,2400000,0,1,2,1,4,1,Pending
+HL01195,T Nagar,Branch,1700000,1,6,4,4,14,0,Approved
+HL01196,Adyar,Digital,4000000,1,4,5,3,12,0,Approved
+HL01197,Tambaram,Branch,1700000,0,3,5,2,10,0,Approved
+HL01198,Tambaram,Digital,800000,0,2,2,1,5,1,Approved
+HL01199,Anna Nagar,Digital,6300000,1,7,2,3,12,0,Approved
+HL01200,Velachery,Partner,1000000,0,2,5,2,9,0,Approved
+HL01201,Velachery,Digital,750000,1,5,7,2,14,0,Approved
+HL01202,Adyar,Digital,5600000,0,2,3,2,7,1,Approved
+HL01203,Velachery,Digital,4250000,0,2,3,1,6,1,Pending
+HL01204,Anna Nagar,Partner,1900000,0,2,7,2,11,0,Approved
+HL01205,Tambaram,Digital,5950000,0,1,2,1,4,1,Approved
+HL01206,Adyar,Branch,4450000,0,1,4,2,7,1,Rejected
+HL01207,Anna Nagar,Branch,4500000,0,2,4,2,8,1,Approved
+HL01208,Anna Nagar,Branch,800000,0,3,1,3,7,1,Approved
+HL01209,Tambaram,Digital,5000000,1,4,6,3,13,0,Approved
+HL01210,Velachery,Partner,7150000,0,4,4,2,10,0,Approved
+HL01211,Anna Nagar,Branch,3550000,0,5,3,2,10,0,Approved
+HL01212,Velachery,Partner,3500000,0,4,10,1,15,0,Approved
+HL01213,Anna Nagar,Branch,6500000,0,1,4,1,6,1,Approved
+HL01214,Velachery,Branch,7600000,0,2,4,1,7,1,Approved
+HL01215,Tambaram,Branch,6350000,0,3,1,3,7,1,Approved
+HL01216,Tambaram,Digital,3850000,0,3,3,3,9,0,Approved
+HL01217,Velachery,Branch,4800000,0,1,5,1,7,1,Rejected
+HL01218,Velachery,Branch,4200000,0,2,3,1,6,1,Approved
+HL01219,Tambaram,Partner,1150000,0,1,6,2,9,0,Approved
+HL01220,T Nagar,Digital,4400000,0,3,2,2,7,1,Approved
+HL01221,Adyar,Digital,2750000,0,1,7,1,9,0,Approved
+HL01222,Anna Nagar,Partner,900000,0,3,8,1,12,0,Pending
+HL01223,Anna Nagar,Branch,3500000,0,2,2,1,5,1,Approved
+HL01224,T Nagar,Branch,6200000,1,5,4,2,11,0,Approved
+HL01225,Velachery,Digital,5700000,0,4,3,1,8,1,Rejected
+HL01226,T Nagar,Branch,6050000,0,4,3,2,9,0,Approved
+HL01227,Anna Nagar,Digital,6450000,0,3,5,3,11,0,Approved
+HL01228,Anna Nagar,Branch,6700000,0,3,3,1,7,1,Approved
+HL01229,Velachery,Partner,550000,1,6,6,1,13,0,Approved
+HL01230,Anna Nagar,Branch,1050000,0,1,3,2,6,1,Rejected
+HL01231,Adyar,Partner,1450000,1,6,7,1,14,0,Approved
+HL01232,T Nagar,Partner,8000000,1,6,8,3,17,0,Approved
+HL01233,Adyar,Branch,3700000,0,2,6,1,9,0,Rejected
+HL01234,Velachery,Digital,4400000,0,3,5,1,9,0,Pending
+HL01235,T Nagar,Branch,7550000,0,2,2,1,5,1,Approved
+HL01236,Anna Nagar,Partner,6250000,0,3,3,1,7,1,Approved
+HL01237,Tambaram,Branch,3800000,0,3,4,2,9,0,Rejected
+HL01238,Anna Nagar,Digital,2950000,0,1,7,2,10,0,Rejected
+HL01239,Anna Nagar,Branch,7500000,0,2,5,3,10,0,Approved
+HL01240,Anna Nagar,Partner,1350000,0,3,6,3,12,0,Approved
+HL01241,Velachery,Digital,1700000,0,1,3,1,5,1,Rejected
+HL01242,T Nagar,Branch,5950000,0,3,6,2,11,0,Approved
+HL01243,T Nagar,Branch,5250000,0,2,4,2,8,1,Approved
+HL01244,Anna Nagar,Digital,1950000,0,2,1,1,4,1,Rejected
+HL01245,Tambaram,Branch,1650000,1,7,1,3,11,0,Approved
+HL01246,Adyar,Branch,900000,0,2,2,2,6,1,Rejected
+HL01247,Anna Nagar,Branch,5600000,0,2,6,2,10,0,Approved
+HL01248,Velachery,Branch,6600000,1,5,5,2,12,0,Approved
+HL01249,Adyar,Branch,2700000,0,2,7,3,12,0,Approved
+HL01250,Velachery,Digital,2500000,0,2,3,2,7,1,Rejected
+HL01251,Velachery,Partner,4550000,0,2,4,4,10,0,Approved
+HL01252,T Nagar,Branch,7850000,1,6,2,1,9,0,Approved
+HL01253,Velachery,Branch,5000000,0,2,2,2,6,1,Approved
+HL01254,T Nagar,Partner,2000000,0,1,6,1,8,1,Approved
+HL01255,Adyar,Branch,1500000,0,2,4,1,7,1,Pending
+HL01256,Adyar,Digital,7800000,0,3,3,1,7,1,Rejected
+HL01257,Velachery,Digital,400000,0,2,1,3,6,1,Pending
+HL01258,Velachery,Branch,6850000,0,2,1,2,5,1,Approved
+HL01259,Anna Nagar,Branch,6500000,0,2,2,2,6,1,Approved
+HL01260,Adyar,Branch,5150000,0,1,1,1,3,1,Approved
+HL01261,Anna Nagar,Branch,1650000,0,2,4,1,7,1,Pending
+HL01262,Anna Nagar,Partner,5650000,0,1,5,3,9,0,Approved
+HL01263,Velachery,Branch,6000000,0,1,6,1,8,1,Approved
+HL01264,T Nagar,Branch,7300000,0,2,1,2,5,1,Rejected
+HL01265,Tambaram,Branch,350000,0,3,5,2,10,0,Approved
+HL01266,T Nagar,Partner,2000000,0,1,7,1,9,0,Approved
+HL01267,Velachery,Branch,4450000,0,1,2,3,6,1,Approved
+HL01268,Tambaram,Branch,4550000,0,3,4,2,9,0,Rejected
+HL01269,Tambaram,Digital,7150000,0,3,3,1,7,1,Approved
+HL01270,Adyar,Digital,2200000,0,3,5,2,10,0,Pending
+HL01271,T Nagar,Branch,7800000,1,6,2,2,10,0,Approved
+HL01272,T Nagar,Digital,6050000,0,2,3,2,7,1,Approved
+HL01273,T Nagar,Branch,1800000,0,2,4,1,7,1,Approved
+HL01274,Adyar,Branch,7550000,0,4,3,2,9,0,Approved
+HL01275,Anna Nagar,Branch,3000000,0,4,5,2,11,0,Pending
+HL01276,Tambaram,Digital,4400000,0,1,3,4,8,1,Approved
+HL01277,Tambaram,Digital,700000,0,1,4,1,6,1,Approved
+HL01278,Velachery,Digital,4350000,0,4,6,2,12,0,Approved
+HL01279,T Nagar,Partner,7400000,0,1,8,1,10,0,Approved
+HL01280,Tambaram,Digital,2250000,0,3,2,1,6,1,Approved
+HL01281,Tambaram,Partner,400000,0,5,3,1,9,0,Approved
+HL01282,Velachery,Partner,2950000,0,3,7,2,12,0,Pending
+HL01283,Adyar,Digital,6900000,1,4,2,4,10,0,Approved
+HL01284,Anna Nagar,Branch,1850000,0,2,4,1,7,1,Approved
+HL01285,Anna Nagar,Digital,7400000,0,4,3,2,9,0,Approved
+HL01286,T Nagar,Branch,2950000,0,1,4,2,7,1,Approved
+HL01287,T Nagar,Partner,5000000,0,3,6,1,10,0,Pending
+HL01288,Adyar,Digital,700000,0,3,2,1,6,1,Approved
+HL01289,T Nagar,Branch,450000,0,3,3,1,7,1,Rejected
+HL01290,Adyar,Partner,4400000,0,3,5,1,9,0,Approved
+HL01291,Velachery,Digital,5300000,0,2,4,1,7,1,Rejected
+HL01292,T Nagar,Branch,1050000,0,1,2,2,5,1,Approved
+HL01293,T Nagar,Branch,4150000,0,3,1,2,6,1,Rejected
+HL01294,Adyar,Digital,2050000,0,3,1,1,5,1,Pending
+HL01295,Adyar,Branch,6300000,0,2,1,1,4,1,Approved
+HL01296,Velachery,Branch,6050000,0,2,1,3,6,1,Approved
+HL01297,T Nagar,Digital,3450000,0,2,4,1,7,1,Approved
+HL01298,T Nagar,Branch,3050000,1,4,1,1,6,1,Approved
+HL01299,Velachery,Digital,7750000,0,1,3,1,5,1,Approved
+HL01300,Velachery,Branch,5650000,0,3,2,1,6,1,Approved
+HL01301,T Nagar,Digital,5900000,0,1,1,2,4,1,Approved
+HL01302,Anna Nagar,Branch,850000,0,2,4,1,7,1,Approved
+HL01303,T Nagar,Branch,7000000,0,3,7,3,13,0,Approved
+HL01304,Anna Nagar,Branch,1050000,0,1,3,1,5,1,Approved
+HL01305,Anna Nagar,Digital,6800000,0,2,3,3,8,1,Rejected
+HL01306,Anna Nagar,Digital,1500000,1,5,4,1,10,0,Pending
+HL01307,Tambaram,Digital,5700000,0,2,5,1,8,1,Approved
+HL01308,Tambaram,Partner,6500000,0,1,3,1,5,1,Approved
+HL01309,Anna Nagar,Branch,3450000,0,5,2,1,8,1,Approved
+HL01310,T Nagar,Branch,6800000,0,4,5,1,10,0,Approved
+HL01311,Tambaram,Digital,800000,0,3,4,2,9,0,Rejected
+HL01312,Anna Nagar,Digital,6300000,0,2,1,2,5,1,Approved
+HL01313,Anna Nagar,Partner,950000,0,2,5,2,9,0,Approved
+HL01314,Velachery,Branch,6050000,0,2,1,2,5,1,Pending
+HL01315,Anna Nagar,Branch,5300000,0,3,2,2,7,1,Approved
+HL01316,T Nagar,Digital,6100000,0,3,7,4,14,0,Approved
+HL01317,T Nagar,Branch,1100000,0,2,5,1,8,1,Approved
+HL01318,Anna Nagar,Branch,2750000,0,3,5,2,10,0,Approved
+HL01319,Adyar,Partner,7350000,0,1,7,3,11,0,Approved
+HL01320,Adyar,Digital,6550000,0,2,5,1,8,1,Approved
+HL01321,Anna Nagar,Partner,1100000,0,3,6,3,12,0,Approved
+HL01322,Velachery,Digital,7900000,0,4,2,2,8,1,Rejected
+HL01323,Adyar,Branch,5200000,0,2,2,2,6,1,Approved
+HL01324,T Nagar,Partner,1550000,0,6,5,2,13,0,Approved
+HL01325,Anna Nagar,Digital,4550000,0,2,4,3,9,0,Approved
+HL01326,Velachery,Branch,2800000,0,1,5,1,7,1,Approved
+HL01327,Adyar,Partner,4400000,0,4,5,1,10,0,Approved
+HL01328,Tambaram,Partner,5900000,1,5,3,2,10,0,Approved
+HL01329,Adyar,Digital,2900000,0,2,6,2,10,0,Approved
+HL01330,Anna Nagar,Branch,5850000,0,4,2,1,7,1,Approved
+HL01331,Tambaram,Branch,1150000,0,3,2,2,7,1,Rejected
+HL01332,Velachery,Branch,1300000,0,2,5,3,10,0,Pending
+HL01333,Anna Nagar,Branch,6950000,0,3,7,1,11,0,Approved
+HL01334,Tambaram,Partner,3600000,0,3,4,2,9,0,Approved
+HL01335,Anna Nagar,Branch,5600000,0,2,3,2,7,1,Pending
+HL01336,Anna Nagar,Partner,4900000,0,3,6,2,11,0,Rejected
+HL01337,Anna Nagar,Digital,5950000,0,3,2,2,7,1,Rejected
+HL01338,Velachery,Branch,5100000,0,1,5,2,8,1,Pending
+HL01339,Anna Nagar,Partner,1200000,0,2,7,2,11,0,Rejected
+HL01340,Adyar,Branch,5350000,0,3,4,3,10,0,Approved
+HL01341,Anna Nagar,Branch,4200000,0,1,2,2,5,1,Pending
+HL01342,Tambaram,Branch,4350000,0,2,6,2,10,0,Approved
+HL01343,Tambaram,Digital,6350000,0,3,4,1,8,1,Approved
+HL01344,Anna Nagar,Branch,3950000,0,3,5,3,11,0,Approved
+HL01345,Adyar,Branch,1050000,0,1,7,2,10,0,Approved
+HL01346,T Nagar,Branch,5150000,0,2,1,1,4,1,Approved
+HL01347,Anna Nagar,Branch,1300000,1,6,6,3,15,0,Pending
+HL01348,T Nagar,Branch,7500000,0,1,4,2,7,1,Approved
+HL01349,Anna Nagar,Digital,4000000,0,1,2,2,5,1,Pending
+HL01350,Velachery,Branch,2750000,0,2,3,1,6,1,Pending
+HL01351,Adyar,Branch,2750000,0,2,4,2,8,1,Approved
+HL01352,T Nagar,Partner,7550000,1,4,9,2,15,0,Approved
+HL01353,Anna Nagar,Partner,4400000,0,3,7,2,12,0,Approved
+HL01354,Tambaram,Branch,5700000,0,3,5,2,10,0,Approved
+HL01355,T Nagar,Digital,6100000,0,3,5,1,9,0,Approved
+HL01356,T Nagar,Digital,6900000,0,3,4,1,8,1,Approved
+HL01357,Tambaram,Branch,3050000,0,1,3,1,5,1,Rejected
+HL01358,Velachery,Digital,4300000,0,1,3,2,6,1,Approved
+HL01359,Tambaram,Branch,6200000,0,2,6,1,9,0,Approved
+HL01360,T Nagar,Partner,3650000,0,2,8,1,11,0,Approved
+HL01361,Anna Nagar,Branch,7200000,0,3,7,2,12,0,Approved
+HL01362,Adyar,Branch,3150000,0,3,1,2,6,1,Pending
+HL01363,Velachery,Digital,2150000,0,1,1,2,4,1,Approved
+HL01364,Tambaram,Digital,7050000,1,4,5,2,11,0,Approved
+HL01365,T Nagar,Branch,4800000,0,1,2,3,6,1,Approved
+HL01366,Velachery,Partner,7700000,0,3,5,3,11,0,Approved
+HL01367,T Nagar,Branch,5150000,0,1,1,2,4,1,Pending
+HL01368,Tambaram,Branch,1200000,0,1,2,3,6,1,Rejected
+HL01369,Tambaram,Digital,6800000,0,3,7,3,13,0,Approved
+HL01370,Velachery,Branch,1750000,0,3,5,2,10,0,Approved
+HL01371,Adyar,Digital,2500000,0,3,5,1,9,0,Rejected
+HL01372,Tambaram,Digital,2400000,0,2,1,1,4,1,Approved
+HL01373,T Nagar,Digital,4000000,0,2,5,3,10,0,Approved
+HL01374,Velachery,Partner,1700000,0,3,4,2,9,0,Approved
+HL01375,T Nagar,Branch,1650000,0,2,5,1,8,1,Approved
+HL01376,Adyar,Digital,1200000,0,2,6,2,10,0,Approved
+HL01377,Anna Nagar,Branch,4600000,0,3,4,3,10,0,Rejected
+HL01378,T Nagar,Digital,6750000,0,3,5,1,9,0,Approved
+HL01379,Anna Nagar,Branch,3950000,1,5,6,2,13,0,Approved
+HL01380,Velachery,Digital,7050000,0,4,4,2,10,0,Rejected
+HL01381,Tambaram,Digital,3550000,0,1,6,1,8,1,Pending
+HL01382,Tambaram,Partner,7150000,0,2,4,2,8,1,Pending
+HL01383,Tambaram,Digital,1100000,0,3,4,2,9,0,Rejected
+HL01384,Tambaram,Partner,3550000,0,3,9,1,13,0,Approved
+HL01385,T Nagar,Branch,700000,0,5,3,3,11,0,Approved
+HL01386,Velachery,Branch,4600000,0,2,4,2,8,1,Approved
+HL01387,Anna Nagar,Branch,4400000,0,4,2,2,8,1,Approved
+HL01388,Tambaram,Branch,7200000,0,3,4,1,8,1,Pending
+HL01389,T Nagar,Partner,400000,1,5,3,1,9,0,Approved
+HL01390,Adyar,Branch,2200000,0,2,2,1,5,1,Rejected
+HL01391,Tambaram,Digital,4000000,0,2,1,2,5,1,Approved
+HL01392,T Nagar,Digital,650000,0,4,3,3,10,0,Approved
+HL01393,T Nagar,Digital,5400000,0,1,2,3,6,1,Approved
+HL01394,Anna Nagar,Branch,2200000,0,4,3,1,8,1,Pending
+HL01395,Velachery,Branch,2350000,0,1,4,2,7,1,Rejected
+HL01396,Anna Nagar,Branch,950000,0,4,1,1,6,1,Approved
+HL01397,Tambaram,Digital,5150000,0,2,1,1,4,1,Pending
+HL01398,T Nagar,Digital,1900000,0,5,5,2,12,0,Approved
+HL01399,Adyar,Branch,5500000,0,2,8,2,12,0,Rejected
+HL01400,Adyar,Digital,4050000,0,1,4,2,7,1,Rejected
+HL01401,Anna Nagar,Partner,3350000,0,1,3,3,7,1,Approved
+HL01402,Adyar,Branch,1550000,0,2,2,2,6,1,Approved
+HL01403,T Nagar,Digital,6400000,0,1,3,1,5,1,Approved
+HL01404,Adyar,Branch,2050000,0,2,4,1,7,1,Pending
+HL01405,Anna Nagar,Branch,6850000,0,1,4,1,6,1,Rejected
+HL01406,Velachery,Partner,3500000,0,2,5,1,8,1,Approved
+HL01407,Adyar,Digital,7050000,0,2,4,3,9,0,Rejected
+HL01408,Adyar,Branch,7900000,0,3,3,2,8,1,Approved
+HL01409,Velachery,Digital,1300000,0,1,2,1,4,1,Pending
+HL01410,Adyar,Partner,6300000,0,1,8,1,10,0,Pending
+HL01411,Adyar,Branch,1800000,0,1,3,3,7,1,Approved
+HL01412,Adyar,Digital,3550000,0,1,5,1,7,1,Approved
+HL01413,Velachery,Branch,7500000,0,1,3,1,5,1,Approved
+HL01414,Anna Nagar,Branch,5650000,0,1,4,1,6,1,Rejected
+HL01415,T Nagar,Digital,5200000,0,2,1,2,5,1,Approved
+HL01416,Velachery,Branch,5000000,0,2,1,1,4,1,Pending
+HL01417,Velachery,Digital,1350000,0,2,5,2,9,0,Rejected
+HL01418,Tambaram,Branch,600000,0,2,2,1,5,1,Pending
+HL01419,Anna Nagar,Digital,850000,1,6,7,1,14,0,Approved
+HL01420,Anna Nagar,Digital,5750000,0,1,7,1,9,0,Rejected
+HL01421,Velachery,Partner,3900000,0,2,6,2,10,0,Rejected
+HL01422,Adyar,Partner,6800000,0,3,5,2,10,0,Approved
+HL01423,Velachery,Digital,7500000,0,1,5,2,8,1,Approved
+HL01424,T Nagar,Branch,3750000,1,5,5,2,12,0,Approved
+HL01425,Adyar,Partner,6900000,0,1,5,2,8,1,Rejected
+HL01426,Anna Nagar,Branch,2150000,0,2,7,3,12,0,Approved
+HL01427,Adyar,Branch,4300000,1,6,3,2,11,0,Pending
+HL01428,Velachery,Partner,7900000,0,1,11,2,14,0,Rejected
+HL01429,Adyar,Branch,1300000,0,3,1,3,7,1,Approved
+HL01430,Tambaram,Partner,4050000,0,3,4,1,8,1,Rejected
+HL01431,Anna Nagar,Branch,2350000,0,2,5,1,8,1,Approved
+HL01432,Velachery,Branch,5600000,0,3,6,2,11,0,Approved
+HL01433,Tambaram,Branch,2300000,0,1,7,2,10,0,Rejected
+HL01434,Anna Nagar,Branch,2300000,0,2,1,2,5,1,Pending
+HL01435,Adyar,Partner,2750000,0,3,7,4,14,0,Rejected
+HL01436,Velachery,Branch,7300000,0,2,3,1,6,1,Rejected
+HL01437,Anna Nagar,Digital,5050000,0,1,3,1,5,1,Approved
+HL01438,Velachery,Digital,3450000,1,7,2,2,11,0,Approved
+HL01439,Tambaram,Branch,7950000,0,3,7,1,11,0,Approved
+HL01440,Velachery,Partner,7200000,0,2,6,1,9,0,Approved
+HL01441,Adyar,Digital,1250000,0,3,1,3,7,1,Approved
+HL01442,Velachery,Digital,3400000,0,3,4,1,8,1,Approved
+HL01443,Velachery,Branch,7400000,0,2,1,1,4,1,Pending
+HL01444,Velachery,Partner,1850000,0,2,8,3,13,0,Approved
+HL01445,Velachery,Branch,7300000,0,1,6,3,10,0,Pending
+HL01446,Velachery,Digital,2550000,0,2,5,1,8,1,Rejected
+HL01447,Adyar,Branch,3500000,0,3,4,3,10,0,Approved
+HL01448,T Nagar,Digital,1650000,0,2,4,1,7,1,Approved
+HL01449,Adyar,Branch,5950000,0,3,1,2,6,1,Pending
+HL01450,Anna Nagar,Partner,7650000,0,1,5,1,7,1,Approved
+HL01451,T Nagar,Digital,8000000,0,2,1,2,5,1,Rejected
+HL01452,Tambaram,Branch,7350000,0,3,4,1,8,1,Approved
+HL01453,Velachery,Branch,650000,0,1,6,3,10,0,Approved
+HL01454,T Nagar,Digital,7750000,0,1,6,4,11,0,Approved
+HL01455,Velachery,Branch,7000000,0,3,6,2,11,0,Approved
+HL01456,Tambaram,Partner,5900000,0,4,6,1,11,0,Pending
+HL01457,Tambaram,Branch,4650000,0,3,6,1,10,0,Rejected
+HL01458,Tambaram,Partner,6850000,0,1,7,3,11,0,Approved
+HL01459,Velachery,Partner,7500000,0,3,5,1,9,0,Rejected
+HL01460,T Nagar,Digital,5150000,0,2,5,2,9,0,Pending
+HL01461,T Nagar,Digital,550000,0,2,2,3,7,1,Rejected
+HL01462,Tambaram,Branch,1250000,0,2,7,3,12,0,Approved
+HL01463,Anna Nagar,Branch,7400000,0,3,5,3,11,0,Approved
+HL01464,Tambaram,Branch,6900000,0,1,7,1,9,0,Pending
+HL01465,Adyar,Digital,1850000,0,2,5,3,10,0,Approved
+HL01466,T Nagar,Branch,5400000,0,2,5,2,9,0,Approved
+HL01467,Anna Nagar,Digital,7050000,0,3,5,1,9,0,Approved
+HL01468,Anna Nagar,Branch,2900000,0,4,5,3,12,0,Approved
+HL01469,Anna Nagar,Digital,5900000,0,2,5,2,9,0,Approved
+HL01470,Velachery,Branch,3850000,1,5,3,3,11,0,Approved
+HL01471,Tambaram,Branch,3550000,0,3,1,3,7,1,Approved
+HL01472,T Nagar,Branch,2200000,0,1,7,2,10,0,Pending
+HL01473,Velachery,Partner,2300000,1,5,5,1,11,0,Approved
+HL01474,Adyar,Digital,5800000,0,3,4,1,8,1,Approved
+HL01475,T Nagar,Digital,7050000,0,4,3,1,8,1,Approved
+HL01476,Adyar,Partner,6000000,1,5,9,3,17,0,Approved
+HL01477,Tambaram,Branch,5050000,0,2,6,1,9,0,Approved
+HL01478,Tambaram,Digital,2450000,0,1,3,2,6,1,Approved
+HL01479,Tambaram,Branch,2800000,0,1,4,1,6,1,Approved
+HL01480,T Nagar,Branch,6150000,0,2,2,1,5,1,Approved
+HL01481,Anna Nagar,Digital,4500000,0,3,5,1,9,0,Approved
+HL01482,Adyar,Partner,1550000,1,5,3,1,9,0,Approved
+HL01483,Tambaram,Digital,2400000,0,4,5,2,11,0,Approved
+HL01484,Velachery,Partner,3300000,0,2,4,3,9,0,Approved
+HL01485,Adyar,Branch,5000000,0,1,3,2,6,1,Rejected
+HL01486,Adyar,Branch,7850000,0,1,6,1,8,1,Approved
+HL01487,Velachery,Digital,1100000,0,4,5,2,11,0,Approved
+HL01488,T Nagar,Branch,800000,0,1,9,2,12,0,Approved
+HL01489,Anna Nagar,Partner,6750000,1,6,9,3,18,0,Pending
+HL01490,Anna Nagar,Digital,6550000,0,3,2,1,6,1,Approved
+HL01491,Adyar,Branch,5550000,0,2,5,3,10,0,Approved
+HL01492,T Nagar,Partner,7200000,0,2,6,2,10,0,Approved
+HL01493,Anna Nagar,Branch,6050000,0,1,2,1,4,1,Pending
+HL01494,Anna Nagar,Digital,6750000,1,5,7,1,13,0,Approved
+HL01495,Tambaram,Partner,4250000,0,1,8,2,11,0,Approved
+HL01496,T Nagar,Digital,6300000,0,1,2,2,5,1,Rejected
+HL01497,Tambaram,Digital,5350000,0,2,5,1,8,1,Rejected
+HL01498,Adyar,Branch,7150000,0,2,2,2,6,1,Approved
+HL01499,Adyar,Digital,7850000,0,1,4,2,7,1,Approved
+HL01500,Tambaram,Partner,7200000,0,2,5,1,8,1,Pending
+HL01501,Anna Nagar,Digital,5500000,0,2,4,2,8,1,Approved
+HL01502,Anna Nagar,Digital,3300000,0,3,2,1,6,1,Approved
+HL01503,T Nagar,Digital,1500000,0,3,3,2,8,1,Approved
+HL01504,T Nagar,Branch,3250000,0,2,4,1,7,1,Approved
+HL01505,Velachery,Partner,3550000,0,3,4,3,10,0,Approved
+HL01506,Anna Nagar,Digital,2300000,0,2,4,1,7,1,Approved
+HL01507,T Nagar,Partner,3550000,1,6,4,1,11,0,Rejected
+HL01508,Tambaram,Digital,6550000,0,2,1,2,5,1,Pending
+HL01509,Anna Nagar,Branch,8000000,0,4,4,1,9,0,Rejected
+HL01510,Anna Nagar,Partner,500000,0,1,4,3,8,1,Pending
+HL01511,Anna Nagar,Digital,2150000,0,3,2,2,7,1,Approved
+HL01512,T Nagar,Partner,4650000,1,4,8,2,14,0,Approved
+HL01513,Adyar,Branch,7600000,0,1,1,2,4,1,Approved
+HL01514,Anna Nagar,Partner,7900000,0,1,8,1,10,0,Pending
+HL01515,Velachery,Digital,7150000,0,4,5,1,10,0,Approved
+HL01516,Anna Nagar,Branch,4350000,1,4,3,3,10,0,Pending
+HL01517,Anna Nagar,Branch,7300000,1,6,3,2,11,0,Rejected
+HL01518,Anna Nagar,Digital,7300000,0,3,1,1,5,1,Pending
+HL01519,Adyar,Digital,4550000,0,4,5,3,12,0,Approved
+HL01520,Anna Nagar,Digital,1200000,0,2,1,1,4,1,Pending
+HL01521,Tambaram,Digital,6250000,0,2,2,2,6,1,Rejected
+HL01522,Anna Nagar,Partner,3250000,1,5,7,1,13,0,Rejected
+HL01523,Velachery,Branch,2450000,0,2,5,2,9,0,Approved
+HL01524,Velachery,Branch,4900000,0,1,6,2,9,0,Approved
+HL01525,T Nagar,Digital,7100000,0,2,3,3,8,1,Rejected
+HL01526,Anna Nagar,Branch,1300000,0,1,2,3,6,1,Approved
+HL01527,Anna Nagar,Branch,1600000,0,2,4,2,8,1,Approved
+HL01528,Anna Nagar,Digital,1500000,0,2,2,2,6,1,Pending
+HL01529,Tambaram,Digital,5600000,0,4,2,3,9,0,Approved
+HL01530,Tambaram,Digital,5000000,0,1,6,3,10,0,Approved
+HL01531,Adyar,Digital,2750000,0,4,4,1,9,0,Approved
+HL01532,Anna Nagar,Branch,2300000,0,3,5,2,10,0,Pending
+HL01533,Adyar,Digital,6150000,0,2,2,1,5,1,Approved
+HL01534,Adyar,Branch,5500000,0,3,3,2,8,1,Rejected
+HL01535,Velachery,Branch,6450000,0,2,2,1,5,1,Rejected
+HL01536,Velachery,Digital,2500000,0,2,3,2,7,1,Approved
+HL01537,Adyar,Digital,2750000,0,1,3,4,8,1,Approved
+HL01538,Anna Nagar,Branch,7300000,0,2,3,2,7,1,Approved
+HL01539,T Nagar,Partner,6300000,0,2,5,1,8,1,Approved
+HL01540,T Nagar,Branch,5350000,0,1,3,1,5,1,Rejected
+HL01541,Adyar,Branch,5300000,0,3,6,1,10,0,Approved
+HL01542,Velachery,Digital,6200000,0,1,7,3,11,0,Rejected
+HL01543,Anna Nagar,Branch,7250000,0,3,2,2,7,1,Approved
+HL01544,T Nagar,Digital,5500000,0,3,4,1,8,1,Pending
+HL01545,Anna Nagar,Digital,4150000,1,5,4,1,10,0,Approved
+HL01546,Anna Nagar,Branch,3800000,0,2,2,3,7,1,Rejected
+HL01547,Anna Nagar,Partner,1100000,0,3,5,1,9,0,Rejected
+HL01548,Tambaram,Digital,7100000,0,1,2,2,5,1,Approved
+HL01549,Velachery,Branch,5650000,0,2,3,3,8,1,Approved
+HL01550,Adyar,Partner,5150000,0,2,6,2,10,0,Approved
+HL01551,Velachery,Branch,4900000,1,7,5,3,15,0,Approved
+HL01552,Adyar,Digital,3950000,0,2,5,1,8,1,Approved
+HL01553,Adyar,Partner,5250000,0,3,6,2,11,0,Rejected
+HL01554,Velachery,Branch,1750000,0,4,6,3,13,0,Approved
+HL01555,Adyar,Digital,6450000,0,3,1,1,5,1,Pending
+HL01556,Tambaram,Digital,1600000,1,5,1,3,9,0,Approved
+HL01557,Anna Nagar,Partner,2600000,0,1,7,2,10,0,Rejected
+HL01558,Tambaram,Partner,3250000,1,4,6,1,11,0,Approved
+HL01559,Velachery,Branch,7900000,0,3,6,3,12,0,Rejected
+HL01560,T Nagar,Branch,1200000,0,2,8,3,13,0,Approved
+HL01561,Tambaram,Digital,5150000,0,4,2,3,9,0,Rejected
+HL01562,Anna Nagar,Digital,6000000,0,4,1,2,7,1,Approved
+HL01563,Adyar,Partner,900000,0,2,8,3,13,0,Approved
+HL01564,Anna Nagar,Digital,700000,1,5,1,1,7,1,Pending
+HL01565,Velachery,Partner,5600000,0,1,4,1,6,1,Pending
+HL01566,Velachery,Branch,5050000,0,1,3,2,6,1,Approved
+HL01567,T Nagar,Branch,3950000,0,6,5,2,13,0,Rejected
+HL01568,T Nagar,Partner,1000000,1,6,3,1,10,0,Approved
+HL01569,Velachery,Partner,4100000,0,5,7,2,14,0,Pending
+HL01570,Tambaram,Branch,6400000,1,7,3,2,12,0,Rejected
+HL01571,Anna Nagar,Branch,1250000,0,2,4,2,8,1,Rejected
+HL01572,Adyar,Partner,1950000,1,5,7,1,13,0,Approved
+HL01573,Anna Nagar,Partner,400000,1,6,5,2,13,0,Approved
+HL01574,Velachery,Branch,4800000,0,4,3,2,9,0,Rejected
+HL01575,Anna Nagar,Branch,3900000,0,2,4,2,8,1,Pending
+HL01576,Tambaram,Digital,1350000,0,2,7,4,13,0,Approved
+HL01577,T Nagar,Branch,2000000,0,4,2,1,7,1,Approved
+HL01578,T Nagar,Branch,3200000,0,4,3,1,8,1,Rejected
+HL01579,Anna Nagar,Digital,7900000,0,3,4,1,8,1,Approved
+HL01580,T Nagar,Branch,7700000,0,3,4,3,10,0,Pending
+HL01581,Velachery,Digital,6300000,0,4,2,1,7,1,Approved
+HL01582,Tambaram,Partner,1950000,0,2,8,1,11,0,Pending
+HL01583,Velachery,Digital,7250000,0,4,5,3,12,0,Rejected
+HL01584,Anna Nagar,Digital,5200000,0,3,4,1,8,1,Approved
+HL01585,T Nagar,Branch,3000000,0,3,8,2,13,0,Approved
+HL01586,Adyar,Branch,7000000,0,2,3,1,6,1,Approved
+HL01587,Velachery,Branch,3700000,0,4,2,2,8,1,Pending
+HL01588,Anna Nagar,Digital,5550000,0,4,5,1,10,0,Approved
+HL01589,Tambaram,Branch,7500000,0,4,4,1,9,0,Approved
+HL01590,Velachery,Digital,5350000,0,1,4,1,6,1,Rejected
+HL01591,Tambaram,Digital,6500000,0,2,6,3,11,0,Approved
+HL01592,Tambaram,Branch,3250000,0,2,7,2,11,0,Approved
+HL01593,Adyar,Branch,7400000,0,2,3,1,6,1,Approved
+HL01594,Anna Nagar,Digital,3400000,0,2,5,4,11,0,Rejected
+HL01595,Tambaram,Partner,2750000,1,6,7,1,14,0,Rejected
+HL01596,Velachery,Digital,1000000,0,5,4,2,11,0,Approved
+HL01597,Velachery,Branch,3400000,0,2,1,3,6,1,Rejected
+HL01598,Anna Nagar,Digital,1200000,0,1,5,3,9,0,Approved
+HL01599,Adyar,Branch,1950000,0,1,1,3,5,1,Rejected
+HL01600,Anna Nagar,Partner,1900000,1,5,6,1,12,0,Rejected
+HL01601,Tambaram,Partner,4200000,0,2,9,1,12,0,Approved
+HL01602,Anna Nagar,Partner,1050000,1,5,8,2,15,0,Approved
+HL01603,T Nagar,Branch,7950000,1,6,7,1,14,0,Approved
+HL01604,Adyar,Digital,4950000,0,1,5,1,7,1,Approved
+HL01605,Adyar,Digital,7350000,0,4,2,2,8,1,Pending
+HL01606,T Nagar,Branch,3600000,1,7,1,3,11,0,Approved
+HL01607,T Nagar,Branch,3400000,1,5,3,1,9,0,Approved
+HL01608,T Nagar,Digital,7450000,0,3,5,3,11,0,Rejected
+HL01609,Adyar,Digital,3550000,0,3,3,1,7,1,Approved
+HL01610,T Nagar,Partner,5700000,0,3,5,1,9,0,Approved
+HL01611,Anna Nagar,Branch,6600000,0,3,4,1,8,1,Approved
+HL01612,Adyar,Digital,500000,0,2,5,2,9,0,Approved
+HL01613,Adyar,Branch,1200000,1,6,1,1,8,1,Pending
+HL01614,Anna Nagar,Branch,600000,0,3,3,2,8,1,Approved
+HL01615,Tambaram,Branch,6200000,0,1,4,3,8,1,Approved
+HL01616,Tambaram,Digital,3750000,0,2,1,2,5,1,Rejected
+HL01617,Velachery,Digital,5950000,0,2,3,2,7,1,Approved
+HL01618,Tambaram,Partner,3650000,0,3,8,2,13,0,Rejected
+HL01619,Adyar,Digital,2300000,0,3,3,1,7,1,Pending
+HL01620,Adyar,Branch,7500000,0,2,1,2,5,1,Rejected
+HL01621,Tambaram,Digital,6550000,1,4,2,1,7,1,Rejected
+HL01622,Anna Nagar,Branch,1250000,0,5,4,2,11,0,Approved
+HL01623,Tambaram,Branch,4750000,1,5,4,1,10,0,Approved
+HL01624,Velachery,Digital,3050000,0,1,6,2,9,0,Approved
+HL01625,Tambaram,Branch,6600000,0,4,4,3,11,0,Rejected
+HL01626,Tambaram,Branch,4450000,0,2,6,1,9,0,Approved
+HL01627,T Nagar,Partner,1100000,0,2,3,2,7,1,Approved
+HL01628,Adyar,Branch,3600000,0,3,2,2,7,1,Approved
+HL01629,Adyar,Branch,3450000,0,2,4,2,8,1,Rejected
+HL01630,T Nagar,Partner,7400000,0,1,7,1,9,0,Approved
+HL01631,Tambaram,Partner,7900000,0,1,3,2,6,1,Approved
+HL01632,Velachery,Digital,600000,0,3,4,1,8,1,Approved
+HL01633,Velachery,Digital,5000000,0,2,4,1,7,1,Approved
+HL01634,Adyar,Branch,3650000,0,1,2,2,5,1,Pending
+HL01635,Velachery,Digital,3000000,0,2,4,3,9,0,Pending
+HL01636,Tambaram,Digital,6650000,0,4,4,2,10,0,Rejected
+HL01637,T Nagar,Branch,650000,0,2,2,3,7,1,Approved
+HL01638,Velachery,Branch,4050000,0,3,3,1,7,1,Approved
+HL01639,Velachery,Branch,4950000,0,2,4,2,8,1,Rejected
+HL01640,Anna Nagar,Branch,2550000,0,2,4,1,7,1,Approved
+HL01641,Anna Nagar,Branch,2900000,0,2,7,2,11,0,Approved
+HL01642,Anna Nagar,Digital,3250000,0,1,6,2,9,0,Approved
+HL01643,T Nagar,Digital,7600000,0,1,3,2,6,1,Approved
+HL01644,Tambaram,Branch,6950000,1,4,3,1,8,1,Pending
+HL01645,Anna Nagar,Branch,4650000,0,1,5,2,8,1,Pending
+HL01646,Velachery,Branch,4950000,0,1,1,2,4,1,Pending
+HL01647,Adyar,Digital,1250000,0,2,5,2,9,0,Pending
+HL01648,Tambaram,Branch,3800000,0,2,5,3,10,0,Approved
+HL01649,Tambaram,Branch,3400000,0,1,3,2,6,1,Rejected
+HL01650,Velachery,Branch,5500000,0,2,3,2,7,1,Approved
+HL01651,Velachery,Digital,7550000,0,3,5,2,10,0,Pending
+HL01652,Velachery,Partner,6000000,0,2,4,3,9,0,Pending
+HL01653,T Nagar,Digital,6550000,0,2,2,1,5,1,Approved
+HL01654,T Nagar,Digital,7050000,0,2,3,2,7,1,Rejected
+HL01655,Tambaram,Digital,2200000,0,3,5,2,10,0,Rejected
+HL01656,Adyar,Digital,4150000,0,3,1,2,6,1,Approved
+HL01657,T Nagar,Branch,3550000,1,4,5,2,11,0,Rejected
+HL01658,Adyar,Branch,6800000,0,4,2,2,8,1,Approved
+HL01659,T Nagar,Branch,7150000,0,3,1,1,5,1,Approved
+HL01660,Tambaram,Digital,500000,0,1,2,1,4,1,Approved
+HL01661,Velachery,Digital,4700000,0,3,3,2,8,1,Approved
+HL01662,Tambaram,Branch,1950000,0,1,4,2,7,1,Approved
+HL01663,Velachery,Branch,2600000,0,1,6,3,10,0,Approved
+HL01664,Adyar,Branch,3750000,0,1,5,2,8,1,Approved
+HL01665,Adyar,Branch,550000,1,7,4,2,13,0,Rejected
+HL01666,Anna Nagar,Branch,4900000,0,2,5,1,8,1,Approved
+HL01667,Tambaram,Branch,1700000,0,3,3,1,7,1,Approved
+HL01668,Tambaram,Digital,4050000,0,4,5,1,10,0,Approved
+HL01669,Tambaram,Branch,800000,0,2,3,2,7,1,Approved
+HL01670,Adyar,Branch,1550000,0,1,4,2,7,1,Approved
+HL01671,Adyar,Partner,7900000,0,2,4,1,7,1,Approved
+HL01672,Tambaram,Branch,6750000,0,1,1,2,4,1,Approved
+HL01673,T Nagar,Digital,6450000,0,3,5,2,10,0,Approved
+HL01674,Velachery,Branch,400000,0,2,6,2,10,0,Pending
+HL01675,Anna Nagar,Digital,5100000,0,3,5,3,11,0,Rejected
+HL01676,T Nagar,Partner,2900000,0,3,6,1,10,0,Approved
+HL01677,Adyar,Digital,6250000,0,4,3,2,9,0,Approved
+HL01678,Tambaram,Digital,5150000,0,2,4,1,7,1,Pending
+HL01679,Adyar,Branch,6050000,0,2,3,2,7,1,Approved
+HL01680,Tambaram,Digital,900000,0,2,4,1,7,1,Approved
+HL01681,Adyar,Digital,2150000,0,1,3,1,5,1,Rejected
+HL01682,Anna Nagar,Partner,7100000,0,4,7,3,14,0,Approved
+HL01683,Anna Nagar,Digital,6200000,0,1,4,3,8,1,Approved
+HL01684,Anna Nagar,Digital,3750000,0,1,3,1,5,1,Approved
+HL01685,T Nagar,Branch,4900000,0,3,4,3,10,0,Approved
+HL01686,Adyar,Digital,5100000,0,2,2,3,7,1,Approved
+HL01687,Velachery,Digital,1000000,0,1,5,2,8,1,Approved
+HL01688,Tambaram,Partner,4750000,0,2,8,2,12,0,Rejected
+HL01689,Adyar,Partner,500000,0,3,8,1,12,0,Rejected
+HL01690,Tambaram,Digital,8000000,0,2,4,1,7,1,Approved
+HL01691,Velachery,Branch,6950000,0,1,4,1,6,1,Approved
+HL01692,Velachery,Digital,6750000,0,2,3,2,7,1,Approved
+HL01693,Anna Nagar,Branch,4450000,0,3,3,1,7,1,Approved
+HL01694,Tambaram,Digital,7000000,0,2,1,3,6,1,Rejected
+HL01695,Anna Nagar,Partner,7750000,0,2,6,1,9,0,Approved
+HL01696,T Nagar,Digital,7950000,0,1,3,1,5,1,Approved
+HL01697,Velachery,Digital,4200000,0,3,2,2,7,1,Rejected
+HL01698,Anna Nagar,Branch,2350000,0,2,1,1,4,1,Approved
+HL01699,T Nagar,Digital,1100000,0,3,2,2,7,1,Approved
+HL01700,Tambaram,Branch,5600000,0,2,4,2,8,1,Approved
+HL01701,Velachery,Partner,6350000,0,5,4,2,11,0,Approved
+HL01702,Adyar,Digital,7700000,0,3,7,2,12,0,Approved
+HL01703,Tambaram,Digital,550000,0,2,5,1,8,1,Approved
+HL01704,Tambaram,Digital,6050000,0,4,7,2,13,0,Rejected
+HL01705,Velachery,Digital,1500000,0,3,3,1,7,1,Approved
+HL01706,T Nagar,Branch,5300000,0,3,5,2,10,0,Approved
+HL01707,T Nagar,Branch,5500000,0,1,3,2,6,1,Approved
+HL01708,Velachery,Branch,7000000,1,8,5,2,15,0,Approved
+HL01709,Velachery,Digital,400000,0,1,4,1,6,1,Approved
+HL01710,Adyar,Partner,4650000,1,4,8,1,13,0,Approved
+HL01711,Adyar,Partner,5800000,0,2,7,3,12,0,Pending
+HL01712,T Nagar,Digital,4150000,0,2,2,1,5,1,Approved
+HL01713,Velachery,Branch,1350000,0,1,6,2,9,0,Approved
+HL01714,Tambaram,Branch,7950000,0,4,1,3,8,1,Approved
+HL01715,Adyar,Digital,4750000,0,1,4,1,6,1,Approved
+HL01716,Velachery,Digital,5700000,0,1,5,1,7,1,Pending
+HL01717,Tambaram,Branch,5400000,1,9,5,3,17,0,Approved
+HL01718,Anna Nagar,Digital,6250000,0,3,6,2,11,0,Approved
+HL01719,T Nagar,Digital,7500000,0,2,8,1,11,0,Rejected
+HL01720,Adyar,Branch,2650000,0,3,6,2,11,0,Rejected
+HL01721,Tambaram,Partner,2150000,1,6,7,2,15,0,Approved
+HL01722,Anna Nagar,Digital,1050000,0,2,6,2,10,0,Pending
+HL01723,Anna Nagar,Digital,2950000,1,5,4,1,10,0,Pending
+HL01724,T Nagar,Digital,6800000,0,3,4,3,10,0,Approved
+HL01725,Velachery,Branch,400000,0,3,5,1,9,0,Rejected
+HL01726,Tambaram,Branch,6350000,0,2,7,2,11,0,Approved
+HL01727,Tambaram,Digital,1850000,0,1,2,3,6,1,Approved
+HL01728,Velachery,Branch,2550000,0,1,4,3,8,1,Approved
+HL01729,Adyar,Partner,7350000,0,4,3,2,9,0,Approved
+HL01730,Tambaram,Partner,7700000,0,1,7,1,9,0,Rejected
+HL01731,T Nagar,Digital,5300000,0,2,6,1,9,0,Approved
+HL01732,T Nagar,Digital,6050000,0,3,4,3,10,0,Rejected
+HL01733,Anna Nagar,Branch,3850000,0,2,3,1,6,1,Approved
+HL01734,Adyar,Digital,7300000,0,1,3,3,7,1,Approved
+HL01735,Velachery,Digital,1650000,0,2,8,2,12,0,Approved
+HL01736,Adyar,Partner,700000,1,4,3,2,9,0,Approved
+HL01737,Tambaram,Branch,4000000,0,3,3,2,8,1,Approved
+HL01738,Anna Nagar,Digital,6100000,0,1,3,1,5,1,Approved
+HL01739,Tambaram,Branch,6650000,0,4,7,2,13,0,Approved
+HL01740,T Nagar,Branch,6600000,0,1,2,1,4,1,Approved
+HL01741,Adyar,Digital,5750000,0,3,4,1,8,1,Approved
+HL01742,Tambaram,Branch,5850000,0,2,5,2,9,0,Approved
+HL01743,Adyar,Digital,5200000,0,2,2,2,6,1,Rejected
+HL01744,Tambaram,Partner,1250000,1,5,5,1,11,0,Rejected
+HL01745,Anna Nagar,Digital,2700000,0,2,7,3,12,0,Approved
+HL01746,Velachery,Partner,2900000,0,2,4,3,9,0,Rejected
+HL01747,Adyar,Branch,3200000,0,1,5,1,7,1,Rejected
+HL01748,Velachery,Partner,3400000,0,3,5,2,10,0,Approved
+HL01749,Velachery,Branch,8000000,1,8,5,1,14,0,Approved
+HL01750,Adyar,Partner,5000000,0,2,5,1,8,1,Approved
+HL01751,T Nagar,Digital,7150000,0,3,4,1,8,1,Rejected
+HL01752,Adyar,Digital,7850000,0,3,6,1,10,0,Pending
+HL01753,Velachery,Branch,6300000,0,1,3,3,7,1,Rejected
+HL01754,Velachery,Digital,5800000,1,7,4,3,14,0,Approved
+HL01755,Anna Nagar,Digital,4300000,0,2,2,2,6,1,Approved
+HL01756,Anna Nagar,Branch,5000000,0,4,4,1,9,0,Rejected
+HL01757,Tambaram,Branch,2200000,0,1,2,1,4,1,Approved
+HL01758,Tambaram,Branch,650000,0,3,5,2,10,0,Rejected
+HL01759,Adyar,Branch,1250000,0,4,3,1,8,1,Approved
+HL01760,Adyar,Digital,600000,0,5,5,1,11,0,Pending
+HL01761,T Nagar,Branch,700000,0,2,3,2,7,1,Approved
+HL01762,Tambaram,Branch,7750000,0,1,1,1,3,1,Rejected
+HL01763,Tambaram,Digital,5500000,0,1,1,1,3,1,Approved
+HL01764,Tambaram,Digital,6800000,0,3,3,2,8,1,Rejected
+HL01765,Anna Nagar,Branch,3750000,1,5,3,2,10,0,Approved
+HL01766,T Nagar,Digital,7600000,0,2,6,1,9,0,Approved
+HL01767,Adyar,Digital,6250000,0,2,5,1,8,1,Approved
+HL01768,Tambaram,Digital,4350000,0,3,5,3,11,0,Pending
+HL01769,Velachery,Partner,6100000,0,2,4,2,8,1,Approved
+HL01770,Tambaram,Digital,5800000,0,4,3,3,10,0,Approved
+HL01771,Tambaram,Branch,4500000,0,1,6,2,9,0,Approved
+HL01772,Velachery,Partner,550000,0,2,4,2,8,1,Approved
+HL01773,Velachery,Branch,3000000,0,5,1,1,7,1,Rejected
+HL01774,Adyar,Branch,1500000,0,4,5,2,11,0,Approved
+HL01775,Adyar,Digital,1750000,0,2,5,1,8,1,Rejected
+HL01776,Velachery,Branch,3600000,1,5,3,1,9,0,Approved
+HL01777,T Nagar,Partner,3000000,0,2,4,1,7,1,Rejected
+HL01778,Anna Nagar,Branch,2100000,0,2,6,2,10,0,Approved
+HL01779,Velachery,Partner,1250000,0,2,5,1,8,1,Approved
+HL01780,Velachery,Digital,6750000,0,3,2,2,7,1,Approved
+HL01781,Tambaram,Digital,3650000,0,3,3,2,8,1,Rejected
+HL01782,T Nagar,Branch,2450000,0,2,4,1,7,1,Approved
+HL01783,Adyar,Branch,2700000,0,1,1,1,3,1,Pending
+HL01784,Anna Nagar,Branch,650000,0,2,5,1,8,1,Rejected
+HL01785,Tambaram,Partner,5450000,1,6,5,1,12,0,Approved
+HL01786,Adyar,Digital,1400000,0,2,2,1,5,1,Rejected
+HL01787,Anna Nagar,Branch,5750000,0,3,3,3,9,0,Approved
+HL01788,Anna Nagar,Digital,5450000,0,2,5,2,9,0,Approved
+HL01789,Adyar,Partner,1750000,0,2,4,1,7,1,Approved
+HL01790,Tambaram,Digital,1400000,0,2,3,2,7,1,Rejected
+HL01791,Tambaram,Branch,8000000,0,1,6,1,8,1,Rejected
+HL01792,T Nagar,Branch,5150000,0,3,1,2,6,1,Rejected
+HL01793,Tambaram,Digital,3850000,0,2,4,2,8,1,Approved
+HL01794,Velachery,Digital,2600000,0,2,6,2,10,0,Approved
+HL01795,Anna Nagar,Partner,3500000,0,4,4,1,9,0,Approved
+HL01796,Anna Nagar,Branch,7500000,0,3,4,1,8,1,Rejected
+HL01797,Velachery,Branch,1550000,0,3,5,2,10,0,Approved
+HL01798,T Nagar,Digital,6650000,0,3,4,2,9,0,Rejected
+HL01799,Velachery,Branch,5550000,0,2,3,2,7,1,Approved
+HL01800,Velachery,Branch,4350000,1,5,6,2,13,0,Approved
+HL01801,Velachery,Partner,2550000,0,2,6,2,10,0,Approved
+HL01802,Anna Nagar,Branch,4250000,0,3,3,1,7,1,Rejected
+HL01803,Tambaram,Branch,7150000,0,1,4,3,8,1,Approved
+HL01804,Anna Nagar,Digital,950000,0,2,5,2,9,0,Approved
+HL01805,T Nagar,Branch,6500000,0,4,6,1,11,0,Approved
+HL01806,Velachery,Partner,3250000,0,3,5,1,9,0,Approved
+HL01807,Anna Nagar,Digital,6700000,0,2,7,3,12,0,Pending
+HL01808,Adyar,Branch,6600000,0,3,5,3,11,0,Rejected
+HL01809,Velachery,Branch,4700000,0,2,5,2,9,0,Approved
+HL01810,Anna Nagar,Partner,2750000,0,1,7,1,9,0,Approved
+HL01811,Adyar,Branch,7200000,1,4,2,3,9,0,Approved
+HL01812,Anna Nagar,Branch,8000000,0,3,5,1,9,0,Approved
+HL01813,Adyar,Digital,1200000,0,1,3,1,5,1,Approved
+HL01814,Tambaram,Branch,6100000,1,6,3,2,11,0,Approved
+HL01815,T Nagar,Branch,7100000,1,5,5,1,11,0,Approved
+HL01816,Tambaram,Branch,5850000,1,4,3,2,9,0,Approved
+HL01817,Adyar,Partner,3700000,0,4,6,2,12,0,Approved
+HL01818,T Nagar,Partner,4850000,0,1,8,2,11,0,Rejected
+HL01819,Adyar,Branch,550000,0,1,7,1,9,0,Approved
+HL01820,Anna Nagar,Branch,5850000,0,4,2,2,8,1,Approved
+HL01821,T Nagar,Branch,4550000,0,2,4,2,8,1,Approved
+HL01822,Adyar,Partner,5500000,0,2,5,1,8,1,Rejected
+HL01823,Anna Nagar,Digital,7650000,0,1,4,2,7,1,Approved
+HL01824,Anna Nagar,Branch,1900000,0,2,6,1,9,0,Approved
+HL01825,Adyar,Digital,1150000,0,1,3,1,5,1,Approved
+HL01826,Anna Nagar,Digital,4800000,0,1,1,2,4,1,Rejected
+HL01827,Adyar,Digital,2350000,0,1,4,1,6,1,Approved
+HL01828,Velachery,Digital,2800000,0,2,5,1,8,1,Approved
+HL01829,Anna Nagar,Digital,350000,0,1,5,2,8,1,Approved
+HL01830,Adyar,Branch,6500000,0,2,5,1,8,1,Approved
+HL01831,Velachery,Digital,2450000,1,8,2,2,12,0,Approved
+HL01832,Adyar,Partner,1350000,0,2,6,1,9,0,Approved
+HL01833,Tambaram,Partner,3500000,0,3,9,1,13,0,Approved
+HL01834,Tambaram,Digital,6550000,0,2,4,3,9,0,Approved
+HL01835,T Nagar,Branch,6100000,0,3,5,1,9,0,Rejected
+HL01836,Anna Nagar,Partner,3000000,1,6,8,1,15,0,Approved
+HL01837,Adyar,Digital,1050000,1,7,6,1,14,0,Rejected
+HL01838,T Nagar,Partner,1900000,0,3,7,1,11,0,Rejected
+HL01839,Tambaram,Digital,5450000,1,5,4,1,10,0,Rejected
+HL01840,Anna Nagar,Branch,6900000,0,2,3,1,6,1,Approved
+HL01841,T Nagar,Branch,5000000,0,3,3,2,8,1,Approved
+HL01842,Adyar,Branch,4050000,0,3,2,3,8,1,Pending
+HL01843,Velachery,Partner,7350000,0,4,8,1,13,0,Approved
+HL01844,T Nagar,Partner,2550000,0,3,7,1,11,0,Approved
+HL01845,Velachery,Digital,2100000,0,4,6,2,12,0,Approved
+HL01846,Velachery,Branch,8000000,0,2,10,3,15,0,Approved
+HL01847,T Nagar,Partner,4350000,1,4,5,3,12,0,Approved
+HL01848,Anna Nagar,Branch,3700000,0,3,5,1,9,0,Pending
+HL01849,Anna Nagar,Branch,2000000,1,5,5,1,11,0,Rejected
+HL01850,Anna Nagar,Branch,3400000,0,4,5,1,10,0,Approved
+HL01851,T Nagar,Branch,1250000,0,3,5,2,10,0,Rejected
+HL01852,Anna Nagar,Branch,1700000,0,2,2,3,7,1,Approved
+HL01853,Anna Nagar,Branch,700000,0,1,5,3,9,0,Pending
+HL01854,Adyar,Branch,5050000,0,2,4,2,8,1,Pending
+HL01855,Adyar,Digital,5800000,0,4,5,1,10,0,Pending
+HL01856,Tambaram,Branch,6150000,0,3,5,2,10,0,Rejected
+HL01857,Anna Nagar,Digital,3600000,0,3,1,2,6,1,Approved
+HL01858,T Nagar,Digital,7200000,0,2,4,1,7,1,Approved
+HL01859,Anna Nagar,Digital,2850000,0,2,4,2,8,1,Approved
+HL01860,Velachery,Digital,5850000,1,5,4,2,11,0,Approved
+HL01861,T Nagar,Partner,3300000,0,1,3,3,7,1,Approved
+HL01862,Anna Nagar,Branch,4850000,0,2,3,1,6,1,Rejected
+HL01863,Tambaram,Digital,5350000,0,2,3,2,7,1,Approved
+HL01864,Tambaram,Branch,650000,0,2,1,2,5,1,Rejected
+HL01865,Adyar,Branch,4500000,0,3,3,2,8,1,Approved
+HL01866,Adyar,Partner,2200000,1,5,7,1,13,0,Approved
+HL01867,Velachery,Branch,2300000,0,5,7,2,14,0,Approved
+HL01868,T Nagar,Partner,4150000,0,3,4,1,8,1,Approved
+HL01869,Velachery,Digital,5650000,0,3,3,1,7,1,Approved
+HL01870,Velachery,Digital,4800000,0,2,7,3,12,0,Rejected
+HL01871,Tambaram,Partner,5500000,0,1,5,1,7,1,Approved
+HL01872,Velachery,Digital,2800000,0,3,4,2,9,0,Approved
+HL01873,Velachery,Digital,1550000,0,4,6,1,11,0,Approved
+HL01874,Anna Nagar,Branch,3000000,0,1,4,2,7,1,Rejected
+HL01875,T Nagar,Branch,7300000,0,2,2,1,5,1,Pending
+HL01876,Adyar,Branch,6250000,0,2,4,1,7,1,Approved
+HL01877,Anna Nagar,Digital,500000,0,1,5,3,9,0,Approved
+HL01878,Velachery,Branch,350000,1,5,4,1,10,0,Approved
+HL01879,Velachery,Digital,7450000,0,2,1,2,5,1,Approved
+HL01880,Adyar,Partner,5300000,0,2,5,1,8,1,Rejected
+HL01881,T Nagar,Branch,5800000,0,2,2,2,6,1,Approved
+HL01882,Anna Nagar,Branch,7550000,0,3,5,1,9,0,Rejected
+HL01883,Velachery,Partner,3850000,0,4,5,3,12,0,Approved
+HL01884,Velachery,Digital,7450000,0,2,4,1,7,1,Approved
+HL01885,Velachery,Partner,6750000,1,5,8,3,16,0,Approved
+HL01886,Anna Nagar,Partner,6250000,1,5,3,2,10,0,Rejected
+HL01887,T Nagar,Branch,3500000,1,4,2,1,7,1,Approved
+HL01888,Velachery,Partner,2900000,0,1,5,2,8,1,Approved
+HL01889,T Nagar,Digital,4850000,0,3,5,1,9,0,Rejected
+HL01890,Velachery,Partner,6100000,0,4,5,1,10,0,Approved
+HL01891,Velachery,Digital,4950000,0,2,2,1,5,1,Approved
+HL01892,Tambaram,Partner,600000,0,2,5,1,8,1,Approved
+HL01893,Velachery,Digital,2700000,0,4,1,1,6,1,Rejected
+HL01894,Adyar,Partner,2900000,0,2,7,1,10,0,Pending
+HL01895,Adyar,Branch,7800000,0,1,3,2,6,1,Approved
+HL01896,Tambaram,Branch,3250000,0,1,5,1,7,1,Rejected
+HL01897,Velachery,Branch,800000,0,3,1,1,5,1,Approved
+HL01898,Velachery,Branch,1800000,0,2,7,2,11,0,Approved
+HL01899,Velachery,Branch,7800000,0,2,4,2,8,1,Approved
+HL01900,Anna Nagar,Partner,2800000,0,3,3,2,8,1,Rejected
+HL01901,Tambaram,Branch,300000,1,5,7,2,14,0,Pending
+HL01902,T Nagar,Partner,2150000,0,2,6,3,11,0,Approved
+HL01903,Tambaram,Branch,6200000,1,5,4,1,10,0,Approved
+HL01904,Velachery,Digital,7450000,0,2,6,3,11,0,Approved
+HL01905,Adyar,Partner,750000,0,1,5,2,8,1,Approved
+HL01906,Anna Nagar,Branch,4950000,0,5,3,2,10,0,Approved
+HL01907,Anna Nagar,Digital,900000,0,1,5,1,7,1,Approved
+HL01908,Tambaram,Branch,3500000,1,4,1,2,7,1,Rejected
+HL01909,Anna Nagar,Partner,7450000,1,4,5,1,10,0,Rejected
+HL01910,Adyar,Digital,2450000,0,3,3,2,8,1,Approved
+HL01911,T Nagar,Branch,8000000,0,2,3,1,6,1,Approved
+HL01912,T Nagar,Digital,3150000,0,2,6,2,10,0,Pending
+HL01913,Adyar,Branch,2850000,0,3,5,1,9,0,Rejected
+HL01914,Velachery,Branch,500000,0,3,5,2,10,0,Approved
+HL01915,Adyar,Branch,7350000,0,2,6,3,11,0,Approved
+HL01916,Velachery,Digital,5250000,0,1,7,2,10,0,Approved
+HL01917,T Nagar,Digital,7800000,0,4,3,1,8,1,Approved
+HL01918,Anna Nagar,Digital,2250000,0,2,5,2,9,0,Approved
+HL01919,T Nagar,Digital,1550000,0,3,2,2,7,1,Rejected
+HL01920,T Nagar,Branch,1950000,0,3,7,3,13,0,Approved
+HL01921,Velachery,Digital,1450000,0,2,5,3,10,0,Approved
+HL01922,T Nagar,Branch,2300000,0,1,4,1,6,1,Rejected
+HL01923,Anna Nagar,Branch,3100000,1,6,2,1,9,0,Rejected
+HL01924,Velachery,Branch,3050000,0,3,4,1,8,1,Rejected
+HL01925,Adyar,Branch,4350000,0,2,1,1,4,1,Approved
+HL01926,Adyar,Branch,1500000,0,2,5,1,8,1,Approved
+HL01927,T Nagar,Digital,1000000,0,3,6,1,10,0,Approved
+HL01928,Adyar,Digital,4900000,1,6,4,1,11,0,Rejected
+HL01929,Adyar,Digital,4850000,0,3,5,2,10,0,Rejected
+HL01930,Velachery,Branch,2500000,0,4,4,3,11,0,Approved
+HL01931,Adyar,Branch,1000000,1,5,4,1,10,0,Approved
+HL01932,Velachery,Digital,1600000,0,1,5,2,8,1,Rejected
+HL01933,T Nagar,Branch,5450000,0,4,4,1,9,0,Approved
+HL01934,Adyar,Branch,6600000,0,1,4,1,6,1,Pending
+HL01935,Tambaram,Partner,5350000,0,1,11,4,16,0,Approved
+HL01936,T Nagar,Partner,2600000,0,1,3,1,5,1,Approved
+HL01937,T Nagar,Branch,2400000,0,1,8,1,10,0,Approved
+HL01938,Adyar,Digital,5500000,0,4,3,3,10,0,Rejected
+HL01939,Tambaram,Digital,6050000,1,4,4,3,11,0,Approved
+HL01940,Anna Nagar,Branch,4050000,0,3,2,2,7,1,Approved
+HL01941,Adyar,Branch,2000000,0,1,5,3,9,0,Approved
+HL01942,Tambaram,Branch,1550000,1,5,5,1,11,0,Approved
+HL01943,T Nagar,Branch,5350000,0,2,7,1,10,0,Pending
+HL01944,T Nagar,Branch,3600000,1,7,4,1,12,0,Rejected
+HL01945,Tambaram,Branch,1950000,0,6,3,1,10,0,Rejected
+HL01946,T Nagar,Digital,6350000,0,3,4,2,9,0,Rejected
+HL01947,Adyar,Digital,7800000,0,5,4,1,10,0,Approved
+HL01948,Tambaram,Digital,2250000,0,3,6,3,12,0,Approved
+HL01949,Anna Nagar,Branch,750000,1,6,3,2,11,0,Pending
+HL01950,Adyar,Digital,5900000,0,1,4,2,7,1,Pending
+HL01951,Velachery,Branch,1750000,1,6,1,2,9,0,Approved
+HL01952,T Nagar,Digital,3050000,0,4,4,1,9,0,Rejected
+HL01953,Anna Nagar,Branch,5600000,0,3,5,2,10,0,Rejected
+HL01954,Anna Nagar,Digital,1900000,1,6,2,1,9,0,Approved
+HL01955,T Nagar,Digital,5400000,0,3,2,3,8,1,Pending
+HL01956,Tambaram,Partner,5150000,0,1,3,2,6,1,Approved
+HL01957,Adyar,Digital,3200000,0,4,3,1,8,1,Approved
+HL01958,Tambaram,Digital,7650000,0,4,3,2,9,0,Approved
+HL01959,Velachery,Partner,1300000,0,4,8,2,14,0,Approved
+HL01960,Velachery,Digital,7500000,0,4,2,3,9,0,Approved
+HL01961,Adyar,Digital,4050000,0,4,2,3,9,0,Approved
+HL01962,Tambaram,Digital,5800000,0,2,2,1,5,1,Pending
+HL01963,Adyar,Digital,7200000,0,1,5,1,7,1,Approved
+HL01964,T Nagar,Branch,7100000,0,1,4,1,6,1,Approved
+HL01965,Tambaram,Branch,900000,0,3,6,1,10,0,Approved
+HL01966,Anna Nagar,Partner,4100000,0,2,7,2,11,0,Approved
+HL01967,Anna Nagar,Digital,3900000,0,2,5,1,8,1,Approved
+HL01968,T Nagar,Digital,7750000,0,1,3,1,5,1,Approved
+HL01969,Anna Nagar,Partner,2150000,0,3,4,3,10,0,Approved
+HL01970,Adyar,Partner,5350000,1,5,3,1,9,0,Approved
+HL01971,Anna Nagar,Branch,5450000,0,3,3,1,7,1,Rejected
+HL01972,T Nagar,Digital,7250000,0,1,3,3,7,1,Pending
+HL01973,Velachery,Partner,3350000,1,5,4,3,12,0,Rejected
+HL01974,Tambaram,Branch,7750000,0,4,3,1,8,1,Pending
+HL01975,Velachery,Digital,4950000,0,1,4,1,6,1,Approved
+HL01976,T Nagar,Partner,3650000,1,6,4,1,11,0,Approved
+HL01977,Adyar,Digital,1950000,0,3,8,2,13,0,Approved
+HL01978,Velachery,Digital,6650000,0,2,4,1,7,1,Rejected
+HL01979,Adyar,Branch,6800000,0,4,2,3,9,0,Approved
+HL01980,T Nagar,Branch,7900000,0,3,2,1,6,1,Approved
+HL01981,Tambaram,Branch,2950000,0,2,4,2,8,1,Approved
+HL01982,Velachery,Digital,7500000,0,1,5,2,8,1,Approved
+HL01983,Velachery,Branch,2150000,0,1,5,2,8,1,Approved
+HL01984,Anna Nagar,Branch,5500000,0,2,7,3,12,0,Pending
+HL01985,T Nagar,Partner,3550000,1,4,6,2,12,0,Approved
+HL01986,T Nagar,Partner,5100000,1,6,9,1,16,0,Approved
+HL01987,T Nagar,Digital,1500000,1,6,3,1,10,0,Approved
+HL01988,Velachery,Digital,3400000,0,3,5,1,9,0,Approved
+HL01989,Anna Nagar,Partner,2100000,0,2,5,2,9,0,Approved
+HL01990,Anna Nagar,Branch,5350000,0,3,3,2,8,1,Rejected
+HL01991,Anna Nagar,Branch,6850000,0,2,6,1,9,0,Rejected
+HL01992,Adyar,Branch,1850000,0,1,3,3,7,1,Approved
+HL01993,Velachery,Branch,6200000,0,2,4,2,8,1,Rejected
+HL01994,T Nagar,Branch,950000,0,3,4,3,10,0,Approved
+HL01995,Velachery,Digital,3700000,0,1,5,2,8,1,Approved
+HL01996,T Nagar,Branch,2300000,0,1,1,3,5,1,Approved
+HL01997,Tambaram,Branch,5350000,0,3,5,2,10,0,Approved
+HL01998,Tambaram,Branch,3650000,0,3,3,2,8,1,Rejected
+HL01999,Adyar,Digital,5150000,0,2,3,1,6,1,Rejected
+HL02000,T Nagar,Digital,5650000,0,2,4,3,9,0,Rejected
+HL02001,Adyar,Branch,4850000,0,1,7,2,10,0,Approved
+HL02002,Velachery,Branch,3350000,0,2,6,1,9,0,Rejected
+HL02003,Tambaram,Partner,400000,1,4,7,3,14,0,Pending
+HL02004,Anna Nagar,Digital,5000000,0,2,5,1,8,1,Pending
+HL02005,Adyar,Digital,2750000,0,4,1,3,8,1,Approved
+HL02006,T Nagar,Branch,1750000,0,3,1,2,6,1,Approved
+HL02007,Tambaram,Branch,6650000,0,1,3,2,6,1,Approved
+HL02008,Velachery,Branch,1700000,0,2,5,1,8,1,Rejected
+HL02009,Adyar,Digital,4600000,0,2,1,1,4,1,Approved
+HL02010,T Nagar,Digital,5200000,0,3,6,1,10,0,Approved
+HL02011,Velachery,Branch,6300000,0,3,3,3,9,0,Approved
+HL02012,Tambaram,Partner,1150000,0,3,3,2,8,1,Approved
+HL02013,Anna Nagar,Branch,1300000,0,5,3,1,9,0,Rejected
+HL02014,Tambaram,Branch,1800000,0,2,1,1,4,1,Rejected
+HL02015,T Nagar,Branch,1050000,0,1,2,2,5,1,Approved
+HL02016,Tambaram,Partner,3650000,0,3,5,1,9,0,Approved
+HL02017,Anna Nagar,Branch,1100000,0,2,5,4,11,0,Approved
+HL02018,T Nagar,Partner,800000,0,3,5,2,10,0,Approved
+HL02019,Adyar,Digital,2450000,0,2,3,2,7,1,Approved
+HL02020,Anna Nagar,Digital,6300000,0,1,3,2,6,1,Rejected
+HL02021,Adyar,Digital,550000,0,4,8,2,14,0,Approved
+HL02022,Adyar,Branch,7650000,0,2,6,2,10,0,Pending
+HL02023,Anna Nagar,Branch,1000000,0,2,4,2,8,1,Rejected
+HL02024,Velachery,Branch,4800000,0,2,4,3,9,0,Rejected
+HL02025,Tambaram,Digital,7750000,0,3,2,3,8,1,Approved
+HL02026,T Nagar,Digital,7250000,0,2,6,1,9,0,Approved
+HL02027,Anna Nagar,Branch,1700000,0,3,2,2,7,1,Approved
+HL02028,Adyar,Branch,1450000,0,3,4,2,9,0,Pending
+HL02029,Tambaram,Partner,900000,0,2,3,1,6,1,Approved
+HL02030,Velachery,Branch,7750000,0,2,4,3,9,0,Approved
+HL02031,Adyar,Partner,2100000,0,3,4,1,8,1,Pending
+HL02032,T Nagar,Branch,7850000,0,2,1,3,6,1,Rejected
+HL02033,Adyar,Branch,6150000,0,1,3,3,7,1,Approved
+HL02034,Adyar,Partner,4950000,0,2,8,2,12,0,Approved
+HL02035,Anna Nagar,Digital,550000,0,1,3,1,5,1,Approved
+HL02036,T Nagar,Digital,2350000,0,2,3,3,8,1,Approved
+HL02037,Adyar,Digital,4050000,0,2,5,2,9,0,Approved
+HL02038,T Nagar,Digital,2500000,0,3,2,1,6,1,Approved
+HL02039,Adyar,Branch,7600000,0,3,4,1,8,1,Approved
+HL02040,Velachery,Partner,3800000,0,2,5,3,10,0,Approved
+HL02041,Velachery,Digital,1950000,0,3,6,2,11,0,Approved
+HL02042,Adyar,Branch,850000,0,1,4,2,7,1,Rejected
+HL02043,Tambaram,Branch,5600000,0,3,6,2,11,0,Approved
+HL02044,T Nagar,Partner,6050000,1,6,7,1,14,0,Approved
+HL02045,Anna Nagar,Digital,4450000,0,1,3,1,5,1,Approved
+HL02046,T Nagar,Digital,4100000,0,1,3,1,5,1,Rejected
+HL02047,T Nagar,Branch,4950000,0,4,4,1,9,0,Pending
+HL02048,Adyar,Partner,3350000,0,4,5,1,10,0,Approved
+HL02049,T Nagar,Partner,6900000,0,1,6,2,9,0,Pending
+HL02050,Adyar,Partner,2750000,0,2,3,2,7,1,Approved
+HL02051,Anna Nagar,Branch,4850000,0,1,3,2,6,1,Rejected
+HL02052,Velachery,Branch,300000,0,3,4,2,9,0,Approved
+HL02053,Adyar,Branch,5100000,0,2,1,2,5,1,Approved
+HL02054,Tambaram,Branch,300000,0,3,6,1,10,0,Approved
+HL02055,Tambaram,Partner,5150000,0,3,6,1,10,0,Approved
+HL02056,Velachery,Branch,5200000,0,1,1,3,5,1,Pending
+HL02057,T Nagar,Partner,1700000,0,1,8,2,11,0,Approved
+HL02058,Adyar,Branch,2450000,0,2,6,2,10,0,Approved
+HL02059,Anna Nagar,Branch,1800000,1,5,5,2,12,0,Rejected
+HL02060,Tambaram,Partner,7600000,0,3,6,1,10,0,Approved
+HL02061,Anna Nagar,Digital,3750000,0,3,1,2,6,1,Pending
+HL02062,Adyar,Digital,5400000,0,1,4,1,6,1,Approved
+HL02063,T Nagar,Branch,4850000,0,2,2,1,5,1,Approved
+HL02064,Adyar,Branch,6250000,0,3,1,2,6,1,Approved
+HL02065,Adyar,Branch,7200000,0,3,6,1,10,0,Approved
+HL02066,Adyar,Digital,4050000,0,2,3,1,6,1,Rejected
+HL02067,Adyar,Branch,6300000,0,2,3,1,6,1,Approved
+HL02068,Tambaram,Digital,7750000,0,3,2,2,7,1,Rejected
+HL02069,Velachery,Branch,6150000,0,3,2,1,6,1,Approved
+HL02070,Adyar,Branch,6100000,0,3,4,1,8,1,Pending
+HL02071,T Nagar,Digital,950000,0,4,4,2,10,0,Approved
+HL02072,Tambaram,Partner,6350000,0,1,5,1,7,1,Rejected
+HL02073,Anna Nagar,Branch,6950000,1,5,1,2,8,1,Approved
+HL02074,Adyar,Branch,7000000,0,1,4,2,7,1,Approved
+HL02075,Tambaram,Branch,7750000,1,8,6,1,15,0,Approved
+HL02076,Tambaram,Digital,6300000,1,5,5,1,11,0,Pending
+HL02077,Adyar,Digital,2300000,0,2,5,2,9,0,Approved
+HL02078,Adyar,Digital,4950000,0,3,8,2,13,0,Approved
+HL02079,Adyar,Branch,4100000,0,5,2,1,8,1,Rejected
+HL02080,Anna Nagar,Digital,7650000,0,2,1,3,6,1,Rejected
+HL02081,Velachery,Partner,5950000,0,1,5,3,9,0,Pending
+HL02082,Velachery,Digital,7500000,0,2,3,1,6,1,Rejected
+HL02083,T Nagar,Branch,3450000,0,3,1,2,6,1,Pending
+HL02084,Anna Nagar,Partner,4800000,0,3,7,1,11,0,Rejected
+HL02085,Anna Nagar,Digital,2250000,0,3,5,3,11,0,Approved
+HL02086,T Nagar,Branch,350000,0,4,1,1,6,1,Approved
+HL02087,Velachery,Branch,5050000,0,2,4,2,8,1,Approved
+HL02088,Anna Nagar,Digital,4000000,0,3,7,2,12,0,Rejected
+HL02089,Anna Nagar,Partner,650000,1,5,6,3,14,0,Approved
+HL02090,Velachery,Digital,7350000,0,1,4,1,6,1,Approved
+HL02091,Velachery,Branch,950000,0,3,4,1,8,1,Approved
+HL02092,Tambaram,Partner,4550000,0,1,5,2,8,1,Approved
+HL02093,T Nagar,Partner,850000,1,4,8,1,13,0,Approved
+HL02094,Tambaram,Branch,5850000,0,3,4,1,8,1,Approved
+HL02095,Anna Nagar,Partner,3100000,0,2,8,1,11,0,Approved
+HL02096,Velachery,Partner,3900000,0,3,6,3,12,0,Rejected
+HL02097,Anna Nagar,Partner,4250000,0,3,4,1,8,1,Approved
+HL02098,Velachery,Partner,5600000,1,6,6,1,13,0,Approved
+HL02099,Adyar,Branch,5200000,1,7,3,1,11,0,Approved
+HL02100,T Nagar,Branch,4600000,0,6,5,2,13,0,Pending
+HL02101,Velachery,Branch,5750000,0,3,4,2,9,0,Approved
+HL02102,Velachery,Digital,2850000,0,3,3,3,9,0,Approved
+HL02103,Anna Nagar,Branch,2000000,0,3,2,2,7,1,Rejected
+HL02104,Tambaram,Branch,3550000,1,6,4,1,11,0,Pending
+HL02105,Velachery,Branch,2850000,0,2,1,3,6,1,Approved
+HL02106,T Nagar,Branch,6600000,0,2,5,2,9,0,Approved
+HL02107,T Nagar,Digital,5250000,0,2,6,3,11,0,Approved
+HL02108,Adyar,Digital,1500000,0,1,4,1,6,1,Approved
+HL02109,Anna Nagar,Partner,4100000,0,4,4,2,10,0,Approved
+HL02110,Tambaram,Digital,5900000,0,3,2,2,7,1,Approved
+HL02111,Adyar,Digital,600000,0,3,2,1,6,1,Pending
+HL02112,Adyar,Branch,2300000,0,2,3,2,7,1,Approved
+HL02113,T Nagar,Digital,450000,0,2,6,1,9,0,Pending
+HL02114,T Nagar,Branch,3050000,0,1,6,1,8,1,Approved
+HL02115,Anna Nagar,Digital,1950000,0,3,6,3,12,0,Approved
+HL02116,Adyar,Branch,5800000,0,1,4,2,7,1,Approved
+HL02117,T Nagar,Digital,1700000,0,1,2,3,6,1,Pending
+HL02118,Tambaram,Branch,7750000,0,2,2,1,5,1,Approved
+HL02119,Anna Nagar,Branch,2450000,0,3,4,1,8,1,Rejected
+HL02120,T Nagar,Digital,6900000,0,3,2,3,8,1,Approved
+HL02121,Adyar,Branch,4750000,0,2,5,1,8,1,Rejected
+HL02122,Anna Nagar,Digital,5350000,0,2,5,2,9,0,Approved
+HL02123,Velachery,Partner,3550000,0,2,7,3,12,0,Pending
+HL02124,Tambaram,Branch,3400000,0,4,3,2,9,0,Rejected
+HL02125,Velachery,Branch,4200000,0,2,7,1,10,0,Approved
+HL02126,Adyar,Branch,850000,0,3,2,1,6,1,Approved
+HL02127,Anna Nagar,Branch,3100000,0,1,4,1,6,1,Approved
+HL02128,T Nagar,Digital,1700000,0,2,3,3,8,1,Approved
+HL02129,T Nagar,Digital,2750000,0,2,1,1,4,1,Approved
+HL02130,Velachery,Branch,6200000,0,3,6,1,10,0,Pending
+HL02131,T Nagar,Branch,450000,0,2,3,1,6,1,Approved
+HL02132,Tambaram,Branch,2350000,0,2,6,2,10,0,Approved
+HL02133,Anna Nagar,Digital,4050000,0,2,1,2,5,1,Pending
+HL02134,Adyar,Branch,2550000,0,3,3,2,8,1,Approved
+HL02135,Tambaram,Digital,7000000,0,3,2,1,6,1,Approved
+HL02136,Anna Nagar,Partner,1050000,0,5,6,1,12,0,Approved
+HL02137,Adyar,Digital,1300000,0,4,6,1,11,0,Approved
+HL02138,Adyar,Branch,5550000,0,3,3,2,8,1,Approved
+HL02139,Velachery,Branch,5850000,0,2,3,1,6,1,Pending
+HL02140,Tambaram,Partner,1850000,0,4,5,2,11,0,Approved
+HL02141,T Nagar,Partner,2300000,0,1,7,1,9,0,Approved
+HL02142,Velachery,Branch,2600000,0,4,7,1,12,0,Pending
+HL02143,T Nagar,Digital,7550000,0,4,5,2,11,0,Approved
+HL02144,Anna Nagar,Digital,5250000,0,1,3,3,7,1,Approved
+HL02145,Velachery,Branch,5550000,0,4,3,2,9,0,Approved
+HL02146,Velachery,Branch,6950000,0,2,3,3,8,1,Approved
+HL02147,Velachery,Branch,3050000,0,1,6,2,9,0,Pending
+HL02148,T Nagar,Digital,1200000,0,3,1,3,7,1,Approved
+HL02149,Anna Nagar,Digital,4450000,0,2,2,1,5,1,Rejected
+HL02150,Tambaram,Branch,2400000,0,3,2,1,6,1,Approved
+HL02151,Velachery,Branch,450000,1,4,1,2,7,1,Approved
+HL02152,Velachery,Digital,5850000,0,5,4,2,11,0,Approved
+HL02153,Adyar,Branch,850000,0,3,1,2,6,1,Pending
+HL02154,Adyar,Partner,2450000,0,4,6,1,11,0,Approved
+HL02155,Tambaram,Branch,6750000,0,3,2,1,6,1,Rejected
+HL02156,Anna Nagar,Branch,500000,0,4,2,2,8,1,Rejected
+HL02157,T Nagar,Partner,5650000,0,2,9,1,12,0,Pending
+HL02158,T Nagar,Digital,3500000,1,7,3,1,11,0,Approved
+HL02159,Adyar,Branch,3350000,0,2,2,3,7,1,Approved
+HL02160,T Nagar,Digital,5250000,0,5,7,1,13,0,Approved
+HL02161,T Nagar,Digital,7350000,1,5,6,1,12,0,Approved
+HL02162,Tambaram,Digital,7250000,0,2,1,2,5,1,Approved
+HL02163,Adyar,Partner,7050000,0,2,5,1,8,1,Approved
+HL02164,Velachery,Branch,6150000,0,1,3,1,5,1,Approved
+HL02165,Tambaram,Branch,2200000,0,3,4,3,10,0,Rejected
+HL02166,Tambaram,Branch,5650000,1,5,4,1,10,0,Approved
+HL02167,Anna Nagar,Branch,6300000,0,2,2,2,6,1,Rejected
+HL02168,T Nagar,Branch,7700000,0,2,5,2,9,0,Rejected
+HL02169,Anna Nagar,Digital,6250000,0,2,6,2,10,0,Approved
+HL02170,Adyar,Partner,1200000,0,2,5,2,9,0,Rejected
+HL02171,Tambaram,Partner,2500000,0,3,4,3,10,0,Approved
+HL02172,Adyar,Digital,1150000,0,1,5,1,7,1,Approved
+HL02173,Velachery,Branch,2350000,0,3,4,1,8,1,Rejected
+HL02174,Anna Nagar,Branch,5400000,0,2,7,2,11,0,Approved
+HL02175,Anna Nagar,Branch,5850000,0,4,5,1,10,0,Rejected
+HL02176,Tambaram,Digital,2050000,0,1,5,1,7,1,Approved
+HL02177,Velachery,Digital,4450000,1,5,6,3,14,0,Rejected
+HL02178,Adyar,Partner,6550000,1,5,7,2,14,0,Approved
+HL02179,Adyar,Digital,800000,0,2,3,2,7,1,Approved
+HL02180,Tambaram,Digital,7600000,0,2,3,2,7,1,Pending
+HL02181,T Nagar,Digital,1100000,0,1,9,1,11,0,Approved
+HL02182,Anna Nagar,Branch,450000,0,2,4,1,7,1,Pending
+HL02183,Adyar,Branch,4950000,0,1,4,1,6,1,Approved
+HL02184,Tambaram,Branch,5800000,0,1,2,3,6,1,Rejected
+HL02185,Anna Nagar,Partner,350000,0,4,5,1,10,0,Approved
+HL02186,Velachery,Digital,4750000,0,3,3,1,7,1,Approved
+HL02187,Adyar,Branch,300000,0,2,4,1,7,1,Approved
+HL02188,Anna Nagar,Partner,1600000,1,5,4,2,11,0,Rejected
+HL02189,T Nagar,Partner,1450000,0,3,5,1,9,0,Approved
+HL02190,T Nagar,Partner,3400000,0,1,6,1,8,1,Approved
+HL02191,Adyar,Branch,3900000,0,3,4,3,10,0,Rejected
+HL02192,T Nagar,Branch,6600000,0,2,2,2,6,1,Approved
+HL02193,Adyar,Partner,2400000,0,4,6,2,12,0,Approved
+HL02194,T Nagar,Branch,4400000,0,6,5,1,12,0,Approved
+HL02195,Velachery,Digital,5450000,0,1,3,2,6,1,Approved
+HL02196,Tambaram,Partner,4600000,0,3,6,1,10,0,Approved
+HL02197,Tambaram,Partner,1700000,0,3,4,3,10,0,Approved
+HL02198,T Nagar,Branch,5750000,0,3,10,2,15,0,Approved
+HL02199,Adyar,Digital,5150000,0,2,1,1,4,1,Approved
+HL02200,Velachery,Digital,7650000,0,3,3,1,7,1,Approved
+HL02201,Velachery,Branch,6900000,0,3,5,2,10,0,Approved
+HL02202,Anna Nagar,Digital,7450000,1,5,5,1,11,0,Approved
+HL02203,Adyar,Digital,3300000,0,4,2,2,8,1,Approved
+HL02204,Tambaram,Branch,800000,0,1,7,2,10,0,Rejected
+HL02205,T Nagar,Digital,6100000,0,3,2,4,9,0,Rejected
+HL02206,Anna Nagar,Digital,3950000,0,1,3,2,6,1,Approved
+HL02207,T Nagar,Branch,1550000,0,3,3,3,9,0,Approved
+HL02208,T Nagar,Digital,2450000,0,3,3,3,9,0,Approved
+HL02209,Tambaram,Partner,3750000,0,1,8,1,10,0,Approved
+HL02210,T Nagar,Partner,5250000,0,1,8,1,10,0,Rejected
+HL02211,Tambaram,Digital,650000,0,2,5,1,8,1,Approved
+HL02212,Adyar,Partner,2650000,1,4,7,1,12,0,Approved
+HL02213,Tambaram,Partner,3900000,0,3,4,2,9,0,Approved
+HL02214,T Nagar,Branch,7300000,1,6,2,2,10,0,Approved
+HL02215,Velachery,Branch,5550000,1,5,2,1,8,1,Pending
+HL02216,Tambaram,Partner,7800000,0,1,8,1,10,0,Rejected
+HL02217,Velachery,Branch,5400000,0,4,3,2,9,0,Approved
+HL02218,Adyar,Branch,2200000,0,1,2,1,4,1,Rejected
+HL02219,T Nagar,Branch,7000000,0,3,4,2,9,0,Rejected
+HL02220,Velachery,Digital,4550000,0,2,3,1,6,1,Approved
+HL02221,Velachery,Partner,2150000,0,2,6,1,9,0,Approved
+HL02222,Adyar,Branch,2200000,0,2,4,1,7,1,Rejected
+HL02223,Anna Nagar,Branch,6650000,1,7,3,1,11,0,Rejected
+HL02224,Velachery,Digital,7450000,0,3,5,3,11,0,Approved
+HL02225,Velachery,Partner,6250000,0,3,5,1,9,0,Rejected
+HL02226,T Nagar,Digital,650000,0,3,3,2,8,1,Approved
+HL02227,Velachery,Partner,3550000,0,1,6,1,8,1,Approved
+HL02228,Adyar,Digital,3750000,0,3,2,1,6,1,Approved
+HL02229,Tambaram,Partner,5700000,0,3,5,2,10,0,Approved
+HL02230,T Nagar,Digital,2850000,0,3,2,1,6,1,Approved
+HL02231,Anna Nagar,Partner,5900000,0,3,5,1,9,0,Approved
+HL02232,Adyar,Partner,1450000,1,6,5,3,14,0,Rejected
+HL02233,Anna Nagar,Branch,1150000,0,4,2,2,8,1,Approved
+HL02234,Velachery,Branch,4650000,0,1,4,2,7,1,Approved
+HL02235,T Nagar,Partner,7100000,0,2,6,1,9,0,Approved
+HL02236,Tambaram,Digital,5200000,0,1,7,1,9,0,Rejected
+HL02237,Anna Nagar,Digital,6250000,0,1,4,2,7,1,Approved
+HL02238,Tambaram,Branch,3800000,0,3,4,3,10,0,Rejected
+HL02239,T Nagar,Partner,6000000,0,2,7,1,10,0,Pending
+HL02240,T Nagar,Partner,2300000,0,4,7,2,13,0,Approved
+HL02241,Anna Nagar,Partner,1650000,0,3,6,2,11,0,Approved
+HL02242,Tambaram,Digital,1500000,0,2,3,1,6,1,Pending
+HL02243,Anna Nagar,Digital,1850000,0,2,3,1,6,1,Approved
+HL02244,Adyar,Branch,650000,0,1,4,2,7,1,Approved
+HL02245,Velachery,Digital,7200000,0,1,5,2,8,1,Pending
+HL02246,Velachery,Branch,2200000,0,4,1,3,8,1,Pending
+HL02247,Velachery,Digital,3400000,0,2,2,1,5,1,Approved
+HL02248,Velachery,Partner,450000,0,4,6,3,13,0,Approved
+HL02249,Velachery,Partner,7650000,0,2,4,2,8,1,Approved
+HL02250,Anna Nagar,Branch,3300000,0,2,7,1,10,0,Approved
+HL02251,T Nagar,Digital,7600000,0,2,4,2,8,1,Approved
+HL02252,T Nagar,Partner,2700000,0,2,5,1,8,1,Pending
+HL02253,Tambaram,Digital,6650000,0,2,1,2,5,1,Rejected
+HL02254,Velachery,Branch,2050000,0,2,6,2,10,0,Approved
+HL02255,Tambaram,Branch,4850000,0,2,5,3,10,0,Rejected
+HL02256,Anna Nagar,Branch,2350000,0,3,2,1,6,1,Rejected
+HL02257,T Nagar,Branch,6350000,0,2,2,2,6,1,Approved
+HL02258,T Nagar,Branch,8000000,0,1,3,3,7,1,Pending
+HL02259,Tambaram,Partner,2550000,0,3,6,2,11,0,Approved
+HL02260,Tambaram,Digital,2500000,0,2,5,1,8,1,Approved
+HL02261,Adyar,Partner,1600000,0,3,4,3,10,0,Rejected
+HL02262,Velachery,Digital,5750000,1,4,2,2,8,1,Approved
+HL02263,Adyar,Digital,7150000,1,4,5,2,11,0,Approved
+HL02264,Adyar,Branch,800000,0,4,4,1,9,0,Rejected
+HL02265,T Nagar,Partner,3000000,0,2,8,2,12,0,Approved
+HL02266,T Nagar,Digital,5000000,0,4,6,1,11,0,Pending
+HL02267,Tambaram,Branch,6850000,1,6,7,2,15,0,Approved
+HL02268,Tambaram,Partner,1300000,1,7,6,2,15,0,Approved
+HL02269,Tambaram,Branch,3000000,0,3,2,3,8,1,Approved
+HL02270,Anna Nagar,Partner,5400000,0,3,8,2,13,0,Approved
+HL02271,T Nagar,Branch,5850000,0,2,3,4,9,0,Approved
+HL02272,Velachery,Partner,3850000,1,4,6,1,11,0,Approved
+HL02273,T Nagar,Branch,2350000,0,4,1,1,6,1,Approved
+HL02274,Tambaram,Digital,2250000,0,1,3,2,6,1,Approved
+HL02275,T Nagar,Digital,6000000,0,1,3,1,5,1,Rejected
+HL02276,Adyar,Partner,2650000,0,3,5,2,10,0,Approved
+HL02277,T Nagar,Digital,1600000,0,3,3,2,8,1,Approved
+HL02278,Anna Nagar,Branch,5250000,0,2,4,2,8,1,Rejected
+HL02279,Anna Nagar,Branch,1850000,1,5,5,1,11,0,Approved
+HL02280,Tambaram,Digital,4450000,0,1,2,2,5,1,Rejected
+HL02281,Velachery,Digital,3300000,0,3,5,2,10,0,Approved
+HL02282,Velachery,Branch,1850000,0,4,1,2,7,1,Approved
+HL02283,T Nagar,Digital,3050000,0,2,4,2,8,1,Approved
+HL02284,Tambaram,Digital,3850000,0,3,2,1,6,1,Rejected
+HL02285,Tambaram,Branch,1850000,0,3,6,2,11,0,Approved
+HL02286,T Nagar,Digital,7500000,0,1,4,2,7,1,Approved
+HL02287,Anna Nagar,Digital,1750000,0,2,3,3,8,1,Pending
+HL02288,Velachery,Branch,4600000,0,1,6,2,9,0,Rejected
+HL02289,Adyar,Branch,2150000,0,5,4,2,11,0,Approved
+HL02290,Tambaram,Digital,450000,0,2,4,1,7,1,Approved
+HL02291,Tambaram,Branch,2800000,0,2,5,2,9,0,Approved
+HL02292,Anna Nagar,Branch,3100000,0,3,7,2,12,0,Approved
+HL02293,Tambaram,Branch,6700000,0,2,3,1,6,1,Approved
+HL02294,Anna Nagar,Branch,1650000,0,1,5,1,7,1,Rejected
+HL02295,Adyar,Branch,7000000,0,5,6,1,12,0,Rejected
+HL02296,T Nagar,Branch,5900000,0,3,4,2,9,0,Pending
+HL02297,Adyar,Branch,3100000,0,3,4,2,9,0,Approved
+HL02298,Velachery,Branch,5750000,0,3,3,1,7,1,Approved
+HL02299,Tambaram,Digital,3250000,0,2,2,1,5,1,Approved
+HL02300,Adyar,Digital,5250000,0,3,4,1,8,1,Rejected
+HL02301,Velachery,Branch,4200000,0,2,7,1,10,0,Approved
+HL02302,T Nagar,Branch,6100000,0,1,5,3,9,0,Approved
+HL02303,Velachery,Partner,6650000,0,2,4,1,7,1,Approved
+HL02304,T Nagar,Branch,7700000,0,3,1,2,6,1,Approved
+HL02305,T Nagar,Digital,6000000,0,2,4,4,10,0,Rejected
+HL02306,Anna Nagar,Partner,2150000,0,2,4,1,7,1,Rejected
+HL02307,Velachery,Branch,350000,0,3,4,2,9,0,Approved
+HL02308,Tambaram,Branch,700000,0,1,2,3,6,1,Approved
+HL02309,Anna Nagar,Partner,350000,0,4,4,2,10,0,Approved
+HL02310,Adyar,Partner,6400000,0,2,6,3,11,0,Approved
+HL02311,Tambaram,Digital,450000,0,2,6,1,9,0,Pending
+HL02312,Velachery,Branch,7850000,1,5,5,2,12,0,Approved
+HL02313,Adyar,Digital,5550000,0,3,3,2,8,1,Rejected
+HL02314,T Nagar,Branch,6250000,0,2,1,1,4,1,Approved
+HL02315,T Nagar,Branch,7700000,0,4,3,2,9,0,Approved
+HL02316,Velachery,Partner,900000,0,2,8,1,11,0,Approved
+HL02317,Anna Nagar,Branch,2300000,0,2,1,3,6,1,Rejected
+HL02318,Velachery,Digital,3300000,0,3,2,1,6,1,Rejected
+HL02319,T Nagar,Branch,4900000,1,4,2,1,7,1,Approved
+HL02320,Tambaram,Digital,1650000,1,7,5,2,14,0,Approved
+HL02321,T Nagar,Digital,600000,1,4,7,3,14,0,Approved
+HL02322,Tambaram,Branch,3550000,0,2,4,1,7,1,Approved
+HL02323,Anna Nagar,Branch,4450000,0,2,2,2,6,1,Approved
+HL02324,Velachery,Partner,5500000,0,2,6,1,9,0,Approved
+HL02325,Velachery,Digital,6000000,0,1,5,1,7,1,Approved
+HL02326,Anna Nagar,Branch,6950000,1,5,7,2,14,0,Approved
+HL02327,T Nagar,Branch,2750000,0,3,3,1,7,1,Pending
+HL02328,Adyar,Partner,1900000,1,4,4,1,9,0,Approved
+HL02329,T Nagar,Partner,4700000,0,4,9,3,16,0,Rejected
+HL02330,Velachery,Branch,4650000,0,1,4,4,9,0,Rejected
+HL02331,T Nagar,Branch,650000,0,1,5,2,8,1,Approved
+HL02332,T Nagar,Branch,6450000,1,4,9,2,15,0,Approved
+HL02333,T Nagar,Branch,5500000,0,1,4,2,7,1,Pending
+HL02334,Tambaram,Branch,5050000,1,4,2,1,7,1,Rejected
+HL02335,T Nagar,Branch,2650000,0,2,1,1,4,1,Pending
+HL02336,Anna Nagar,Branch,2750000,0,1,4,2,7,1,Approved
+HL02337,Tambaram,Partner,3150000,0,3,6,2,11,0,Rejected
+HL02338,Velachery,Digital,7550000,0,1,5,2,8,1,Approved
+HL02339,T Nagar,Branch,7300000,0,3,4,2,9,0,Approved
+HL02340,Anna Nagar,Branch,1150000,0,1,2,1,4,1,Approved
+HL02341,Adyar,Digital,5700000,0,4,3,2,9,0,Approved
+HL02342,Velachery,Branch,7200000,0,3,2,2,7,1,Approved
+HL02343,Velachery,Digital,2500000,0,1,4,1,6,1,Approved
+HL02344,Tambaram,Partner,3850000,0,4,7,2,13,0,Rejected
+HL02345,Tambaram,Digital,1600000,0,2,3,1,6,1,Approved
+HL02346,Anna Nagar,Partner,1550000,0,4,9,2,15,0,Approved
+HL02347,T Nagar,Digital,6750000,0,4,7,3,14,0,Pending
+HL02348,Tambaram,Branch,5200000,0,2,4,1,7,1,Approved
+HL02349,T Nagar,Partner,4750000,1,4,5,1,10,0,Approved
+HL02350,T Nagar,Branch,7550000,0,3,7,3,13,0,Approved
+HL02351,Velachery,Digital,1000000,0,2,6,2,10,0,Rejected
+HL02352,Tambaram,Digital,5900000,0,2,1,2,5,1,Pending
+HL02353,Velachery,Branch,2950000,0,3,5,4,12,0,Approved
+HL02354,Anna Nagar,Branch,4050000,0,2,1,2,5,1,Approved
+HL02355,Anna Nagar,Digital,6750000,0,2,4,1,7,1,Approved
+HL02356,T Nagar,Digital,850000,0,3,2,1,6,1,Approved
+HL02357,T Nagar,Digital,4500000,0,2,3,2,7,1,Approved
+HL02358,Adyar,Branch,1100000,0,2,3,2,7,1,Approved
+HL02359,Velachery,Digital,1650000,0,4,3,2,9,0,Approved
+HL02360,Anna Nagar,Branch,3700000,0,3,2,3,8,1,Rejected
+HL02361,Adyar,Digital,6600000,0,2,5,2,9,0,Approved
+HL02362,Anna Nagar,Partner,5250000,0,2,8,1,11,0,Approved
+HL02363,Tambaram,Branch,2350000,0,2,5,3,10,0,Pending
+HL02364,Adyar,Branch,850000,0,2,2,1,5,1,Approved
+HL02365,Tambaram,Digital,500000,0,1,6,1,8,1,Approved
+HL02366,Adyar,Branch,2500000,0,3,3,1,7,1,Pending
+HL02367,Anna Nagar,Partner,6100000,0,2,6,2,10,0,Approved
+HL02368,Anna Nagar,Digital,4550000,1,4,4,1,9,0,Approved
+HL02369,Velachery,Digital,2900000,0,3,6,2,11,0,Approved
+HL02370,Adyar,Digital,6400000,0,2,4,2,8,1,Approved
+HL02371,T Nagar,Branch,1800000,0,3,1,1,5,1,Approved
+HL02372,Velachery,Digital,1900000,0,1,3,1,5,1,Approved
+HL02373,Tambaram,Branch,6900000,0,4,5,3,12,0,Approved
+HL02374,Anna Nagar,Branch,4750000,0,3,2,2,7,1,Approved
+HL02375,T Nagar,Digital,750000,0,3,5,2,10,0,Approved
+HL02376,T Nagar,Digital,5800000,1,6,2,3,11,0,Pending
+HL02377,Anna Nagar,Digital,3450000,0,4,3,2,9,0,Approved
+HL02378,Adyar,Digital,7650000,0,5,4,3,12,0,Approved
+HL02379,Adyar,Branch,5300000,0,3,5,3,11,0,Approved
+HL02380,Anna Nagar,Branch,1000000,0,4,3,3,10,0,Rejected
+HL02381,Tambaram,Digital,1550000,0,3,6,3,12,0,Approved
+HL02382,Velachery,Partner,5150000,0,2,5,1,8,1,Approved
+HL02383,Tambaram,Branch,7350000,0,2,1,1,4,1,Pending
+HL02384,Adyar,Branch,6800000,0,3,4,2,9,0,Approved
+HL02385,Anna Nagar,Digital,2150000,0,3,1,1,5,1,Approved
+HL02386,Anna Nagar,Digital,5700000,0,3,5,1,9,0,Rejected
+HL02387,T Nagar,Partner,1550000,0,2,4,2,8,1,Approved
+HL02388,Tambaram,Branch,2800000,0,2,3,3,8,1,Approved
+HL02389,Tambaram,Digital,6750000,0,2,4,1,7,1,Approved
+HL02390,T Nagar,Digital,5700000,1,5,5,1,11,0,Approved
+HL02391,Anna Nagar,Digital,6700000,0,1,5,1,7,1,Rejected
+HL02392,Anna Nagar,Digital,3900000,0,2,1,2,5,1,Approved
+HL02393,Anna Nagar,Digital,6500000,0,3,5,2,10,0,Approved
+HL02394,Velachery,Digital,950000,1,5,5,1,11,0,Approved
+HL02395,Velachery,Partner,300000,0,4,3,1,8,1,Rejected
+HL02396,Anna Nagar,Branch,6600000,0,3,2,2,7,1,Approved
+HL02397,Tambaram,Digital,7650000,0,3,5,1,9,0,Approved
+HL02398,T Nagar,Digital,4050000,0,3,7,1,11,0,Approved
+HL02399,Anna Nagar,Partner,600000,0,2,6,2,10,0,Approved
+HL02400,Anna Nagar,Digital,4800000,0,2,1,2,5,1,Rejected
